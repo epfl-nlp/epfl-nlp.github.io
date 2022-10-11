@@ -1,0 +1,32 @@
+<section id="team">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Our team</h2>
+                <hr class="primary">
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <!-- <div class="row"> -->
+        {% for member in site.data.team %}
+            {% assign remainder = forloop.index | modulo: 4 %}
+
+            <div class="col-lg-3 col-md-4 text-center">
+                <div class="service-box">
+                    <img src="img/lab_members/{{ member.img }}" class="member-photo wow text-primary" data-wow-delay=".1s">
+                    <p><strong>{{ member.name }}</strong></p>
+                    <p class="text-muted">{{ member.role }}</p>
+                </div>
+            </div>
+
+            <!-- {% if forloop.first == true %}
+            {% elsif remainder == 0 %}
+              </div>
+              <div class="row">
+            {% endif %} -->
+        {% endfor %}
+        <!-- </div> -->
+        
+    </div>
+</section>
