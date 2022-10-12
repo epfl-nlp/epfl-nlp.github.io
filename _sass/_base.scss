@@ -268,6 +268,7 @@ section#team {
             max-width: 100%;
             overflow:hidden;
             object-fit: cover;
+            border: 1px solid black;
             /*filter: grayscale(100%) contrast(120%);*/
             transition: all .5s cubic-bezier(0.645, 0.045, 0.355, 1);
         }
