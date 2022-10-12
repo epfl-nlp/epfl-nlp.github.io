@@ -1,71 +1,89 @@
-- name: Angelika Romanou
+- first_name: Angelika
+  last_name: Romanou
   role: PhD student
   img: angelika_romanou.jpg
 
-- name: Antoine Bosselut
+- first_name: Antoine
+  last_name: Bosselut
   role: Assistant Professor, PI
   img: antoine_bosselut.jpg
 
-- name: Beatriz Borges
+- first_name: Beatriz
+  last_name: Borges
   role: PhD student
   img: beatriz_borges.jpg
 
-- name: Chantal Schneeberger 
-  role: Administrative Secretary
+- first_name: Chantal 
+  last_name: Schneeberger 
+  role: Administration
   img: chantal_schneeberger.jpg
 
-- name: Deniz Bayazit
+- first_name: Deniz
+  last_name: Bayazit
   role: PhD student
   img: na.jpg #deniz_bayazit.jpg
 
-- name: Ghali Chraïbi
+- first_name: Ghali
+  last_name: Chraïbi
   role: Master student
   img: ghali_chraïbi.jpg
 
-- name: Graciana Aad
+- first_name: Graciana
+  last_name: Aad
   role: Master student
   img: na.jpg #graciana_aad.jpg
 
-- name: Luca Zampierin
+- first_name: Luca
+  last_name: Zampierin
   role: Master student
   img: na.jpg #luca_zampierin.jpg
 
-- name: Maksim Zubkov
+- first_name: Maksim
+  last_name: Zubkov
   role: Master student
   img: na.jpg #maksim_zubkov.jpg
 
-- name: Mete Ismayilzada
+- first_name: Mete
+  last_name: Ismayilzada
   role: Master student
   img: mete_ismayilzada.jpg
 
-- name: Molly Petersen
+- first_name: Molly
+  last_name: Petersen
   role: PhD student
   img: molly_petersen.jpg
 
-- name: Negar Foroutan Eghlidi
+- first_name: Negar
+  last_name: Foroutan Eghlidi
   role: PhD student
   img: negar_foroutan_eghlidi.jpg
 
-- name: Saibo Geng
+- first_name: Saibo
+  last_name: Geng
   role: PhD student
   img: saibo_geng.jpg
 
-- name: Silin Gao
+- first_name: Silin
+  last_name: Gao
   role: PhD student
   img: silin_gao.jpg
 
-- name: Soyoung Oh
+- first_name: Soyoung
+  last_name: Oh
   role: PhD student
   img: soyoung_oh.jpg
 
-- name: Tim Poštuvan
+- first_name: Tim
+  last_name: Poštuvan
   role: Master student
   img: tim_poštuvan.jpg
 
-- name: Yu Fei
+- first_name: Yu
+  last_name: Fei
   role: Research intern
   img: yu_fei.jpg
 
-- name: Zeming Chen (Eric)
+- first_name: Zeming
+  last_name: Chen (Eric)
   role: PhD student
   img: zeming_chen_(eric).jpg

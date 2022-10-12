@@ -7,26 +7,40 @@
             </div>
         </div>
     </div>
+
     <div class="container">
-        <!-- <div class="row"> -->
-        {% for member in site.data.team %}
-            {% assign remainder = forloop.index | modulo: 4 %}
+        {% assign sorted_team = site.data.team | sort: "last_name" %}
+        <div class="row">
+            {% for member in sorted_team %}
 
-            <div class="col-lg-3 col-md-4 text-center">
-                <div class="service-box">
-                    <img src="img/lab_members/{{ member.img }}" class="member-photo wow text-primary" data-wow-delay=".1s">
-                    <p><strong>{{ member.name }}</strong></p>
-                    <p class="text-muted">{{ member.role }}</p>
+                {% if member.role == 'Master student' %}
+                {% else %}
+
+                <div class="col-lg-3 col-md-4 text-center">
+                    <div class="service-box">
+                        <img src="img/lab_members/{{ member.img }}" class="member-photo wow text-primary" data-wow-delay=".1s">
+                        <p><strong>{{ member.first_name }} {{ member.last_name}}</strong></p>
+                        <p class="text-muted">{{ member.role }}</p>
+                    </div>
                 </div>
-            </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+        <h2 class="section-heading">Master students</h2>
+        <div class="row">
+            {% for member in sorted_team %}
 
-            <!-- {% if forloop.first == true %}
-            {% elsif remainder == 0 %}
-              </div>
-              <div class="row">
-            {% endif %} -->
-        {% endfor %}
-        <!-- </div> -->
-        
+                {% if member.role == 'Master student' %}
+
+                <div class="col-lg-3 col-md-4 text-center">
+                    <div class="service-box">
+                        <img src="img/lab_members/{{ member.img }}" class="member-photo wow text-primary" data-wow-delay=".1s">
+                        <p><strong>{{ member.first_name }} {{ member.last_name}}</strong></p>
+                        <p class="text-muted">{{ member.role }}</p>
+                    </div>
+                </div>
+                {% endif %}
+            {% endfor %}
+        </div>  
     </div>
 </section>
