@@ -44,7 +44,7 @@
 
 - name: Negar Foroutan Eghlidi
   role: PhD student
-  img: na.jpg #
+  img: negar_foroutan_eghlidi.jpg
 
 - name: Saibo Geng
   role: PhD student
@@ -64,7 +64,7 @@
 
 - name: Yu Fei
   role: Research intern
-  img: na.jpg #yu_fei.jpg
+  img: yu_fei.jpg
 
 - name: Zeming Chen (Eric)
   role: PhD student
