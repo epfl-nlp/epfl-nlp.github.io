@@ -18,6 +18,11 @@
   role: Administration
   img: chantal_schneeberger.jpg
 
+- first_name: Debjit
+  last_name: Paul
+  role: Postdoc
+  img: debjit_paul.jpg
+
 - first_name: Deniz
   last_name: Bayazit
   role: PhD student
