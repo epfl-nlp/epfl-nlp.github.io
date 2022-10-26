@@ -7,7 +7,7 @@
       {{a.name}}{% if forloop.last %} ({{include.pub.year}}).{% else %},{% endif %}
       {% endif %}
     {% endfor %}
-    {{include.pub.journal}}.{% if include.pub.note %}{{include.pub.note}}.{% endif %}</p>
+    {{include.pub.journal}}. {% if include.pub.note %}{{include.pub.note}}.{% endif %}</p>
     {% if include.pub.code %}
       <div>
         <a href="{{include.pub.code}}" class="btn btn-primary"><i class="fa fa-code" aria-hidden="true"></i> Code</a>
@@ -40,7 +40,7 @@
     {% endif %}
     {% if include.pub.slides %}
       <div>
-        <a href="{{include.pub.slides}}" class="btn btn-primary"><i class="fa fa-photo" aria-hidden="true"></i>Slides</a> <!-- fa-bar-chart -->
+        <a href="{{include.pub.slides}}" class="btn btn-primary"><i class="fa fa-photo" aria-hidden="true"></i>Slides</a>
       </div>
 {% endif %}
 </div>

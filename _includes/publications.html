@@ -10,11 +10,15 @@
   <div class="container">
     <ul>
       {% assign pub_years = "" | split: ',' %}
+      {% assign pub_venues = "" | split: ',' %}
       {% for publications_hash in site.data.publications %}
         {% assign publications = publications_hash[1] %}
         {% assign pub_years = pub_years | push: publications[0].year %}
+        {% assign venue = publications_hash[0] | split:"-" | last %}
+        {% assign pub_venues = pub_venues| push:venue %}
       {% endfor %}
 
+      {% assign pub_venues = pub_venues | uniq | sort %}
       {% assign oldest_paper_year = pub_years | sort | first %}
       {% assign newest_paper_year = pub_years | sort | last %}
       
@@ -23,16 +27,19 @@
           <input type="checkbox">
           <i></i>
           <h3>{{year}}</h3>
-          {% for publications_hash in site.data.publications %}
-            {% assign pub = publications_hash[1][0] %}
+          {% for venue in pub_venues %}
+            {% for publications_hash in site.data.publications %}
+              {% assign pub_venue = publications_hash[0] | split:"-" | last %}
+              {% assign pub = publications_hash[1][0] %}
 
-            {% if pub.year == year %}
-
-            {% include components/publication.html 
-              pub = pub
-            %}
-              
-            {% endif %}
+              {% if pub.year == year %}
+                {% if pub_venue == venue %}
+                  {% include components/publication.html 
+                    pub = pub
+                  %}
+                {% endif %}
+              {% endif %}
+            {% endfor %}
           {% endfor %}
         </li>
       {% endfor %}
@@ -42,14 +49,19 @@
         <h3>Selected 2020 and earlier papers</h3>
         {% for year in (oldest_paper_year..2020) reversed %}
 
-          {% for publications_hash in site.data.publications %}
-            {% assign pub = publications_hash[1][0] %}
+          {% for venue in pub_venues %}
+            {% for publications_hash in site.data.publications %}
+              {% assign pub_venue = publications_hash[0] | split:"-" | last %}
+              {% assign pub = publications_hash[1][0] %}
 
-            {% if pub.year == year %}       
-              {% include components/publication.html 
-                pub = pub
-              %}
-            {% endif %}
+              {% if pub.year == year %}  
+                {% if pub_venue == venue %}     
+                  {% include components/publication.html 
+                    pub = pub
+                  %}
+                {% endif %}
+              {% endif %}
+            {% endfor %}
           {% endfor %}
         {% endfor %}
       </li>
