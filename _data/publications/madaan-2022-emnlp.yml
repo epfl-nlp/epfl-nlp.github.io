@@ -1,0 +1,17 @@
+- title: "Conditional set generation using Seq2seq models"
+  authors:
+    -
+      name: Aman Madaan
+    -
+      name: Dheeraj Rajagopal
+    -
+      name: Niket Tandon
+    -
+      name: Yiming Yang
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+
+  year: 2022
+  journal: Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)
+  link: https://arxiv.org/abs/2205.12485

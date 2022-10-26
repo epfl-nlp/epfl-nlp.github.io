@@ -1,0 +1,22 @@
+- title: "Simulating Action Dynamics with Neural Process Networks"
+  authors:
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Omer Levy
+    -
+      name: Ari Holtzman
+    -
+      name: Corin Ennis
+    -
+      name: Dieter Fox
+    -
+      name: Yejin Choi
+
+  year: 2018
+  journal: Proceedings of the 6th International Conference for Learning Representations (ICLR)
+  link: https://arxiv.org/pdf/1711.05313
+  dataset: https://drive.google.com/file/d/1mBE5LoWz6vGVHarzz8fWNZ9_9-hT51Bb/view?usp=sharing
+  poster: https://atcbosselut.github.io/publication/bosselut-2017-simulating-ad/poster.pdf
+  video: https://youtu.be/TsKZHpDXIEY?t=1087

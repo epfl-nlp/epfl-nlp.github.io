@@ -1,0 +1,15 @@
+- title: "Synthetic Disinformation Attacks on Automated Fact Verification Systems"
+  authors:
+    -
+      name: Yibing Du
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Christopher D. Manning
+
+  year: 2022
+  journal: Proceedings of the 36th AAAI Conference on Artificial Intelligence (AAAI)
+  link: https://arxiv.org/abs/2202.09381
+  code: https://github.com/Yibing-Du/adversarial-factcheck
+  video: https://slideslive.com/38977068/synthetic-disinformation-attacks-on-automated-fact-verification-systems

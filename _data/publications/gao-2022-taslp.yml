@@ -1,0 +1,16 @@
+- title: "End-to-End Task-Oriented Dialog Modeling with Semi-Structured Knowledge Management"
+  authors:
+    -
+      name: Silin Gao
+      nlp-lab: true
+    -
+      name: Ryuichi Takanobu
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Minlie Huang
+
+  year: 2022
+  journal: IEEE/ACM Transactions on Audio Speech and Language (TASLP)
+  link: https://arxiv.org/abs/2106.11796

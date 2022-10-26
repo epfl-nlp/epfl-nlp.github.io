@@ -1,0 +1,21 @@
+- title: "Counterfactual Story Reasoning and Generation"
+  authors:
+    -
+      name: Lianhui Qin
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Ari Holtzman
+    -
+      name: Chandra Bhagavatula
+    -
+      name: Elizabeth Clark
+    -
+      name: Yejin Choi
+
+  year: 2019
+  journal: Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)
+  link: https://arxiv.org/abs/1909.04076
+  code: https://github.com/qkaren/Counterfactual-StoryRW
+  dataset: https://drive.google.com/file/d/150jP5FEHqJD3TmTO_8VGdgqBftTDKn4w/view?usp=sharing

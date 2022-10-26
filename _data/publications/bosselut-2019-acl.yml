@@ -1,0 +1,22 @@
+- title: "COMET: Commonsense Transformers for Automatic Knowledge Graph Construction"
+  authors:
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Hannah Rashkin
+    -
+      name: Maarten Sap
+    -
+      name: Chaitanya Malaviya
+    -
+      name: Asli Çelikyilmaz
+    -
+      name: Yejin Choi
+
+  year: 2019
+  journal: Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL)
+  link: http://arxiv.org/pdf/1906.05317.pdf
+  code: https://github.com/atcbosselut/comet-commonsense
+  poster: https://atcbosselut.github.io/publication/bosselut-2019-cometct/poster.pdf
+  video: https://www.youtube.com/watch?time_continue=2&v=HTE27VVwsNY

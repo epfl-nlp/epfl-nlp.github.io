@@ -1,0 +1,18 @@
+- title: "Analyzing Commonsense Emergence in Few-shot Knowledge Models"
+  authors:
+    -
+      name: Jeff Da
+    -
+      name: Ronan Le Bras
+    -
+      name: Ximing Lu
+    -
+      name: Yejin Choi
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+
+  year: 2021
+  journal: Proceedings of the 3rd Conference on Automated Knowledge Base Construction (AKBC)
+  link: https://arxiv.org/abs/2101.00297
+  code: https://github.com/allenai/few-shot-comet/

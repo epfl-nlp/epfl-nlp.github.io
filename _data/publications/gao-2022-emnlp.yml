@@ -1,0 +1,20 @@
+- title: "ComFact: A Benchmark for Linking Contextual Commonsense Knowledge"
+  authors:
+    -
+      name: Silin Gao
+      nlp-lab: true
+    -
+      name: Jena D. Hwang
+    -
+      name: Saya Kanno
+    -
+      name: Hiromi Wakaki
+    -
+      name: Yuki Mitsufuji
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+
+  year: 2022
+  journal: Findings of EMNLP
+  link: 

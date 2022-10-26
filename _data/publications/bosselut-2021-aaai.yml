@@ -1,0 +1,13 @@
+- title: "Dynamic Neuro-Symbolic Knowledge Graph Construction for Zero-shot Commonsense Question Answering"
+  authors:
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Ronan Le Bras
+    -
+      name: Yejin Choi
+
+  year: 2021
+  journal: Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI)
+  link: https://arxiv.org/abs/1911.03876

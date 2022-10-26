@@ -1,0 +1,24 @@
+- title: "GreaseLM: Graph REASoning Enhanced Language Models for Question Answering"
+  authors:
+    -
+      name: Xikun Zhang
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Michihiro Yasunaga
+    -
+      name: Hongyu Ren
+    -
+      name: Percy Liang
+    -
+      name: Christopher D. Manning
+    -
+      name: Jure Leskovec
+
+  year: 2022
+  journal: Proceedings of the 10th International Conference for Learning Representations (ICLR)
+  note: Spotlight (Top 5%)
+  link: https://arxiv.org/abs/2201.08860
+  code: https://github.com/snap-stanford/GreaseLM
+  video: https://www.youtube.com/watch?v=evlTavT4Qu4

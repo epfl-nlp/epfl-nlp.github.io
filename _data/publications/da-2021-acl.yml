@@ -1,0 +1,22 @@
+- title: "Edited Media Understanding Frames: Reasoning About the Intents and Implications of Visual Disinformation"
+  authors:
+    -
+      name: Jeff Da
+    -
+      name: Maxwell Forbes
+    -
+      name: Rowan Zellers
+    -
+      name: Anthony Zheng
+    -
+      name: Jena D. Hwang
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Yejin Choi
+
+  year: 2021
+  journal: Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL)
+  link: https://aclanthology.org/2021.acl-long.158/
+  dataset: https://jeffda.com/edited-media-understanding

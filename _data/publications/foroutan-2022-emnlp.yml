@@ -1,0 +1,18 @@
+- title: "Discovering Language-neutral Sub-networks in Multilingual Language Models"
+  authors:
+    -
+      name: Negar Foroutan
+      nlp-lab: true
+    -
+      name: Mohammadreza Banaei
+    -
+      name: Remi Lebret
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Karl Aberer
+
+  year: 2022
+  journal: Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)
+  link: https://arxiv.org/abs/2205.12672

@@ -1,0 +1,17 @@
+- title: "Conversational Multi-Hop Reasoning with Neural Commonsense Knowledge and Symbolic Logic Rules"
+  authors:
+    -
+      name: Forough Arabshahi
+    -
+      name: Jennifer Lee
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Yejin Choi
+    -
+      name: Tom Mitchell
+
+  year: 2021
+  journal: Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)
+  link: https://arxiv.org/abs/2109.08544
