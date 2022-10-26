@@ -1,0 +1,21 @@
+- title: "Modeling Naive Psychology of Characters in Simple Commonsense Stories"
+  authors:
+    -
+      name: Hannah Rashkin
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Maarten Sap
+    -
+      name: Kevin Knight
+    -
+      name: Yejin Choi
+
+  year: 2018
+  journal: Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL)
+  link: https://arxiv.org/pdf/1805.06533.pdf
+  code: https://github.com/atcbosselut/scs-baselines
+  dataset: https://uwnlp.github.io/storycommonsense/data/storycommonsense_data.zip
+  project: https://uwnlp.github.io/storycommonsense/
+  slides: https://atcbosselut.github.io/publication/rashkin-2018-modeling-np/slides.pdf

@@ -1,0 +1,58 @@
+<section id="publications">
+  <div class="container">
+      <div class="row">
+          <div class="col-lg-12 text-center">
+              <h2 class="section-heading">Publications</h2>
+              <hr class="primary">
+          </div>
+      </div>
+  </div>
+  <div class="container">
+    <ul>
+      {% assign pub_years = "" | split: ',' %}
+      {% for publications_hash in site.data.publications %}
+        {% assign publications = publications_hash[1] %}
+        {% assign pub_years = pub_years | push: publications[0].year %}
+      {% endfor %}
+
+      {% assign oldest_paper_year = pub_years | sort | first %}
+      {% assign newest_paper_year = pub_years | sort | last %}
+      
+      {% for year in (2021..newest_paper_year) reversed %}
+        <li>
+          <input type="checkbox">
+          <i></i>
+          <h3>{{year}}</h3>
+          {% for publications_hash in site.data.publications %}
+            {% assign pub = publications_hash[1][0] %}
+
+            {% if pub.year == year %}
+
+            {% include components/publication.html 
+              pub = pub
+            %}
+              
+            {% endif %}
+          {% endfor %}
+        </li>
+      {% endfor %}
+      <li>
+        <input type="checkbox">
+        <i></i>
+        <h3>Selected 2020 and earlier papers</h3>
+        {% for year in (oldest_paper_year..2020) reversed %}
+
+          {% for publications_hash in site.data.publications %}
+            {% assign pub = publications_hash[1][0] %}
+
+            {% if pub.year == year %}       
+              {% include components/publication.html 
+                pub = pub
+              %}
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+      </li>
+    </ul>
+  </div>
+</section>

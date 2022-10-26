@@ -13,8 +13,7 @@
         <div class="row">
             {% for member in sorted_team %}
 
-                {% if member.role == 'Master student' %}
-                {% else %}
+                {% if member.role != 'Master student' %}
 
                 <div class="col-lg-3 col-md-4 text-center">
                     <div class="service-box">

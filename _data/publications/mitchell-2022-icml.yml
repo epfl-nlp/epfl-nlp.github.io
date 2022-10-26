@@ -1,0 +1,20 @@
+- title: "Memory-Based Model Editing at Scale"
+  authors:
+    -
+      name: Eric Mitchell
+    -
+      name: Charles Lin
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Christopher D. Manning
+    -
+      name: Chelsea Finn
+
+  year: 2022
+  journal: Proceedings of the 39th International Conference on Machine Learning (ICML)
+  link: https://arxiv.org/abs/2206.06520
+  code: https://sites.google.com/view/serac-editing
+  project: https://sites.google.com/view/serac-editing
+  video: https://slideslive.com/38983687

@@ -1,0 +1,22 @@
+- title: "(Comet-)Atomic 2020: On Symbolic and Neural Commonsense Knowledge Graphs"
+  authors:
+    -
+      name: Jena D. Hwang
+    -
+      name: Chandra Bhagavatula
+    -
+      name: Ronan Le Bras
+    -
+      name: Jeff Da
+    -
+      name: Keisuke Sakaguchi
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Yejin Choi
+
+  year: 2021
+  journal: Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI)
+  link: https://arxiv.org/abs/2010.05953
+  code: https://github.com/allenai/comet-atomic-2020

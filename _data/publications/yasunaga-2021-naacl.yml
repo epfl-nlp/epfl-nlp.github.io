@@ -1,0 +1,19 @@
+- title: "QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering"
+  authors:
+    -
+      name: Michihiro Yasunaga
+    -
+      name: Hongyu Ren
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Percy Liang
+    -
+      name: Jure Leskovec
+
+  year: 2021
+  journal: Proceedings of the 18th Meeting of the North American Association for Computational Linguistics (NAACL)
+  link: https://arxiv.org/abs/2104.06378
+  code: https://github.com/michiyasunaga/qagnn
+  project: http://snap.stanford.edu/qagnn/

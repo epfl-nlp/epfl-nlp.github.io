@@ -1,0 +1,19 @@
+- title: "Learning Prototypical Event Structure from Photo Albums"
+  authors:
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Jianfu Chen
+    -
+      name: David Warren
+    -
+      name: Hannaneh Hajishirzi
+    -
+      name: Yejin Choi
+
+  year: 2016
+  journal: Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (ACL)
+  link: https://www.aclweb.org/anthology/P16-1167.pdf
+  dataset: https://drive.google.com/file/d/1zSO8BcpbGSNVAXHlMZQJT_RJwPNO4RYI/view?usp=sharing
+  project: https://atcbosselut.github.io/project/protoevents/

@@ -1,0 +1,22 @@
+- title: "Deep Bidirectional Language-Knowledge Graph Pretraining"
+  authors:
+    -
+      name: Michihiro Yasunaga
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Hongyu Ren
+    -
+      name: Xikun Zhang
+    -
+      name: Christopher D. Manning
+    -
+      name: Percy Liang
+    -
+      name: Jure Leskovec
+
+  year: 2022
+  journal: Advances in Neural Information Processing Systems (NeurIPS)
+  link: https://arxiv.org/abs/2210.09338
+  code: https://github.com/michiyasunaga/dragon

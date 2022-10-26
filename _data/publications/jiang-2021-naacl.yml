@@ -1,0 +1,17 @@
+- title: "I'm Not Mad: Commonsense Implications of Negation and Contradiction"
+  authors:
+    -
+      name: Liwei Jiang
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Chandra Bhagavatula
+    -
+      name: Yejin Choi
+
+  year: 2021
+  journal: Proceedings of the 18th Meeting of the North American Association for Computational Linguistics (NAACL)
+  link: https://arxiv.org/abs/2104.06511
+  code: https://github.com/liweijiang/anion
+  dataset: https://drive.google.com/file/d/1WmI7SbXqIGUb8AbiF9XPwt2DfR2FBXgP/view?usp=sharing

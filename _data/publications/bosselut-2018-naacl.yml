@@ -1,0 +1,21 @@
+- title: "Discourse-Aware Neural Rewards for Coherent Text Generation"
+  authors:
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Asli Çelikyilmaz
+    -
+      name: Xiaodong He
+    -
+      name: Jianfeng Gao
+    -
+      name: Po-Sen Huang
+    -
+      name: Yejin Choi
+
+  year: 2018
+  journal: Proceedings of the 16th Annual Meeting of the North American Association for Computational Linguistics (NAACL)
+  link: https://arxiv.org/pdf/1805.03766.pdf
+  dataset: https://drive.google.com/file/d/1DPInlRPcCbXVUz8v6YITnOglrlipHshQ/view?usp=sharing
+  poster: https://atcbosselut.github.io/publication/bosselut-2018-discourse-aware-nr/poster.pdf
