@@ -291,6 +291,13 @@ section#not-found {
 section#publications {
     ul li>div {
         padding: 10px;
+
+        p.award {
+            margin-top: 5px;
+            color: $theme-primary-attention;
+            font-weight: bold;
+        }
+        
         div {
             padding: 5px;
             display: inline-block;
