@@ -10,3 +10,7 @@ github_username:
 
 # Build settings
 markdown: kramdown
+
+sass:
+    sass_dir: styles/_sass
+    style: compressed

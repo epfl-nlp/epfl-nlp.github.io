@@ -41,6 +41,6 @@ $landing-image-darkening: 0.6;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "styles/_sass/mixins",
-        "styles/_sass/base"
+        "mixins",
+        "base"
 ;
