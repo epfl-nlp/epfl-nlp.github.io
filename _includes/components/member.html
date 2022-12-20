@@ -1,0 +1,34 @@
+<div class="col-lg-3 col-md-4 text-center">
+    <div class="service-box">
+        <img src="{{url}}/resources/img/lab_members/{{ include.member.img }}" class="member-photo wow text-primary" data-wow-delay=".1s">
+        <p><strong>{{ include.member.first_name }} {{ include.member.last_name}}</strong></p>
+        <p class="text-muted">{{ include.member.role }}</p>
+        <div class="socials">
+        {% if include.member.website %}
+          <div>
+            <a href="{{ include.member.website}}" class="btn btn-primary"><i class="fa fa-link wow bounceIn" aria-hidden="true"></i><!-- Website --></a>
+          </div>
+        {% endif %}
+        {% if include.member.twitter %}
+          <div>
+            <a href="{{include.member.twitter}}" class="btn btn-primary"><i class="fa fa-twitter wow bounceIn" aria-hidden="true"></i><!-- Twitter --></a>
+          </div>
+        {% endif %}
+        {% if include.member.google_scholar %}
+          <div>
+            <a href="{{include.member.google_scholar}}" class="btn btn-primary"><i class="fa fa-google wow bounceIn" aria-hidden="true"></i><!-- Google Scholar --></a>
+          </div>
+        {% endif %}
+        {% if include.member.semantic_scholar %}
+          <div>
+            <a href="{{include.member.semantic_scholar}}" class="btn btn-primary"><i class="fa fa-graduation-cap wow bounceIn" aria-hidden="true"></i><!-- Semantic Scholar --></a>
+          </div>
+        {% endif %}
+        {% if include.member.github %}
+          <div>
+            <a href="{{include.member.github}}" class="btn btn-primary"><i class="fa fa-github wow bounceIn" aria-hidden="true"></i><!-- Github --></a>
+          </div>
+        {% endif %}
+        </div>
+    </div>
+</div>

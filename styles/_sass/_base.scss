@@ -273,6 +273,37 @@ section#team {
             transition: all .5s cubic-bezier(0.645, 0.045, 0.355, 1);
         }
 
+        div.socials {
+            height: 3.75rem;
+            padding: 0 auto;
+            & div {
+                display: inline-block;
+                margin: 0 0.25rem 0 0.25rem;
+                & a {
+                    width: 3.75rem;
+                    height: 3.75rem;
+                    padding: 0.67rem 0.5rem 0.5rem 0.597rem;
+                    color: $theme-primary;
+                    background: white;
+                    border: $theme-primary 1px solid;
+
+                    &:hover {
+                        color: white;
+                        background: $theme-primary;
+                    }
+
+                    & i {
+                        font-size: 1.75em;
+
+                        &.fa-graduation-cap {
+                            font-size: 1.35em;
+                            margin-top: 0.2rem;
+                        }
+                    }
+                } 
+            }  
+        }
+
         /*&:hover {
             img {
                 filter: none;
