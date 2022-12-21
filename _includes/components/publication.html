@@ -1,5 +1,5 @@
 <div>
-    <p>{% if pub.link %}<a href="{{include.pub.link}}">{{include.pub.title}}</a>{% else %}{{include.pub.title}}{% endif %}.
+    <p>{% if include.pub.link %}<a href="{{include.pub.link}}">{{include.pub.title}}</a>{% else %}{{include.pub.title}}{% endif %}.
       {% for a in include.pub.authors %}
         {% if a.nlp-lab %}<strong>{{a.name}}</strong>{% else %}{{a.name}}{% endif %}{% if forloop.last %} ({{include.pub.year}}).{% else %},{% endif %}
     {% endfor %}
