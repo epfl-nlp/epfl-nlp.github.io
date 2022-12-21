@@ -152,11 +152,11 @@
   last_name: Oh
   role: PhD student
   img: soyoung_oh.jpg
-  website: 
-  twitter: 
-  google_scholar: 
+  website: https://sori424.github.io/
+  twitter: https://twitter.com/SoyoungOh5
+  google_scholar: https://scholar.google.co.kr/citations?user=-dKDQ6EAAAAJ&hl=ko
   semantic_scholar:
-  github: 
+  github: https://github.com/sori424
 
 - first_name: Tim
   last_name: Poštuvan
