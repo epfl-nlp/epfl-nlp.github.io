@@ -132,11 +132,11 @@
   last_name: Geng
   role: PhD student
   img: saibo_geng.jpg
-  website: 
-  twitter: 
-  google_scholar: 
+  website: https://saibo-creator.github.io/
+  twitter:
+  google_scholar: https://scholar.google.com/citations?user=Y194NbQAAAAJ 
   semantic_scholar:
-  github: 
+  github: https://github.com/saibo-creator
 
 - first_name: Silin
   last_name: Gao
