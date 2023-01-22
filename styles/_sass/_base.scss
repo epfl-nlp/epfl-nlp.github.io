@@ -67,6 +67,12 @@ aside {
     padding: 0;
 }
 
+.ai {
+    font-weight: 700 !important;
+}
+
+
+
 // Navigation
 
 .navbar-default {
@@ -355,6 +361,11 @@ section#publications {
 section#contact, section#publications {
     font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 
+
+    span.indented {
+        margin: 2% 0 0 1%;
+    }
+
     @media (max-width: 550px) {
         box-sizing: border-box;
         transform: translate(0, 0);
@@ -362,6 +373,10 @@ section#contact, section#publications {
         min-height: 100%;
         margin: 0;
         left: 0;
+
+        span.indented {
+            margin: 0;
+        }
     }
 
     p, ol {
