@@ -58,6 +58,17 @@
   semantic_scholar: https://www.semanticscholar.org/author/Deniz-Bayazit/49173521
   github: https://github.com/bayazitdeniz
 
+- first_name: Gail
+  last_name: Weiss
+  role: Postdoc
+  img: gail_weiss.jpg
+  website: https://gailweiss.github.io
+  twitter: https://twitter.com/gail_w
+  google_scholar: https://scholar.google.com/citations?user=qEc_VqcAAAAJ&hl=en
+  semantic_scholar: https://www.semanticscholar.org/author/Gail-Weiss/145909798
+  github: https://github.com/gailweiss
+
+
 - first_name: Ghali
   last_name: Chraïbi
   role: Master student
