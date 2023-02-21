@@ -1,8 +1,7 @@
 # Site settings
 title: EPFL's NLP Lab
 email:
-description: >
-    The NLP (Natural Language Processing) lab is a research group in the School of Computer and Communication Sciences at EPFL in Lausanne, Switzerland! We're a fun and passionate group, with fairly broad research interests, but mainly researching models that can understand and generate languages as well as represent knowledge and reason!
+description: The NLP (Natural Language Processing) lab is a research group in the School of Computer and Communication Sciences at EPFL in Lausanne, Switzerland! We're a fun and passionate group, with fairly broad research interests, but mainly researching models that can understand and generate languages as well as represent knowledge and reason!
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
