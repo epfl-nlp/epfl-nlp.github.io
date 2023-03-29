@@ -1,0 +1,394 @@
+<section id="mnlp">
+  <div class="container">
+      <div class="row">
+          <div class="col-lg-12 text-center">
+              <h2 class="section-heading">CS-552: Modern Natural Language Processing</h2>
+              <hr class="primary">
+          </div>
+      </div>
+  </div>
+  <div class="container">
+    <div class="container-lg px-3 my-5 markdown-body">
+    <!-- cs-552-modern-nlp -->
+
+    <h2 id="course-description">Course Description</h2>
+    <p>Natural language processing is ubiquitous in modern intelligent technologies, serving as a foundation for language translators, virtual assistants, search engines, and many more. In this course, we cover the foundations of modern methods for natural language processing, such as word embeddings, recurrent neural networks, transformers, and pretraining, and how they can be applied to important tasks in the field, such as machine translation and text classification. We also cover issues with these state-of-the-art approaches (such as robustness, interpretability, sensitivity), identify their failure modes in different NLP applications, and discuss analysis and mitigation techniques for these issues.</p>
+
+    <hr/>
+
+    <div id="toc_container">
+      <h3>Quick access links</h3>
+      <ul class="toc_list">
+        <li><a href="#links">Relevant links & places</a></li>
+        <li><a href="#lectures">Lecture Schedule</a></li>
+        <li><a href="#exercises">Exercise Schedule</a></li>
+        <li><a href="#evaluation">Course evaluation</a></li>
+        <li><a href="#contacts">Contacts</a></li>
+      </ul>
+    </div>
+
+    <hr/>
+
+    <h2 id="links">Relevant links & places</h2>
+
+    <table>
+      <thead>
+        <tr>
+          <th style="text-align: left">Platform</th>
+          <th style="text-align: left">Where &amp; when</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="text-align: left">Lectures</td>
+          <td style="text-align: left"><strong>Wednesdays: 9:15-11:00am</strong> [<a href="https://plan.epfl.ch//?room==CM%201%202">CM2</a>] &amp; <strong>Thursdays: 1:15-2:00pm</strong> [<a href="https://plan.epfl.ch//?room==CO%203">CO3</a>]</td>
+        </tr>
+        <tr>
+          <td style="text-align: left">Exercises Session</td>
+          <td style="text-align: left"><strong>Thursdays: 2:15-4:00pm</strong> [<a href="https://plan.epfl.ch//?room==CO%203">CO3</a>]</td>
+        </tr>
+        <tr>
+          <td style="text-align: left">Project Assistance <br />(not every week)</td>
+          <td style="text-align: left"><strong>Wednesdays: 11:15am-12:00pm</strong> [<a href="https://plan.epfl.ch//?room==CM%201%202">CM2</a>]</td>
+        </tr>
+        <tr>
+          <td style="text-align: left">Forum</td>
+          <td style="text-align: left">Ed Forum [<a href="https://edstem.org/eu/courses/379/discussion/">link</a>]</td>
+        </tr>
+        <tr>
+          <td style="text-align: left">Moodle</td>
+          <td style="text-align: left">Assignments &amp; Project submissions [<a href="https://moodle.epfl.ch/course/view.php?id=17143">link</a>]</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>All lectures will be given in person and live streamed on Zoom. The link to the Zoom is available on the course Moodle page. Lectures will be recorded and uploaded to SwitchTube.</p>
+
+    <hr/>
+
+    <h2 id="lectures">Lecture Schedule</h2>
+
+    <table>
+      <thead>
+        <tr>
+          <th style="text-align: left">Week</th>
+          <th style="text-align: left">Date</th>
+          <th style="text-align: left">Topic</th>
+          <th style="text-align: center">Instructor</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="text-align: left"><strong>Week 1</strong></td>
+          <td style="text-align: left">22 Feb <br />23 Feb</td>
+          <td style="text-align: left">Introduction + Building a simple neural classifier  <br />Neural LMs: word embeddings    [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp">slides</a>]</td>
+          <td style="text-align: center">Antoine Bosselut</td>
+        </tr>
+        <tr>
+          <td style="text-align: left"><strong>Week 2</strong></td>
+          <td style="text-align: left">1 Mar <br />2 Mar</td>
+          <td style="text-align: left">Classical and Fixed-context Language Models <br />Recurrent Neural Networks</td>
+          <td style="text-align: center">Antoine Bosselut</td>
+        </tr>
+        <tr>
+          <td style="text-align: left"><strong>Week 3</strong></td>
+          <td style="text-align: left">8 Mar <br />9 Mar</td>
+          <td style="text-align: left">LSTMs and Sequence-to-sequence models <br />Theoretical properties of RNNs</td>
+          <td style="text-align: center">Antoine Bosselut <br />Gail Weiss</td>
+        </tr>
+        <tr>
+          <td style="text-align: left"><strong>Week 4</strong></td>
+          <td style="text-align: left">15 Mar <br />16 Mar</td>
+          <td style="text-align: left">Attention + Transformers <br />Transformers</td>
+          <td style="text-align: center">Antoine Bosselut</td>
+        </tr>
+        <tr>
+          <td style="text-align: left"><strong>Week 5</strong></td>
+          <td style="text-align: left">22 Mar <br />23 Mar</td>
+          <td style="text-align: left">Pretraining: ELMo, BERT  <br />Transfer Learning: Introduction</td>
+          <td style="text-align: center">Antoine Bosselut</td>
+        </tr>
+        <tr>
+          <td style="text-align: left"><strong>Week 6</strong></td>
+          <td style="text-align: left">29 Mar <br />30 Mar</td>
+          <td style="text-align: left">Transfer Learning: Dataset Biases  <br />Transfer Learning: Prompts</td>
+          <td style="text-align: center">Antoine Bosselut</td>
+        </tr>
+        <tr>
+          <td style="text-align: left"><strong>Week 7</strong></td>
+          <td style="text-align: left">5 Apr  <br />6 Apr</td>
+          <td style="text-align: left">Text Generation</td>
+          <td style="text-align: center">Antoine Bosselut</td>
+        </tr>
+        <tr>
+          <td style="text-align: left"><strong>Week 8</strong></td>
+          <td style="text-align: left"> </td>
+          <td style="text-align: left"><strong><em>EASTER BREAK</em></strong></td>
+          <td style="text-align: center">Antoine Bosselut</td>
+        </tr>
+        <tr>
+          <td style="text-align: left"><strong>Week 9</strong></td>
+          <td style="text-align: left">19 Apr <br />20 Apr</td>
+          <td style="text-align: left">In-Context Learning <br /></td>
+          <td style="text-align: center">Antoine Bosselut</td>
+        </tr>
+        <tr>
+          <td style="text-align: left"><strong>Week 10</strong></td>
+          <td style="text-align: left">26 Apr <br />27 Apr</td>
+          <td style="text-align: left">Scaling Laws + Model Compression <br /><strong><em>No class</em></strong></td>
+          <td style="text-align: center">Antoine Bosselut <br />Reza Banaei</td>
+        </tr>
+        <tr>
+          <td style="text-align: left"><strong>Week 11</strong></td>
+          <td style="text-align: left">3 May <br />4 May</td>
+          <td style="text-align: left">Ethics in NLP <br />Ethics in NLP</td>
+          <td style="text-align: center">Antoine Bosselut</td>
+        </tr>
+        <tr>
+          <td style="text-align: left"><strong>Week 12</strong></td>
+          <td style="text-align: left">10 May <br />11 May</td>
+          <td style="text-align: left">Interpretability &amp; Analysis of Language Models <br /><strong><em>No class</em></strong></td>
+          <td style="text-align: center">Antoine Bosselut</td>
+        </tr>
+        <tr>
+          <td style="text-align: left"><strong>Week 13</strong></td>
+          <td style="text-align: left">17 May <br />18 May</td>
+          <td style="text-align: left">Reading Comprehension &amp; Open-domain QA <br />Language &amp; Knowledge Graphs</td>
+          <td style="text-align: center">Antoine Bosselut</td>
+        </tr>
+        <tr>
+          <td style="text-align: left"><strong>Week 14</strong></td>
+          <td style="text-align: left">24 May <br />25 May</td>
+          <td style="text-align: left">Tokenization + Multilingual LMs  <br /><strong><em>No class</em></strong></td>
+          <td style="text-align: center">Negar Foroutan</td>
+        </tr>
+        <tr>
+          <td style="text-align: left"><strong>Week 15</strong></td>
+          <td style="text-align: left">31 May <br />1 Jun</td>
+          <td style="text-align: left">Language &amp; Vision <br />Language &amp; Vision + Wrap-up</td>
+          <td style="text-align: center">Syrielle Montariol <br />Antoine Bosselut</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <hr/>
+
+    <h2 id="exercises">Exercise Schedule</h2>
+
+    <table>
+      <thead>
+        <tr>
+          <th style="text-align: left">Week</th>
+          <th style="text-align: left">Date</th>
+          <th style="text-align: left">Topic</th>
+          <th style="text-align: center">Instructor</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="text-align: left"><strong>Week 1</strong></td>
+          <td style="text-align: left">23 Feb</td>
+          <td style="text-align: left">Setup + Word embeddings  [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp">code</a>]</td>
+          <td style="text-align: center">Angelika Romanou <br />Sepideh Mamooler <br />Simin Fan</td>
+        </tr>
+        <tr>
+          <td style="text-align: left"><strong>Week 2</strong></td>
+          <td style="text-align: left">2 Mar</td>
+          <td style="text-align: left">Word embeddings review <br />Classical &amp; Fixed-context Language Models</td>
+          <td style="text-align: center">Angelika Romanou <br />Mohammedreza Banaei <br />Sepideh Mamooler</td>
+        </tr>
+        <tr>
+          <td style="text-align: left"><strong>Week 3</strong></td>
+          <td style="text-align: left">9 Mar</td>
+          <td style="text-align: left">Language Models Review <br />Sequence-to-sequence models</td>
+          <td style="text-align: center">Mohammedreza Banaei <br />Sepideh Mamooler <br />Simin Fan</td>
+        </tr>
+        <tr>
+          <td style="text-align: left"><strong>Week 4</strong></td>
+          <td style="text-align: left">16 Mar</td>
+          <td style="text-align: left">Sequence-to-sequence models review <br />Attention + Transformers</td>
+          <td style="text-align: center">Sepideh Mamooler <br />Mete Ismayil <br />Simin Fan</td>
+        </tr>
+        <tr>
+          <td style="text-align: left"><strong>Week 5</strong></td>
+          <td style="text-align: left">23 Mar</td>
+          <td style="text-align: left">Transformers Review <br />Pretraining: ELMo, BERT</td>
+          <td style="text-align: center">Simin Fan <br />Sepideh Mamooler <br />Molly Petersen</td>
+        </tr>
+        <tr>
+          <td style="text-align: left"><strong>Week 6</strong></td>
+          <td style="text-align: left">30 Mar</td>
+          <td style="text-align: left">Pretraining Review <br />Transfer Learning: Dataset Biases</td>
+          <td style="text-align: center">Molly Petersen <br />Mete Ismayil <br />Sepideh Mamooler</td>
+        </tr>
+        <tr>
+          <td style="text-align: left"><strong>Week 7</strong></td>
+          <td style="text-align: left">6 Apr</td>
+          <td style="text-align: left">Transfer Learning Review <br />Text Generation</td>
+          <td style="text-align: center">Molly Petersen <br />Deniz Bayazit <br />Sepideh Mamooler</td>
+        </tr>
+        <tr>
+          <td style="text-align: left"><strong>Week 8</strong></td>
+          <td style="text-align: left">13 Apr</td>
+          <td style="text-align: left"><strong><em>EASTER BREAK</em></strong></td>
+          <td style="text-align: center"> </td>
+        </tr>
+        <tr>
+          <td style="text-align: left"><strong>Week 9</strong></td>
+          <td style="text-align: left">20 Apr</td>
+          <td style="text-align: left">Text Generation Review <br />In-context Learning</td>
+          <td style="text-align: center">Deniz Bayazit <br />Silin Gao <br />Sepideh Mamooler</td>
+        </tr>
+        <tr>
+          <td style="text-align: left"><strong>Week 10</strong></td>
+          <td style="text-align: left">27 Apr</td>
+          <td style="text-align: left">In-context Learning Review <br />Milestone 1 Discussion</td>
+          <td style="text-align: center">Silin Gao <br/> TA meetings on-demand</td>
+        </tr>
+        <tr>
+          <td style="text-align: left"><strong>Week 11</strong></td>
+          <td style="text-align: left">4 May</td>
+          <td style="text-align: left">Project</td>
+          <td style="text-align: center">TA meetings on-demand</td>
+        </tr>
+        <tr>
+          <td style="text-align: left"><strong>Week 12</strong></td>
+          <td style="text-align: left">11 May</td>
+          <td style="text-align: left">Milestone 2 Discussion <br />Project</td>
+          <td style="text-align: center">Silin Gao <br/> TA meetings on-demand</td>
+        </tr>
+        <tr>
+          <td style="text-align: left"><strong>Week 13</strong></td>
+          <td style="text-align: left">18 May</td>
+          <td style="text-align: left">Project</td>
+          <td style="text-align: center">TA meetings on-demand</td>
+        </tr>
+        <tr>
+          <td style="text-align: left"><strong>Week 14</strong></td>
+          <td style="text-align: left">25 May</td>
+          <td style="text-align: left">Milestone 3 Discussion <br />Project</td>
+          <td style="text-align: center">Deniz Bayazit <br />TA meetings on-demand</td>
+        </tr>
+        <tr>
+          <td style="text-align: left"><strong>Week 15</strong></td>
+          <td style="text-align: left">1 Jun</td>
+          <td style="text-align: left">Project</td>
+          <td style="text-align: center">TA meetings on-demand</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h4>Exercise sessions' format:</h4>
+    <ul>
+      <li>TAs will provide a small discussion over the <strong>last week’s exercises</strong>, answering any questions and explaining the solutions. <em>(10-15mins)</em></li>
+      <li>TAs will present <strong>this week’s exercise</strong>. <em>(5mins)</em></li>
+      <li>Students will be solving this week’s exercises and TAs will provide answers and clarification if needed.</li>
+    </ul>
+
+    <p><em><strong>Note</strong>: Please make sure you have already done the setup prerequisites to run the coding parts of the exercises. You can find the instructions <a href="">here</a>.</em></p>
+
+    <hr/>
+
+
+    <h2 id="evaluation">Course Evaluation:</h2>
+    <p>Your grade in the course will be computed according to the following guidelines:</p>
+
+    <h3 id="assignments-40">Assignments (40%):</h3>
+    <section id="assignments-section">
+      <p>There will be three assignments throughout the course. They will be released and due according to the following schedule:</p>
+
+      <table>
+        <thead>
+          <tr>
+            <th style="text-align: left">Assignment 1 (10%)</th>
+            <th style="text-align: left">Assignment 2 (15%)</th>
+            <th style="text-align: left">Assignment 3 (15%)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td style="text-align: left">
+              <ul>
+                <li>Released: <strong>06.03.2023</strong></li>
+                <li>Due: <strong>24.03.2023</strong></li>
+              </ul>
+            </td>
+            <td style="text-align: left">
+              <ul>
+                <li>Released: <strong>27.03.2023</strong></li>
+                <li>Due: <strong>21.04.2023</strong></li>
+              </ul></td>
+            <td style="text-align: left">
+              <ul>
+                <li>Released: <strong>18.04.2023</strong></li>
+                <li>Due: <strong>05.05.2023</strong></li>
+              </ul></td>
+          </tr>
+        </tbody>
+      </table>
+
+
+      <p>Assignments will be released on Moodle and announced on Ed.</p>
+    </section>
+
+    <h3 id="project-60">Project (60%):</h3>
+    <section id="project-section">
+      <p>The project will involve using large-scale language models (100B+ parameters) and medium-scale (300M parameters) in the domain of education.  The project will be divided into a proposal, three milestones and a final submission. Each milestone will be worth 10% of the final grade with the remaining 30% being allocated to the final report. Each time will be supervised by one of the course TAs or AEs. More details on the content of the project and the deliverables of each milestone will be released at a later date.</p>
+
+      <div class="box">
+        <h4 id="proposal-5"><strong>Proposal (5%)</strong></h4>
+        <ul>
+          <li>For the proposal, students will be responsible for delivering a Project Plan for executing the goals of the project, as well as submitting a list of relevant literature, demonstrating they have identified academic papers that are relevant for each of the portions of the milestones of the project. Each student in the group should review one of these papers and submit it with Milestone 1.</li>
+          <li>Due: <strong>21.04.2023</strong></li>
+        </ul>
+      </div>
+
+      <div class="box faded">
+        <h4 id="milestone-1-10"><strong>Milestone 1 (10%)</strong></h4>
+        <ul>
+          <li>Exact parameters of Milestone 1 will be released in future weeks.</li>
+          <li>Due: <strong>05.05.2023</strong></li>
+        </ul>
+      </div>
+
+      <div class="box faded">
+        <h4 id="milestone-2-10"><strong>Milestone 2 (10%)</strong></h4>
+        <ul>
+          <li>Exact parameters of Milestone 2 will be released in future weeks.</li>
+          <li>Due: <strong>19.05.2023</strong></li>
+        </ul>
+      </div>
+
+      <div class="box faded">
+        <h4 id="milestone-3-5"><strong>Milestone 3 (5%)</strong></h4>
+        <ul>
+          <li>Exact parameters of Milestone 3 will be released in future weeks.</li>
+          <li>Due: <strong>04.06.2023</strong></li>
+        </ul>
+      </div>
+
+      <div class="box faded">
+        <h4 id="final-deliverable-30"><strong>Final Deliverable (30%)</strong></h4>
+        <ul>
+          <li>The final report, code, and date will be due on June 15th. Students are welcome to turn in their materials ahead of time on June 4th as soon as the semester ends.</li>
+          <li>Due: <strong>15.06.2023</strong></li>
+        </ul>
+      </div>
+    </section>
+
+    <h3 id="late-days-policy">Late Days Policy</h3>
+    <p>All assignments and milestones are due at 11:59 PM on their due date. As we understand that circumstances can make it challenging to abide by these due dates, you will receive 6 late days over the course of the semester to be allocated to the assignments and project milestones as you see fit. No further extensions will be granted. The only exception to this rule is for the final report, code, and data. No extensions will be granted beyond June 15th.</p>
+
+    <hr/>
+
+    <h2 id="contacts">Contacts</h2>
+
+    <p><strong>Lecturer</strong>: <a href="https://people.epfl.ch/antoine.bosselut">Antoine Bosselut</a></p>
+
+    <p style="margin-bottom: 0;"><strong>Teaching assistants</strong>: </p>
+    <ul>
+      <li><a href="https://people.epfl.ch/mohammadreza.banaei?lang=en">Mohammadreza Banaei</a>, <a href="https://people.epfl.ch/deniz.bayazit?lang=en">Deniz Bayazit</a>, <a href="https://people.epfl.ch/simin.fan?lang=en">Simin Fan</a>, <a href="https://people.epfl.ch/silin.gao?lang=en">Silin Gao</a>, <a href="https://people.epfl.ch/angelika.romanou?lang=en">Angelika Romanou</a></li>
+      <li>Please contact us for any organizational questions or questions related to the course content.</li>
+    </ul>
+  </div>
+</section>
