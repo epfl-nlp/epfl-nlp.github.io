@@ -2,7 +2,7 @@
   <div class="container">
       <div class="row">
           <div class="col-lg-12 text-center">
-              <h2 class="section-heading">Getting in touch</h2>
+              <h2 class="section-heading">Work with us!</h2>
               <hr class="primary">
           </div>
       </div>
@@ -12,39 +12,111 @@
       <li>
         <input type="checkbox" checked>
         <i></i>
+        <h3> I'm an EPFL Master's student</h3>
+
+        <p class="wip">This section is currently being updated; it is currently best viewed on larger screens (tablets and desktops). A mobile-friendly version is coming!</p>
+
+        <h4>Application</h4>
+        <p class="text-muted">Interested in doing a project with the NLP lab? First, select one or more projects you're interested in from the list below (don't forget to check their full description on the linked document, where you'll also find the supervisor's email). Then send an e-mail to the project(s) supervisor(s) as well as to: <br/>
+        <span class="indented"><a href="mailto:nlp-projects-apply@groupes.epfl.ch">nlp-projects-apply@groupes.epfl.ch</a></span> </p>
+        <p class="text-muted">Please attach your CV and transcript and include <strong>[Masters Project]</strong> or <strong>[Masters Thesis]</strong> in your subject heading. Looking forward to collaborating with you!</p>
+
+        <h4>Open projects</h4>
+        <!-- <p class="text-muted">Showing: 
+          <span class="showing">Semester Projects (12 ECTS)</span> | 
+          <span class="showing">Optional Semester Projects (8 ECTS)</span> | 
+          <span class="showing">Master Thesis Projects (30 ECTS)</span>
+        </p> -->
+        <div id="semester-projects-list">
+          <table>
+            <tr>
+              <td>
+                 <table>
+                   <tr>
+                      <th>Title</th>
+                      <th>Supervisor</th>
+                      <th>Short Description</th>
+                   </tr>
+                 </table>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                 <div>
+                   <table>
+                     <tr data-sp="True" data-osp="True" data-mtp="True">
+                       <td>Semantic pointers in transformers</td>
+                       <td>Gail Weiss</td>
+                       <td>Take a trained LLM and see if semantic pointers information can be found in the individual embeddings of the tokens of a given sequence, and moreover at which layers. Can seek with both rich probe (eg 2 layer MLP) to see if information is present at all, and simple one (linear transformation) to see how ‘simply’ it is represented.</td>
+                     </tr>
+                     <tr data-sp="True" data-osp="True" data-mtp="True">
+                       <td>Knowledge-aware change captioning in remote sensing images</td>
+                       <td>Syrielle Montariol</td>
+                       <td>Build a multimodal dataset describing events with an impact visible from the sky, using news articles and satellite images. Then, use large language models to generate description of the geographical changes occurring in the images, using knowledge from the news articles.</td>
+                     </tr>
+                     <tr data-sp="True" data-osp="True" data-mtp="True">
+                       <td>De-embedding as Analysis</td>
+                       <td>Gail Weiss</td>
+                       <td>Compare ‘informativeness’ of embedding space projection proposed by paper to other potential projections - potentially validating it as a good projection to consider or alternately showing alternative interpretation methods.</td>
+                     </tr>
+                     <tr data-sp="True" data-osp="True" data-mtp="True">
+                      <td>Bridging the Gap between natural and remote sensing images in large Vision-Language models</td>
+                      <td>Syrielle Montariol</td>
+                      <td>Large Vision-Language models (VLMs) are trained on large amounts of interleaved text-images data. However, they see very few satellite images and are often unable to perform tasks related to them. The goal is to equip generic VLM with remote sensing understanding ability and cross-modality (RS images and natural images) understanding ability, using existing aligned datasets between remote sensing and natural images.</td>
+                     </tr>
+                     <tr data-sp="True" data-osp="True" data-mtp="True">
+                       <td>Query and Key Clustering Analysis</td>
+                       <td>Gail Weiss</td>
+                       <td>See if we can get a symbolic representation of the queries and keys used by a specific attention head. Then, see if we can interpret this presentation, giving it meaning and managing to predict what it will be for the different positions at new inputs. See if we can build a method - probably with human analysis as part of it - to do this for multiple attention heads, one at a time.</td>
+                     </tr>
+                     <tr data-sp="True" data-osp="True" data-mtp="True">
+                      <td>Skill extraction and matching from heterogeneous data sources</td>
+                      <td>Syrielle Montariol</td>
+                      <td>Existing models aiming at recognizing education-related entities (skills and competencies) are often limited to one kind of data source (resumes, job postings or course description), one domain (technology, management...), and one language. The goal is to transfer these models and methods across languages, domains and sources. This project aims at exploring the usage of large language models to perform this transfer, through methods such as in-context learning or using external knowledge bases.</td>
+                     </tr>
+                     <tr data-sp="True" data-osp="True" data-mtp="True">
+                       <td>NMT - Translated Token Preparation by Encoders</td>
+                       <td>Gail Weiss</td>
+                       <td>Test various hypthoses on whether/how well NMT encoders predict/prepare the output tokens that the decoder will use in its translated output, and if so, how the decoder interacts with these predictions.</td>
+                     </tr>
+
+                 
+                   </table>  
+                 </div>
+              </td>
+            </tr>
+          </table>
+        </div>
+        <p class="text-muted"><em>(NB: This table is scrollable.)</em></p>
+        <p class="text-muted">Detailed information about each project currently on offer can be found <a href="https://docs.google.com/document/d/1uciEuI9ci46ZQMsW9P92tizmgWj0l__dlJJT7sp7n50/edit?usp=sharing">here</a> (requires your Tequila credentials).</p>
+      </li>
+      <li>
+        <input type="checkbox" checked>
+        <i></i>
+        <h3> I'm looking for a summer internship</h3>
+        <p class="text-muted">If you are a Bachelor's or Master's student at another university, please apply through the <a href="https://summer.epfl.ch/">Summer@EPFL</a> program. If you are looking for a PhD internship, contact me directly.</p>
+      </li>
+      <li>
+        <input type="checkbox" checked>
+        <i></i>
+        <h3> I'm applying to the EPFL EDIC PhD program</h3>
+        <p class="text-muted"><strong>I will be taking on new PhD students next year!</strong> Apply if you're interested in joining EPFL to work with me. Before you can be considered for the NLP lab, however, you will have to be admitted to the <a href="https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/edic-computer-and-communication-sciences/edic-how-to-apply/">EDIC program</a>, which handles admissions centrally. Feel free to let me know if you apply, but I unfortunately can't conduct pre-screenings until applications are in.</p>
+      </li>
+      <li>
+        <input type="checkbox" checked>
+        <i></i>
+        <h3> I'm an EDIC fellow</h3>
+        <p class="text-muted">I'm happy to supervise rotations provided our research interests align and there's a good chance that the rotation will lead to a permanent position in the lab.</p>
+      </li>
+      <li>
+        <input type="checkbox" checked>
+        <i></i>
         <h3> I'm looking for a postdoctoral position</h3>
         <p class="text-muted">Feel free to check out these opportunities for fully funded postdoctoral positions that I can be a co-advisor on:</p>
         <ol>
           <li><p class="text-muted"><a href="https://www.snf.ch/en/m1NtWp4nTELQixlu/funding/horizon-europe-swiss-postdoctoral-fellowships">Horizon Europe Swiss Postdoctoral Fellowships</a></p></li>
           <li><p class="text-muted"><a href="https://www.epfl.ch/research/services/fund-research/funding-opportunities/fellowship-mobility/epfleaders4impact/">EPFLeaders4impact Postdoctoral Fellowships</a></p></li>
         </ol>
-      </li>
-      <li>
-        <input type="checkbox" checked>
-        <i></i>
-        <h3> I'm applying to the EPFL EDIC PhD program</h3>
-        <p class="text-muted"><strong>I will be taking on new PhD students next year!</strong> Apply if you’re interested in joining EPFL to work with me. Before you can be considered for the NLP lab, however, you will have to be admitted to the <a href="https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/edic-computer-and-communication-sciences/edic-how-to-apply/">EDIC program</a>, which handles admissions centrally. Feel free to let me know if you apply, but I unfortunately can’t conduct pre-screenings until applications are in.</p>
-      </li>
-      <li>
-        <input type="checkbox" checked>
-        <i></i>
-        <h3> I'm an EDIC fellow</h3>
-        <p class="text-muted">I’m happy to supervise rotations provided our research interests align and there’s a good chance that the rotation will lead to a permanent position in the lab.</p>
-      </li>
-      <li>
-        <input type="checkbox" checked>
-        <i></i>
-        <h3> I'm an EPFL Master’s student</h3>
-
-        <p class="text-muted">I’m happy to supervise Master’s projects and theses every semester! If you’re interested in doing a project with EPFL NLP, send an e-mail to: <br/>
-        <span class="indented"><a href="mailto:nlp-projects-apply@groupes.epfl.ch">nlp-projects-apply@groupes.epfl.ch</a></span> </p>
-        <p class="text-muted">Please attach your CV and transcript and include <strong>[Masters Project]</strong> or <strong>[Masters Thesis]</strong> in your subject heading. If you want a sense of what a project in our lab would be about, check out our <a href="{{url}}/index.html#research-interests">research interests</a> or those of the <a href="{{url}}/team.html">lab members</a>!</p>
-      </li>
-      <li>
-        <input type="checkbox" checked>
-        <i></i>
-        <h3> I'm looking for a summer internship</h3>
-        <p class="text-muted">If you are a Bachelor’s or Master’s student at another university, please apply through the <a href="https://summer.epfl.ch/">Summer@EPFL</a> program. If you are looking for a PhD internship, contact me directly.</p>
       </li>
     </ul>
   </div>
