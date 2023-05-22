@@ -460,6 +460,46 @@ section#team {
         @media (min-width: 992px) {
             padding-bottom: 30px;
         }
+
+        &.alumni {
+            padding: 20px;
+
+            ul {
+                display: block;
+                margin-left: 10px;
+                margin-top: 10px;
+            }
+            
+            ul li {
+                display:inline-block;
+                width: 30%;
+                position: relative;
+
+                @media (max-width: 1000px) {
+                    width: 45%;
+                }
+                @media (max-width: 700px) {
+                    width: 90%;
+                }
+            }
+            
+            ul li:not(:last-child) {
+                margin-bottom: 16px;
+            }
+            
+            ul li:before {
+                content: "";
+                position: absolute;
+                top: 1.2em;
+                left: -30px;
+                margin-top: -.9em;
+                background: linear-gradient(45deg, #f69ec4, #f9dd94);
+                height: 12px;
+                width: 12px;
+                border-radius: 50%;
+            }
+        }
+              
     }
 
     div.service-box {
