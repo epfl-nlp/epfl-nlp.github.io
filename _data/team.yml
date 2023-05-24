@@ -20,6 +20,39 @@
   semantic_scholar: https://www.semanticscholar.org/author/Antoine-Bosselut/2691021
   github: https://github.com/atcbosselut
 
+- first_name: Arina   
+  last_name: Rak
+  role: Master student
+  img: na.jpg
+  is_alumni: 
+  website: 
+  twitter: 
+  google_scholar: 
+  semantic_scholar:
+  github: 
+
+- first_name: Aurelio  
+  last_name: Noca
+  role: Master student
+  img: na.jpg
+  is_alumni: 
+  website: 
+  twitter: 
+  google_scholar: 
+  semantic_scholar:
+  github: 
+
+- first_name: Axel
+  last_name: Marmet
+  role: Master student
+  img: na.jpg
+  is_alumni: 
+  website: 
+  twitter: 
+  google_scholar: 
+  semantic_scholar:
+  github: 
+
 - first_name: Beatriz
   last_name: Borges
   role: PhD student
@@ -80,7 +113,7 @@
   last_name: Chraïbi
   role: Master student 
   img: ghali_chraïbi.jpg
-  is_alumni: Yes
+  is_alumni: 
   website: 
   twitter: 
   google_scholar: 
@@ -109,11 +142,33 @@
   semantic_scholar: https://www.semanticscholar.org/author/Khai-Loong-Aw/2154417982
   github: https://github.com/awwkl/
 
+- first_name: Khanh
+  last_name: Nguyen
+  role: Master student
+  img: na.jpg
+  is_alumni: 
+  website: 
+  twitter: 
+  google_scholar: 
+  semantic_scholar:
+  github: 
+
 - first_name: Luca
   last_name: Zampierin
   role: Master student
   img: luca_zampierin.jpg
   is_alumni: Yes
+  website: 
+  twitter: 
+  google_scholar: 
+  semantic_scholar:
+  github: 
+
+- first_name: Luka
+  last_name: Radic
+  role: Master student
+  img: na.jpg
+  is_alumni: 
   website: 
   twitter: 
   google_scholar: 
@@ -164,16 +219,27 @@
   semantic_scholar:
   github: 
 
-- first_name: Saibo
-  last_name: Geng
-  role: PhD student
-  img: saibo_geng.jpg
-  is_alumni: Yes
-  website: https://saibo-creator.github.io/
-  twitter:
-  google_scholar: https://scholar.google.com/citations?user=Y194NbQAAAAJ 
+- first_name: Nicolò
+  last_name: De Sabbata
+  role: Master student
+  img: na.jpg
+  is_alumni: 
+  website: 
+  twitter: 
+  google_scholar: 
   semantic_scholar:
-  github: https://github.com/saibo-creator
+  github: 
+
+- first_name: Sepideh 
+  last_name: Mamooler
+  role: Master student
+  img: na.jpg
+  is_alumni: 
+  website: 
+  twitter: 
+  google_scholar: 
+  semantic_scholar:
+  github: 
 
 - first_name: Silin
   last_name: Gao
@@ -185,17 +251,6 @@
   google_scholar: https://scholar.google.com/citations?user=SXP4blIAAAAJ&hl=en&oi=ao
   semantic_scholar: https://www.semanticscholar.org/author/Silin-Gao/1492154932
   github: https://github.com/Silin159
-
-- first_name: Soyoung
-  last_name: Oh
-  role: PhD student
-  img: soyoung_oh.jpg
-  is_alumni: Yes
-  website: https://sori424.github.io/
-  twitter: https://twitter.com/SoyoungOh5
-  google_scholar: https://scholar.google.co.kr/citations?user=-dKDQ6EAAAAJ&hl=ko
-  semantic_scholar:
-  github: https://github.com/sori424
 
 - first_name: Syrielle
   last_name: Montariol

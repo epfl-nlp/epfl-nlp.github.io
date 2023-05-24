@@ -14,13 +14,27 @@
             {% for member in sorted_team %}
                 {% unless member.is_alumni %}
                     {% if member.role != 'Master student' %}
+                        {% if member.role != 'Research intern' %}
+                            {% include components/member.html 
+                                member = member
+                            %}
+                        {% endif %}
+                    {% endif %}
+                {% endunless %}
+            {% endfor %}
+        </div>
+        <h2 class="section-heading">Research interns</h2>
+        <div class="row">
+            {% for member in sorted_team %}
+                {% unless member.is_alumni %}
+                    {% if member.role == 'Research intern' %}
                         {% include components/member.html 
                             member = member
                         %}
                     {% endif %}
                 {% endunless %}
             {% endfor %}
-        </div>
+        </div>  
         <h2 class="section-heading">Master students</h2>
         <div class="row">
             {% for member in sorted_team %}
