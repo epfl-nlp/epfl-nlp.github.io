@@ -2,6 +2,7 @@
   last_name: Romanou
   role: PhD student
   img: angelika_romanou.jpg
+  is_alumni: 
   website: 
   twitter: 
   google_scholar: 
@@ -12,16 +13,51 @@
   last_name: Bosselut
   role: Assistant Professor, PI
   img: antoine_bosselut.jpg
+  is_alumni: 
   website: https://atcbosselut.github.io/
   twitter: https://twitter.com/ABosselut
   google_scholar: https://scholar.google.com/citations?user=tK9K1D4AAAAJ
   semantic_scholar: https://www.semanticscholar.org/author/Antoine-Bosselut/2691021
   github: https://github.com/atcbosselut
 
+- first_name: Arina   
+  last_name: Rak
+  role: Master student
+  img: na.jpg
+  is_alumni: 
+  website: 
+  twitter: 
+  google_scholar: 
+  semantic_scholar:
+  github: 
+
+- first_name: Aurelio  
+  last_name: Noca
+  role: Master student
+  img: na.jpg
+  is_alumni: 
+  website: 
+  twitter: 
+  google_scholar: 
+  semantic_scholar:
+  github: 
+
+- first_name: Axel
+  last_name: Marmet
+  role: Master student
+  img: na.jpg
+  is_alumni: 
+  website: 
+  twitter: 
+  google_scholar: 
+  semantic_scholar:
+  github: 
+
 - first_name: Beatriz
   last_name: Borges
   role: PhD student
   img: beatriz_borges.jpg
+  is_alumni: 
   website: https://obiwit.com
   twitter: https://twitter.com/obiwit
   google_scholar: https://scholar.google.com/citations?user=2MjXc0EAAAAJ&hl=en
@@ -32,6 +68,7 @@
   last_name: Schneeberger 
   role: Administration
   img: chantal_schneeberger.jpg
+  is_alumni: 
   website: 
   twitter: 
   google_scholar: 
@@ -42,6 +79,7 @@
   last_name: Paul
   role: Postdoc
   img: debjit_paul.jpg
+  is_alumni: 
   website: 
   twitter: 
   google_scholar: 
@@ -52,6 +90,7 @@
   last_name: Bayazit
   role: PhD student
   img: deniz_bayazit.jpg
+  is_alumni: 
   website: https://bayazitdeniz.github.io/
   twitter: https://twitter.com/denizbayazit
   google_scholar: https://scholar.google.com/citations?user=GzH9mVIAAAAJ&hl=en
@@ -62,6 +101,7 @@
   last_name: Weiss
   role: Postdoc
   img: gail_weiss.jpg
+  is_alumni: 
   website: https://gailweiss.github.io
   twitter: https://twitter.com/gail_w
   google_scholar: https://scholar.google.com/citations?user=qEc_VqcAAAAJ&hl=en
@@ -71,8 +111,9 @@
 
 - first_name: Ghali
   last_name: Chraïbi
-  role: Master student
+  role: Master student 
   img: ghali_chraïbi.jpg
+  is_alumni: 
   website: 
   twitter: 
   google_scholar: 
@@ -83,6 +124,29 @@
   last_name: Aad
   role: Master student
   img: graciana_aad.jpg
+  is_alumni: Yes
+  website: 
+  twitter: 
+  google_scholar: 
+  semantic_scholar:
+  github: 
+
+- first_name: Khai Loong
+  last_name: Aw
+  role: Research intern
+  img: khai_loong_aw.jpg
+  is_alumni: 
+  website: https://awwkl.github.io/
+  twitter: https://twitter.com/khai_loong_aw
+  google_scholar: https://scholar.google.com/citations?hl=en&user=xS3uIOYAAAAJ
+  semantic_scholar: https://www.semanticscholar.org/author/Khai-Loong-Aw/2154417982
+  github: https://github.com/awwkl/
+
+- first_name: Khanh
+  last_name: Nguyen
+  role: Master student
+  img: na.jpg
+  is_alumni: 
   website: 
   twitter: 
   google_scholar: 
@@ -93,6 +157,18 @@
   last_name: Zampierin
   role: Master student
   img: luca_zampierin.jpg
+  is_alumni: Yes
+  website: 
+  twitter: 
+  google_scholar: 
+  semantic_scholar:
+  github: 
+
+- first_name: Luka
+  last_name: Radic
+  role: Master student
+  img: na.jpg
+  is_alumni: 
   website: 
   twitter: 
   google_scholar: 
@@ -103,6 +179,7 @@
   last_name: Zubkov
   role: Master student
   img: maksim_zubkov.jpg
+  is_alumni: Yes
   website: https://www.linkedin.com/in/zubkovmd/
   twitter: 
   google_scholar: https://scholar.google.com/citations?hl=ru&user=C2lyAKAAAAAJ
@@ -113,6 +190,7 @@
   last_name: Ismayilzada
   role: Master student
   img: mete_ismayilzada.jpg
+  is_alumni: 
   website: https://www.mete.is
   twitter: https://twitter.com/mismayilsoy
   google_scholar: https://scholar.google.com/citations?user=l88cHEQAAAAJ&hl=en
@@ -123,6 +201,7 @@
   last_name: Petersen
   role: PhD student
   img: molly_petersen.jpg
+  is_alumni: 
   website: 
   twitter: 
   google_scholar: 
@@ -133,46 +212,51 @@
   last_name: Foroutan Eghlidi
   role: PhD student
   img: negar_foroutan_eghlidi.jpg
+  is_alumni: 
   website: 
   twitter: 
   google_scholar: 
   semantic_scholar:
   github: 
 
-- first_name: Saibo
-  last_name: Geng
-  role: PhD student
-  img: saibo_geng.jpg
-  website: https://saibo-creator.github.io/
-  twitter:
-  google_scholar: https://scholar.google.com/citations?user=Y194NbQAAAAJ 
+- first_name: Nicolò
+  last_name: De Sabbata
+  role: Master student
+  img: na.jpg
+  is_alumni: 
+  website: 
+  twitter: 
+  google_scholar: 
   semantic_scholar:
-  github: https://github.com/saibo-creator
+  github: 
+
+- first_name: Sepideh 
+  last_name: Mamooler
+  role: Master student
+  img: na.jpg
+  is_alumni: 
+  website: 
+  twitter: 
+  google_scholar: 
+  semantic_scholar:
+  github: 
 
 - first_name: Silin
   last_name: Gao
   role: PhD student
   img: silin_gao.jpg
+  is_alumni: 
   website: https://silin159.github.io/SilinGao/
   twitter: https://twitter.com/silin_gao
   google_scholar: https://scholar.google.com/citations?user=SXP4blIAAAAJ&hl=en&oi=ao
   semantic_scholar: https://www.semanticscholar.org/author/Silin-Gao/1492154932
   github: https://github.com/Silin159
 
-- first_name: Soyoung
-  last_name: Oh
-  role: PhD student
-  img: soyoung_oh.jpg
-  website: https://sori424.github.io/
-  twitter: https://twitter.com/SoyoungOh5
-  google_scholar: https://scholar.google.co.kr/citations?user=-dKDQ6EAAAAJ&hl=ko
-  semantic_scholar:
-  github: https://github.com/sori424
-
 - first_name: Syrielle
   last_name: Montariol
   role: Postdoc
   img: syrielle_montariol.jpg
+  is_alumni: 
   website: https://smontariol.github.io/
   twitter:
   google_scholar: https://scholar.google.com/citations?user=oM63nTMAAAAJ&hl
@@ -183,6 +267,7 @@
   last_name: Poštuvan
   role: Master student
   img: tim_poštuvan.jpg
+  is_alumni: Yes
   website: 
   twitter: 
   google_scholar: 
@@ -193,6 +278,7 @@
   last_name: Fei
   role: Research intern
   img: yu_fei.jpg
+  is_alumni: Yes
   website: 
   twitter: 
   google_scholar: 
@@ -203,6 +289,7 @@
   last_name: Chen (Eric)
   role: PhD student
   img: zeming_chen_(eric).jpg
+  is_alumni: 
   website: https://eric11eca.github.io/
   twitter: https://twitter.com/ZemingChen5
   google_scholar: https://scholar.google.com/citations?user=-gqyv8cAAAAJ&hl=en
