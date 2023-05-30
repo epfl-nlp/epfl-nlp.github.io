@@ -1,0 +1,29 @@
+- title: "PeaCoK: Persona Commonsense Knowledge for Consistent and Engaging Narratives"
+  authors:
+    -
+      name: Silin Gao
+      nlp-lab: true
+    -
+      name: Beatriz Borges
+      nlp-lab: true
+    -
+      name: Soyoung Oh
+      nlp-lab: true
+    -
+      name: Deniz Bayazit
+      nlp-lab: true
+    -
+      name: Saya Kanno
+    -
+      name: Hiromi Wakaki
+    -
+      name: Yuki Mitsufuji
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+
+  year: 2023
+  journal: Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL)
+  link: https://arxiv.org/abs/2305.02364
+  code: https://github.com/Silin159/PeaCoK
+  dataset: https://drive.google.com/file/d/1pl-Z0qap9dyyQYv7u8ET9qC5H6V3BUG9/view?usp=sharing
