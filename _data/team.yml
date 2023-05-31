@@ -131,6 +131,17 @@
   semantic_scholar:
   github: 
 
+- first_name: Karina
+  last_name: Halevy
+  role: Research intern
+  img: karina_halevy.jpg
+  is_alumni: 
+  website: https://enscma2.github.io/
+  twitter: 
+  google_scholar: https://scholar.google.com/citations?user=Fu8STTEAAAAJ&hl=en
+  semantic_scholar: https://www.semanticscholar.org/author/Karina-Halevy/2106627578
+  github: https://github.com/enscma2/
+
 - first_name: Khai Loong
   last_name: Aw
   role: Research intern
