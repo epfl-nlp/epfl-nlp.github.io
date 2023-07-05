@@ -255,13 +255,13 @@
 - first_name: Nicolò
   last_name: De Sabbata
   role: Master student
-  img: na.jpg
+  img: nicolo_de_sabbata.jpg
   is_alumni: 
-  website: 
-  twitter: 
+  website: https://www.linkedin.com/in/cndesabbata/
+  twitter: https://twitter.com/cndesabbata
   google_scholar: 
   semantic_scholar:
-  github: 
+  github: https://github.com/cndesabbata
 
 - first_name: Sepideh 
   last_name: Mamooler
