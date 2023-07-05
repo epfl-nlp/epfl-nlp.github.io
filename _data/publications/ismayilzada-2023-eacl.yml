@@ -1,0 +1,12 @@
+- title: "kogito: A Commonsense Knowledge Inference Toolkit"
+  authors:
+    -
+      name: Mete Ismayilzada
+      nlp-lab: true
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+
+  year: 2023
+  journal: Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics System Demonstrations
+  link: https://aclanthology.org/2023.eacl-demo.12/
