@@ -246,11 +246,11 @@
   role: PhD student
   img: negar_foroutan_eghlidi.jpg
   is_alumni: 
-  website: 
-  twitter: 
-  google_scholar: 
-  semantic_scholar:
-  github: 
+  website: http://negar.foroutan.info
+  twitter: https://twitter.com/negarforoutan
+  google_scholar: https://scholar.google.com/citations?user=jHeHoScAAAAJ&hl=en
+  semantic_scholar: https://www.semanticscholar.org/author/Negar-Foroutan/9737058
+  github: https://github.com/negar-foroutan
 
 - first_name: Nicolò
   last_name: De Sabbata
