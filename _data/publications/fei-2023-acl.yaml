@@ -1,0 +1,17 @@
+- title: "Mitigating Label Biases for In-context Learning"
+  authors:
+    -
+      name: Yu Fei
+      nlp-lab: true
+    -
+      name: Yifan Hou
+    -
+      name: Zeming Chen
+      nlp-lab: true
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+
+  year: 2023
+  journal: Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL)
+  link: https://arxiv.org/abs/2305.19148
