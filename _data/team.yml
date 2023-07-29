@@ -307,6 +307,17 @@
   semantic_scholar:
   github: 
 
+- first_name: Tianqing
+  last_name: Fang
+  role: Research intern
+  img: tianqing_fang.jpg
+  is_alumni: 
+  website: http://fangtq.com/
+  twitter: https://twitter.com/TFang229
+  google_scholar: https://scholar.google.com/citations?user=Tb3rc34AAAAJ&hl=en
+  semantic_scholar: https://www.semanticscholar.org/author/2044202073
+  github: https://github.com/tqfang
+
 - first_name: Yu
   last_name: Fei
   role: Research intern
