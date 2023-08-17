@@ -97,6 +97,17 @@
   semantic_scholar: https://www.semanticscholar.org/author/Deniz-Bayazit/49173521
   github: https://github.com/bayazitdeniz
 
+- first_name: Fawzia
+  last_name: Zeitoun
+  role: Research intern
+  img: fawzia_zeitoun.jpg
+  is_alumni: 
+  website: 
+  twitter: 
+  google_scholar: 
+  semantic_scholar: 
+  github: https://github.com/fawziazeitoun
+
 - first_name: Gail
   last_name: Weiss
   role: Postdoc
@@ -152,28 +163,6 @@
   google_scholar: https://scholar.google.com/citations?hl=en&user=xS3uIOYAAAAJ
   semantic_scholar: https://www.semanticscholar.org/author/Khai-Loong-Aw/2154417982
   github: https://github.com/awwkl/
-  
-- first_name: Spyridon
-  last_name: Chalkias
-  role: Research intern
-  img: spiros_chalkias.jpg
-  is_alumni: 
-  website: 
-  twitter: https://twitter.com/sp_chalkias
-  google_scholar: 
-  semantic_scholar: 
-  github: https://github.com/spChalk
-
-- first_name: Fawzia
-  last_name: Zeitoun
-  role: Research intern
-  img: fawzia_zeitoun.jpg
-  is_alumni: 
-  website: 
-  twitter: 
-  google_scholar: 
-  semantic_scholar: 
-  github: https://github.com/fawziazeitoun
 
 - first_name: Khanh
   last_name: Nguyen
@@ -218,6 +207,18 @@
   google_scholar: https://scholar.google.com/citations?hl=ru&user=C2lyAKAAAAAJ
   semantic_scholar:
   github: https://github.com/maximzubkov
+
+
+- first_name: Maria 
+  last_name: Ios Glarou
+  role: Research intern
+  img: maria_ios_glarou.jpg
+  is_alumni: 
+  website: 
+  twitter: 
+  google_scholar: 
+  semantic_scholar:
+  github: 
 
 - first_name: Mete
   last_name: Ismayilzada
@@ -284,6 +285,17 @@
   google_scholar: https://scholar.google.com/citations?user=SXP4blIAAAAJ&hl=en&oi=ao
   semantic_scholar: https://www.semanticscholar.org/author/Silin-Gao/1492154932
   github: https://github.com/Silin159
+  
+- first_name: Spyridon
+  last_name: Chalkias
+  role: Research intern
+  img: spiros_chalkias.jpg
+  is_alumni: 
+  website: 
+  twitter: https://twitter.com/sp_chalkias
+  google_scholar: 
+  semantic_scholar: 
+  github: https://github.com/spChalk
 
 - first_name: Syrielle
   last_name: Montariol
