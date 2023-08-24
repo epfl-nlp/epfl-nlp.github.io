@@ -24,7 +24,7 @@
   last_name: Rak
   role: Master student
   img: na.jpg
-  is_alumni: 
+  is_alumni: Yes
   website: 
   twitter: 
   google_scholar: 
@@ -35,7 +35,7 @@
   last_name: Noca
   role: Master student
   img: na.jpg
-  is_alumni: 
+  is_alumni: Yes
   website: 
   twitter: 
   google_scholar: 
@@ -168,7 +168,7 @@
   last_name: Nguyen
   role: Master student
   img: na.jpg
-  is_alumni: 
+  is_alumni: Yes
   website: 
   twitter: 
   google_scholar: 
@@ -179,12 +179,23 @@
   last_name: Radic
   role: Master student
   img: na.jpg
-  is_alumni: 
+  is_alumni: Yes
   website: 
   twitter: 
   google_scholar: 
   semantic_scholar:
   github: 
+
+  - first_name: Nikita
+  last_name: Andreev
+  role: Research intern
+  img: nikita_andreev.jpg
+  is_alumni: 
+  website: 
+  twitter: 
+  google_scholar: 
+  semantic_scholar:
+  github: https://github.com/nikich28
 
 - first_name: Maksim
   last_name: Zubkov
@@ -211,7 +222,7 @@
 
 - first_name: Mete
   last_name: Ismayilzada
-  role: Master student
+  role: PhD student
   img: mete_ismayilzada.jpg
   is_alumni: 
   website: https://www.mete.is
@@ -246,7 +257,7 @@
   last_name: De Sabbata
   role: Master student
   img: nicolo_de_sabbata.jpg
-  is_alumni: 
+  is_alumni: Yes
   website: https://www.linkedin.com/in/cndesabbata/
   twitter: https://twitter.com/cndesabbata
   google_scholar: 
@@ -255,8 +266,8 @@
 
 - first_name: Sepideh 
   last_name: Mamooler
-  role: Master student
-  img: na.jpg
+  role: PhD student
+  img: sepideh_mamooler.jpg
   is_alumni: 
   website: 
   twitter: 
