@@ -351,3 +351,14 @@
   google_scholar: https://scholar.google.com/citations?user=-gqyv8cAAAAJ&hl=en
   semantic_scholar: https://www.semanticscholar.org/author/Zeming-Chen/2111435018
   github: https://github.com/eric11eca
+
+- first_name: Badr
+  last_name: AlKhamissi
+  role: PhD student
+  img: badr.jpg
+  is_alumni: No
+  website: https://bkhmsi.github.io
+  twitter: https://twitter.com/bkhmsi
+  google_scholar: https://scholar.google.com/citations?user=0l9UHtQAAAAJ&hl=en
+  semantic_scholar: https://www.semanticscholar.org/author/Badr-AlKhamissi/2006905770
+  github: https://github.com/bkhmsi
