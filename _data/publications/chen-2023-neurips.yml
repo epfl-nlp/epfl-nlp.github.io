@@ -1,0 +1,19 @@
+- title: "RECKONING: Reasoning through Dynamic Knowledge Encoding"
+  authors:
+    -
+      name: Zeming Chen
+      nlp-lab: true
+    -
+      name: Gail Weiss
+      nlp-lab: true
+    -
+      name: Eric Mitchell
+    -
+      name: Asli Celikyilmaz
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+
+  year: 2023
+  journal: Proceedings of the Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS)
+  link: https://arxiv.org/abs/2305.06349
