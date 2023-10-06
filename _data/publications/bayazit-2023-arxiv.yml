@@ -1,0 +1,20 @@
+- title: "Discovering Knowledge-Critical Subnetworks in Pretrained Language Models"
+  authors:
+    -
+      name: Deniz Bayazit
+      nlp-lab: true
+    -
+      name: Negar Foroutan
+      nlp-lab: true
+    -
+      name: Zeming Chen
+      nlp-lab: true
+    -
+      name: Gail Weiss
+      nlp-lab: true
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+  year: 2023
+  journal: arXiv preprint
+  link: https://arxiv.org/abs/2310.03084
