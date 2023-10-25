@@ -1,0 +1,24 @@
+- title: "CRoW: Benchmarking Commonsense Reasoning in Real-World Tasks"
+  authors:
+    -
+      name: Mete Ismayilzada
+      nlp-lab: true
+    -
+      name: Debjit Paul
+      nlp-lab: true
+    -
+      name: Syrielle Montariol
+      nlp-lab: true
+    -
+      name: Mor Geva
+      nlp-lab: false
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+
+  year: 2023
+  journal: Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)
+  link: https://arxiv.org/abs/2310.15239
+  code: https://github.com/mismayil/crow
+  project: https://www.mete.is/crow
+  dataset: https://www.mete.is/crow/tasks
