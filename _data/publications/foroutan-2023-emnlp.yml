@@ -1,0 +1,17 @@
+- title: "Breaking the Language Barrier: Improving Cross-Lingual Reasoning with Structured Self-Attention"
+  authors:
+    -
+      name: Negar Foroutan
+      nlp-lab: true
+    -
+      name: Mohammadreza Banaei
+    -
+      name: Karl Aberer
+    - 
+      name: Antoine Bosselut
+      nlp-lab: true
+
+  year: 2023
+  journal: Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP) - Findings
+  link: https://arxiv.org/abs/2310.15258
+  code: https://github.com/negar-foroutan/multilingual-code-switched-reasoning
