@@ -1,0 +1,23 @@
+- title: "CAR: Conceptualization-Augmented Reasoner for Zero-Shot Commonsense Question Answering"
+  authors:
+    -
+      name: Weiqi Wang*
+    -
+      name: Tianqing Fang*
+      nlp-lab: true
+    -
+      name: Wenxuan Ding
+    -
+      name: Baixuan Xu
+    -
+      name: Xin Liu
+    -
+      name: Yangqiu Song
+    - 
+      name: Antoine Bosselut
+      nlp-lab: true
+
+  year: 2023
+  journal: Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP) - Findings
+  link: https://arxiv.org/abs/2305.14869
+  code: https://github.com/HKUST-KnowComp/CAR
