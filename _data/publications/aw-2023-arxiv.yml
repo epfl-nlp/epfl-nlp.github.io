@@ -1,0 +1,21 @@
+- title: "Instruction-tuning Aligns LLMs to the Human Brain"
+  authors:
+    -
+      name: Khai Loong Aw
+      nlp-lab: true
+    -
+      name: Syrielle Montariol
+      nlp-lab: true
+    -
+      name: Badr AlKhamissi
+      nlp-lab: true
+    -
+      name: Martin Schrimpf
+      nlp-lab: false
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+
+  year: 2023
+  journal: arXiv preprint
+  link: https://arxiv.org/abs/2312.00575
