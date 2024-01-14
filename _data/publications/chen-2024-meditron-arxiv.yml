@@ -1,0 +1,55 @@
+- title: "MEDITRON-70B: Scaling Medical Pretraining for Large Language Models"
+  authors:
+    -
+      name: Zeming Chen
+      nlp-lab: true
+    -
+      name: Alejandro Hernández-Cano
+    -
+      name: Angelika Romanou
+      nlp-lab: true
+    -
+      name: Antoine Bonnet
+    -
+      name: Kyle Matoba
+    -
+      name: Francesco Salvi
+    -
+      name: Matteo Pagliardini
+    -
+      name: Simin Fan
+    -
+      name: Andreas Köpf
+    -
+      name: Amirkeivan Mohtashami
+    -
+      name: Alexandre Sallinen
+    -
+      name: Alireza Sakhaeirad
+    -
+      name: Vinitra Swamy
+    -
+      name: Igor Krawczuk
+    -
+      name: Deniz Bayazit
+      nlp-lab: true
+    -
+      name: Axel Marmet
+    -
+      name: Syrielle Montariol
+      nlp-lab: true
+    -
+      name: Mary-Anne Hartley
+    -
+      name: Martin Jaggi
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+
+  year: 2023
+  journal: arXiv preprint
+  award: Top ML Papers of the Week (by dair.ai), 1.3k GitHub ⭐
+  link: https://arxiv.org/abs/2311.16079
+  code: https://github.com/epfLLM/meditron
+  dataset: https://huggingface.co/epfl-llm
+  video: https://youtu.be/37ZQI_-17TI
