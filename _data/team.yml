@@ -46,7 +46,7 @@
   last_name: Marmet
   role: Master student
   img: na.jpg
-  is_alumni: 
+  is_alumni: Yes
   website: 
   twitter: 
   google_scholar: 
@@ -68,7 +68,7 @@
   last_name: Schneeberger 
   role: Administration
   img: chantal_schneeberger.jpg
-  is_alumni: 
+  is_alumni: Yes
   website: 
   twitter: 
   google_scholar: 
@@ -101,7 +101,7 @@
   last_name: Zeitoun
   role: Research intern
   img: fawzia_zeitoun.jpg
-  is_alumni: 
+  is_alumni: Yes
   website: 
   twitter: 
   google_scholar: 
@@ -124,7 +124,7 @@
   last_name: Chraïbi
   role: Master student 
   img: ghali_chraïbi.jpg
-  is_alumni: 
+  is_alumni: Yes
   website: 
   twitter: 
   google_scholar: 
@@ -190,7 +190,7 @@
   last_name: Andreev
   role: Research intern
   img: nikita_andreev.jpg
-  is_alumni: 
+  is_alumni: Yes
   website: 
   twitter: 
   google_scholar: 
@@ -213,7 +213,7 @@
   last_name: Ios Glarou
   role: Research intern
   img: maria_ios_glarou.jpg
-  is_alumni: 
+  is_alumni: Yes
   website: 
   twitter: 
   google_scholar: 
@@ -290,7 +290,7 @@
   last_name: Chalkias
   role: Research intern
   img: spiros_chalkias.jpg
-  is_alumni: 
+  is_alumni: Yes
   website: 
   twitter: https://twitter.com/sp_chalkias
   google_scholar: 
