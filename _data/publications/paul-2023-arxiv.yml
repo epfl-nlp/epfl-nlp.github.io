@@ -1,0 +1,26 @@
+- title: "REFINER: Reasoning Feedback on Intermediate Representations"
+  authors:
+    -
+      name: Debjit Paul
+      nlp-lab: true
+    -
+      name: Mete Ismayilzada
+      nlp-lab: true
+    -
+      name: Maxime Peyrard
+    -
+      name: Beatriz Borges
+      nlp-lab: true
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Robert West
+    -
+      name: Boi Faltings
+
+  year: 2023
+  journal: arXiv preprint
+  link: https://arxiv.org/abs/2304.01904
+  code: https://github.com/debjitpaul/refiner
+  project: https://debjitpaul.github.io/refiner/

@@ -1,0 +1,23 @@
+- title: "δ-CAUSAL: Exploring Defeasibility in Causal Reasoning"
+  authors:
+    -
+      name: Shaobo Cui
+    -
+      name: Lazar Milikic
+    -
+      name: Yiyang Feng
+    -
+      name: Mete Ismayilzada
+      nlp-lab: true
+    -
+      name: Debjit Paul
+      nlp-lab: true
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Boi Faltings
+
+  year: 2024
+  journal: arXiv preprint
+  link: https://arxiv.org/abs/2401.03183
