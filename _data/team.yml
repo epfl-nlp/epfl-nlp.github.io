@@ -9,6 +9,17 @@
   semantic_scholar:
   github: 
 
+- first_name: Anne-Sandra 
+  last_name: Hofer
+  role: Administration
+  img: anne_sandra_hofer.jpg
+  is_alumni: 
+  website: 
+  twitter: 
+  google_scholar: 
+  semantic_scholar:
+  github: 
+
 - first_name: Antoine
   last_name: Bosselut
   role: Assistant Professor, PI
@@ -63,17 +74,6 @@
   google_scholar: https://scholar.google.com/citations?user=2MjXc0EAAAAJ&hl=en
   semantic_scholar: https://www.semanticscholar.org/author/Beatriz-Borges/2097711585
   github: https://github.com/obiwit
-
-- first_name: Chantal 
-  last_name: Schneeberger 
-  role: Administration
-  img: chantal_schneeberger.jpg
-  is_alumni: Yes
-  website: 
-  twitter: 
-  google_scholar: 
-  semantic_scholar:
-  github: 
 
 - first_name: Debjit
   last_name: Paul
