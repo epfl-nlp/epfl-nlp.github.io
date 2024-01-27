@@ -1,0 +1,27 @@
+- title: "CRAB: Assessing the Strength of Causal Relationships Between Real-world Events"
+  authors:
+    -
+      name: Angelika Rromanou
+      nlp-lab: true
+    -
+      name: Syrielle Montariol
+      nlp-lab: true
+    -
+      name: Debjit Paul
+      nlp-lab: true
+    -
+      name: Leo Laugier
+      nlp-lab: false
+    -
+      name: Karl Aberer
+      nlp-lab: false
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+
+  year: 2023
+  journal: Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)
+  link: https://arxiv.org/abs/2311.04284
+  code: https://github.com/agromanou/CRAB/tree/master/src
+  project: https://github.com/agromanou/CRAB
+  dataset: https://drive.google.com/file/d/1brS0cLnnCWG2zDnPzRo1FXqCVlbPih_D/view
