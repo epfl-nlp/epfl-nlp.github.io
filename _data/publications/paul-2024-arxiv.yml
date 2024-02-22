@@ -1,0 +1,18 @@
+- title: "Making Reasoning Matter: Measuring and Improving Faithfulness of Chain-of-Thought Reasoning"
+  authors:
+    -
+      name: Debjit Paul
+      nlp-lab: true
+    -
+      name: Robert West
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Boi Faltings
+
+  year: 2024
+  journal: Arxiv
+  link: https://arxiv.org/abs/2402.13950
+  code: https://github.com/debjitpaul/causal_CoT
+  project: https://debjitpaul.github.io/reasoningmatter/

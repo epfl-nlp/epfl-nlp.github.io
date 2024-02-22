@@ -80,11 +80,11 @@
   role: Postdoc
   img: debjit_paul.jpg
   is_alumni: 
-  website: 
-  twitter: 
-  google_scholar: 
-  semantic_scholar:
-  github: 
+  website: https://debjitpaul.github.io/
+  twitter: https://twitter.com/DebjitPaul2
+  google_scholar: https://scholar.google.com/citations?user=jJ8MjZMAAAAJ&hl=en&oi=ao
+  semantic_scholar: https://www.semanticscholar.org/author/Debjit-Paul/2261760962
+  github: https://github.com/debjitpaul
 
 - first_name: Deniz
   last_name: Bayazit
