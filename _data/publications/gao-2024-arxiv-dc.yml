@@ -1,0 +1,22 @@
+- title: "DiffuCOMET: Contextual Commonsense Knowledge Diffusion"
+  authors:
+    -
+      name: Silin Gao
+      nlp-lab: true
+    -
+      name: Mete Ismayilzada
+      nlp-lab: true
+    -
+      name: Mengjie Zhao
+    -
+      name: Hiromi Wakaki
+    -
+      name: Yuki Mitsufuji
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+
+  year: 2024
+  journal: arXiv preprint
+  link: https://arxiv.org/abs/2402.17011
+  code: https://github.com/Silin159/DiffuCOMET
