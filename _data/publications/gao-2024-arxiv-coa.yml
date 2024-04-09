@@ -1,0 +1,28 @@
+- title: "Efficient Tool Use with Chain-of-Abstraction Reasoning"
+  authors:
+    -
+      name: Silin Gao
+      nlp-lab: true
+    -
+      name: Jane Dwivedi-Yu
+    -
+      name: Ping Yu
+    -
+      name: Xiaoqing Ellen Tan
+    -
+      name: Ramakanth Pasunuru
+    -
+      name: Olga Golovneva
+    -
+      name: Koustuv Sinha
+    -
+      name: Asli Celikyilmaz
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Tianlu Wang
+
+  year: 2024
+  journal: arXiv preprint
+  link: https://arxiv.org/abs/2401.17464
