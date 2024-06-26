@@ -42,6 +42,17 @@
   semantic_scholar:
   github: 
 
+- first_name: Auguste
+  last_name: Poiroux
+  role: PhD student
+  img: auguste_poiroux.jpg
+  is_alumni: 
+  website: 
+  twitter: https://x.com/augpoi
+  google_scholar: https://scholar.google.com/citations?user=sOKwkF8AAAAJ&hl=en
+  semantic_scholar: https://www.semanticscholar.org/author/Auguste-Poiroux/2305679963
+  github: https://github.com/augustepoiroux
+
 - first_name: Aurelio  
   last_name: Noca
   role: Master student
