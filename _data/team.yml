@@ -219,6 +219,17 @@
   semantic_scholar:
   github: https://github.com/nikich28
 
+- first_name: Anna
+  last_name: Sotnikova
+  role: Postdoc
+  img: anna_sotnikova.jpg
+  is_alumni: 
+  website: https://www.linkedin.com/in/aasotnikova/
+  twitter: 
+  google_scholar: https://scholar.google.com/citations?user=GQ9JFqEAAAAJ&hl=en
+  semantic_scholar: https://www.semanticscholar.org/author/Anna-Sotnikova/2172271065
+  github: 
+
 - first_name: Maksim
   last_name: Zubkov
   role: Master student
