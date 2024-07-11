@@ -168,7 +168,7 @@
   last_name: Halevy
   role: Research intern
   img: karina_halevy.jpg
-  is_alumni: 
+  is_alumni: Yes
   website: https://enscma2.github.io/
   twitter: 
   google_scholar: https://scholar.google.com/citations?user=Fu8STTEAAAAJ&hl=en
@@ -179,7 +179,7 @@
   last_name: Aw
   role: Research intern
   img: khai_loong_aw.jpg
-  is_alumni: 
+  is_alumni: Yes
   website: https://awwkl.github.io/
   twitter: https://twitter.com/khai_loong_aw
   google_scholar: https://scholar.google.com/citations?hl=en&user=xS3uIOYAAAAJ
@@ -356,7 +356,7 @@
   last_name: Fang
   role: Research intern
   img: tianqing_fang.jpg
-  is_alumni: 
+  is_alumni: Yes
   website: http://fangtq.com/
   twitter: https://twitter.com/TFang229
   google_scholar: https://scholar.google.com/citations?user=Tb3rc34AAAAJ&hl=en
@@ -389,7 +389,7 @@
   last_name: AlKhamissi
   role: PhD student
   img: badr.jpg
-  is_alumni: No
+  is_alumni: 
   website: https://bkhmsi.github.io
   twitter: https://twitter.com/bkhmsi
   google_scholar: https://scholar.google.com/citations?user=0l9UHtQAAAAJ&hl=en
@@ -400,7 +400,7 @@
   last_name: Dai
   role: Research intern
   img: anna_dai.jpg
-  is_alumni: No
+  is_alumni: Yes
   website: https://dai-anna.github.io
   twitter: https://twitter.com/annauppp
   google_scholar: https://scholar.google.com/citations?user=zaz6bLMAAAAJ&hl=en
