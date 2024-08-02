@@ -1,0 +1,37 @@
+- title: "Towards a Mechanistic Interpretation of Multi-Step Reasoning Capabilities of Language Models"
+  authors:
+    -
+      name: Yifan Hou
+      nlp-lab: true
+    -
+      name: Jiaoda Li
+      nlp-lab: false
+    -
+      name: Yu Fei
+      nlp-lab: false
+    -
+      name: Alessandro Stolfo
+      nlp-lab: false
+    -
+      name: Wangchunshu Zhou
+      nlp-lab: false
+    -
+      name: Guangtao Zeng
+      nlp-lab: false
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Mrinmaya Sachan
+      nlp-lab: false
+
+  year: 2023
+  journal: Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)
+  link: https://arxiv.org/abs/2310.14491
+  code: https://github.com/yifan-h/MechanisticProbe
+  dataset: https://huggingface.co/datasets/yyyyifan/MechanisticProbe_ProofWriter_ARC
+  project: 
+  poster: 
+  video: 
+  demo: 
+  slides: 
