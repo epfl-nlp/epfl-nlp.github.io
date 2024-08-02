@@ -1,0 +1,34 @@
+- title: "Evaluating language model agency through negotiations"
+  authors:
+    -
+      name: Tim R Davidson
+      nlp-lab: false
+    -
+      name: Veniamin Veselovsky
+      nlp-lab: false
+    -
+      name: Martin Josifoski
+      nlp-lab: false
+    -
+      name: Maxime Peyrard
+      nlp-lab: false
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Michal Kosinski
+      nlp-lab: false
+    -
+      name: Robert West
+      nlp-lab: false
+
+  year: 2024
+  journal: arXiv preprint
+  link: https://arxiv.org/abs/2401.04536
+  code: 
+  dataset: 
+  project: 
+  poster: 
+  video: 
+  demo: 
+  slides: 
