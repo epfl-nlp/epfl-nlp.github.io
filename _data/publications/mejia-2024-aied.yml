@@ -1,0 +1,37 @@
+- title: "Enhancing Procedural Writing Through Personalized Example Retrieval: A Case Study on Cooking Recipes"
+  authors:
+    -
+      name: Paola Mejia-Domenzain
+      nlp-lab: false
+    -
+      name: Jibril Frej
+      nlp-lab: false
+    -
+      name: Seyed Parsa Neshaei
+      nlp-lab: false
+    -
+      name: Luca Mouchel
+      nlp-lab: false
+    -
+      name: Tanya Nazaretsky
+      nlp-lab: false
+    -
+      name: Thiemo Wambsganss
+      nlp-lab: false
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Tanja Käser 
+      nlp-lab: false
+
+  year: 2024
+  journal: International Journal of Artificial Intelligence in Education
+  link: https://link.springer.com/article/10.1007/s40593-024-00405-1
+  code: 
+  dataset: 
+  project: 
+  poster: 
+  video: 
+  demo: 
+  slides: 
