@@ -1,0 +1,121 @@
+- title: "A Design Space for Intelligent and Interactive Writing Assistants"
+  authors:
+    -
+      name: Mina Lee
+      nlp-lab: false
+    -
+      name: Katy Ilonka Gero
+      nlp-lab: false
+    -
+      name: John Joon Young Chung
+      nlp-lab: false
+    -
+      name: Simon Buckingham Shum
+      nlp-lab: false
+    -
+      name: Vipul Raheja
+      nlp-lab: false
+    -
+      name: Hua Shen
+      nlp-lab: false
+    -
+      name: Subhashini Venugopalan
+      nlp-lab: false
+    -
+      name: Thiemo Wambsganss
+      nlp-lab: false
+    -
+      name: David Zhou
+      nlp-lab: false
+    -
+      name: Emad A Alghamdi
+      nlp-lab: false
+    -
+      name: Tal August
+      nlp-lab: false
+    -
+      name: Avinash Bhat
+      nlp-lab: false
+    -
+      name: Madiha Zahrah Choksi
+      nlp-lab: false
+    -
+      name: Senjuti Dutta
+      nlp-lab: false
+    -
+      name: Jin LC Guo
+      nlp-lab: false
+    -
+      name: Md Naimul Hoque
+      nlp-lab: false
+    -
+      name: Yewon Kim
+      nlp-lab: false
+    -
+      name: Simon Knight
+      nlp-lab: false
+    -
+      name: Seyed Parsa Neshaei
+      nlp-lab: false
+    -
+      name: Antonette Shibani
+      nlp-lab: false
+    -
+      name: Disha Shrivastava
+      nlp-lab: false
+    -
+      name: Lila Shroff
+      nlp-lab: false
+    -
+      name: Agnia Sergeyuk
+      nlp-lab: false
+    -
+      name: Jessi Stark
+      nlp-lab: false
+    -
+      name: Sarah Sterman
+      nlp-lab: false
+    -
+      name: Sitong Wang
+      nlp-lab: false
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Daniel Buschek
+      nlp-lab: false
+    -
+      name: Joseph Chee Chang
+      nlp-lab: false
+    -
+      name: Sherol Chen
+      nlp-lab: false
+    -
+      name: Max Kreminski
+      nlp-lab: false
+    -
+      name: Joonsuk Park
+      nlp-lab: false
+    -
+      name: Roy Pea
+      nlp-lab: false
+    -
+      name: Eugenia Ha Rim Rho
+      nlp-lab: false
+    -
+      name: Zejiang Shen
+      nlp-lab: false
+    -
+      name: Pao Siangliulue
+      nlp-lab: false
+
+  year: 2023
+  journal: Proceedings of the CHI Conference on Human Factors in Computing Systems
+  link: https://arxiv.org/abs/2403.14117
+  code: 
+  dataset: 
+  project: 
+  poster: 
+  video: 
+  demo: 
+  slides: 
