@@ -1,0 +1,18 @@
+- title: "Improving Autoformalization using Type Checking"
+  authors:
+    -
+      name: Auguste Poiroux
+      nlp-lab: true
+    -
+      name: Gail Weiss
+      nlp-lab: true
+    -
+      name: Viktor Kunčak
+      nlp-lab: false
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+
+  year: 2024
+  journal: arXiv preprint
+  link: https://arxiv.org/abs/2406.07222
