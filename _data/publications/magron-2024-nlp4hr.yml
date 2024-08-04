@@ -1,0 +1,27 @@
+- title: "JOBSKAPE: A Framework for Generating Synthetic Job Postings to Enhance Skill Matching"
+  authors:
+    -
+      name: Antoine Magron
+      nlp-lab: true
+    -
+      name: Anna Dai
+      nlp-lab: true
+    -
+      name: Mike Zhang
+    -
+      name: Syrielle Montariol
+      nlp-lab: true
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+
+  year: 2024
+  journal: Proceedings of the First Workshop on Natural Language Processing for Human Resources (NLP4HR 2024)
+  link: https://aclanthology.org/2024.nlp4hr-1.4/
+  code: https://github.com/magantoine/JobSkape
+  dataset: 
+  project: 
+  poster: 
+  video: 
+  demo: 
+  slides: 
