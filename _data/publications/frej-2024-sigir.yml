@@ -1,0 +1,26 @@
+- title: "Course Recommender Systems Need to Consider the Job Market"
+  authors:
+    -
+      name: Jibril Frej
+    -
+      name: Anna Dai
+      nlp-lab: true
+    -
+      name: Syrielle Montariol
+      nlp-lab: true
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Tanja Käser
+
+  year: 2024
+  journal: Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval
+  link: https://dl.acm.org/doi/abs/10.1145/3626772.3657847
+  code: https://github.com/Jibril-Frej/JCRec
+  dataset:
+  project: 
+  poster: 
+  video: 
+  demo: 
+  slides: 
