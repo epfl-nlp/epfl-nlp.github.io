@@ -1,0 +1,24 @@
+- title: "Rethinking skill extraction in the job market domain using large language models"
+  authors:
+    -
+      name: Khanh Cao Nguyen
+      nlp-lab: true
+    -
+      name: Mike Zhang
+    -
+      name: Syrielle Montariol
+      nlp-lab: true
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+
+  year: 2024
+  journal: Proceedings of the First Workshop on Natural Language Processing for Human Resources (NLP4HR 2024)
+  link: https://aclanthology.org/2024.nlp4hr-1.3/
+  code: https://github.com/epfl-nlp/SCESC-LLM-skill-extraction
+  dataset: https://huggingface.co/jjzha
+  project: 
+  poster: 
+  video: 
+  demo: 
+  slides: 
