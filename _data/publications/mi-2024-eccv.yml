@@ -1,0 +1,30 @@
+- title: "ConGeo: Robust Cross-view Geo-localization across Ground View Variations"
+  authors:
+    -
+      name: Li Mi
+      nlp-lab: true
+    -
+      name: Chang Xu
+    -
+      name: Javiera Castillo-Navarro
+    -
+      name: Syrielle Montariol
+      nlp-lab: true
+    -
+      name: Wen Yang
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Devis Tuia
+
+  year: 2024
+  journal: European Conference on Computer Vision (ECCV)
+  link: https://arxiv.org/pdf/2403.13965
+  code: 
+  dataset: 
+  project:
+  poster: 
+  video: 
+  demo: 
+  slides: 
