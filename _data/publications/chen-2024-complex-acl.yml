@@ -1,0 +1,19 @@
+- title: "Complex Reasoning over Logical Queries on Commonsense Knowledge Graphs"
+  authors:
+    -
+      name: Tianqing Fang
+      nlp-lab: true
+    -
+      name: Zeming Chen
+      nlp-lab: true
+    -
+      name: Yangqiu Song
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+
+  year: 2024
+  journal: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL)
+  link: https://arxiv.org/abs/2403.07398
+  code: https://github.com/tqfang/complex-commonsense-reasoning
+  dataset: https://huggingface.co/datasets/tqfang229/COM2-commonsense

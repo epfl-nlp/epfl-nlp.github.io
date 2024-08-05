@@ -1,0 +1,69 @@
+- title: "MEDITRON: Open Medical Foundation Models Adapted for Clinical Practice"
+  authors:
+    -
+      name: Zeming Chen
+      nlp-lab: true
+    -
+      name: Angelika Romanou
+      nlp-lab: true
+    -
+      name: Antoine Bonnet
+    -
+      name: Alejandro Hernández-Cano
+    -
+      name: Badr Alkhamiss
+      nlp-lab: true
+    -
+      name: Kyle Matoba
+    -
+      name: Francesco Salvi
+    -
+      name: Matteo Pagliardini
+    -
+      name: Simin Fan
+    -
+      name: Andreas Köpf
+    -
+      name: Amirkeivan Mohtashami
+    -
+      name: Alexandre Sallinen
+    -
+      name: Alireza Sakhaeirad
+    -
+      name: Vinitra Swamy
+    -
+      name: Igor Krawczuk
+    -
+      name: Deniz Bayazit
+      nlp-lab: true
+    -
+      name: Axel Marmet
+    -
+      name: Li Mi
+      nlp-lab: true
+    -
+      name: Noémie Boillat-Blanco
+    -
+      name: Kristina Keitel
+    -
+      name: Javier Elkin
+    -
+      name: Blaise Robert
+    -
+      name: Syrielle Montariol
+      nlp-lab: true
+    -
+      name: Mary-Anne Hartley
+    -
+      name: Martin Jaggi
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+
+  year: 2024
+  journal: ResearchSquare Preprint [Nature Portfolio]
+  award: Stanford AI Index Report 2024 - Highlited Research for Science and Medicine, Spotlight Research blog by Meta AI
+  link: https://www.researchsquare.com/article/rs-4139743/v1
+  code: https://github.com/epfLLM/meditron
+  dataset: https://huggingface.co/epfl-llm
+  project: https://ai.meta.com/blog/llama-2-3-meditron-yale-medicine-epfl-open-source-llm/
