@@ -1,0 +1,23 @@
+- title: "\u0022Flex Tape Can't Fix That\u0022: Bias and Misinformation in Edited Language Models"
+  authors:
+    -
+      name: Karina Halevy
+      nlp-lab: false
+    -
+      name: Anna Sotnikova
+      nlp-lab: true
+    -
+      name: Badr AlKhamissi
+      nlp-lab: true
+    -
+      name: Syrielle Montariol
+      nlp-lab: true
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+
+  year: 2024
+  journal: Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)
+  link: https://arxiv.org/abs/2403.00180
+  code: https://github.com/ENSCMA2/flextape
+  
