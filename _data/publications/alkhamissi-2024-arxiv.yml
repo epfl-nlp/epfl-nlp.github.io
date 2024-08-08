@@ -1,0 +1,25 @@
+- title: "Brain-Like Language Processing via a Shallow Untrained Multihead Attention Network"
+  authors:
+    -
+      name: Badr AlKhamissi
+      nlp-lab: true
+    -
+      name: Greta Tuckute
+      nlp-lab: false    
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Martin Schrimpf
+      nlp-lab: false
+
+  year: 2024
+  journal: arXiv preprint
+  link: https://arxiv.org/abs/2406.15109
+  code: https://github.com/bkhmsi/brain-language-suma
+  dataset: 
+  project:
+  poster: EPFL_NLP_URL!/resources/pdf/posters/alkhamissi-2024-ccn-poster.pdf
+  video:
+  demo: 
+  slides:
