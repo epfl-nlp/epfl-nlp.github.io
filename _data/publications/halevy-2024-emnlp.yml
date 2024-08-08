@@ -1,4 +1,4 @@
-- title: ""Flex Tape Can't Fix That": Bias and Misinformation in Edited Language Models"
+- title: "\u0022Flex Tape Can't Fix That\u0022: Bias and Misinformation in Edited Language Models"
   authors:
     -
       name: Karina Halevy
@@ -12,7 +12,7 @@
     -
       name: Syrielle Montariol
       nlp-lab: true
-   -
+    -
       name: Antoine Bosselut
       nlp-lab: true
 
