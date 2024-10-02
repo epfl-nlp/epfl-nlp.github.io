@@ -1,3 +1,14 @@
+- first_name: Alberto
+  last_name: Muñoz-Ortiz
+  role: Visiting PhD student
+  img: alberto_munoz_ortiz.jpg
+  is_alumni: 
+  website: https://amunozo.github.io
+  twitter: 
+  google_scholar: https://scholar.google.com/citations?user=sS5dz4QAAAAJ&hl=en
+  semantic_scholar: https://www.semanticscholar.org/author/Alberto-Mu%C3%B1oz-Ortiz/2123454646
+  github: github.com/amunozo
+
 - first_name: Angelika
   last_name: Romanou
   role: PhD student
@@ -153,6 +164,17 @@
   semantic_scholar:
   github: 
 
+- first_name: Grace 
+  last_name: Kim
+  role: Research intern
+  img: na.jpg
+  is_alumni: Yes
+  website: 
+  twitter: 
+  google_scholar: 
+  semantic_scholar:
+  github: 
+
 - first_name: Graciana
   last_name: Aad
   role: Master student
@@ -297,6 +319,17 @@
   semantic_scholar:
   github: https://github.com/cndesabbata
 
+- first_name: Rishika 
+  last_name: Bhagwatkar
+  role: Research intern
+  img: na.jpg
+  is_alumni: Yes
+  website: 
+  twitter: 
+  google_scholar: 
+  semantic_scholar:
+  github: 
+
 - first_name: Sepideh 
   last_name: Mamooler
   role: PhD student
@@ -307,6 +340,17 @@
   google_scholar: https://scholar.google.com/citations?user=1CZ9ubIAAAAJ&hl=en
   semantic_scholar: https://www.semanticscholar.org/author/Sepideh-Mamooler/2122924160
   github: https://github.com/sMamooler
+
+- first_name: Sheryl 
+  last_name: Mathew
+  role: Research intern
+  img: na.jpg
+  is_alumni: Yes
+  website: 
+  twitter: 
+  google_scholar: 
+  semantic_scholar:
+  github: 
 
 - first_name: Silin
   last_name: Gao
