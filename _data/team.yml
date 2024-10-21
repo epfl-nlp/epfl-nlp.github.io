@@ -14,11 +14,11 @@
   role: PhD student
   img: angelika_romanou.jpg
   is_alumni: 
-  website: 
-  twitter: 
-  google_scholar: 
+  website: https://agromanou.github.io/
+  twitter: https://x.com/agromanou
+  google_scholar: https://scholar.google.ch/citations?user=2gTrqa4AAAAJ&hl=en
   semantic_scholar:
-  github: 
+  github: https://github.com/agromanou
 
 - first_name: Anne-Sandra 
   last_name: Hofer
