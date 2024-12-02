@@ -1,0 +1,48 @@
+- title: "INCLUDE: Evaluating Multilingual Language Understanding with Regional Knowledge"
+  authors:
+    -
+      name: Angelika Romanou
+      nlp-lab: true
+    -
+      name: Negar Foroutan
+      nlp-lab: true    
+    -
+      name: Anna Sotnikova
+      nlp-lab: true
+    -
+      name: Zeming Chen
+      nlp-lab: true
+    -
+      name: Sree Harsha Nelaturu
+      nlp-lab: false
+    -
+      name: Shivalika Singh
+      nlp-lab: false
+    -
+      name: Rishabh Maheshwary
+      nlp-lab: false
+    -
+      name: Micol Altomare
+      nlp-lab: false
+    -
+      name: Imanol Schlag
+      nlp-lab: false
+    -
+      name: Marzieh Fadaee
+      nlp-lab: false
+    -
+      name: Sara Hooker
+      nlp-lab: false
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+  year: 2024
+  journal: arXiv preprint
+  link: https://arxiv.org/abs/2411.19799
+  code: 
+  dataset: https://huggingface.co/datasets/CohereForAI/include-base-44
+  project:
+  poster:
+  video:
+  demo: 
+  slides:
