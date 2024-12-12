@@ -1,0 +1,14 @@
+- title: "Can language models learn analogical reasoning? Investigating training objectives and comparisons to human performance"
+  authors:
+    -
+      name: Molly Petersen
+      nlp-lab: true
+    -
+      name: Lonneke van der Plas
+      nlp-lab: false
+
+
+  year: 2023
+  journal: Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)
+  link: https://arxiv.org/abs/2310.05597
+  code: https://github.com/idiap/analogy_learning
