@@ -1,0 +1,19 @@
+- title: "Creativity in AI: Progresses and Challenges"
+  authors:
+    -
+      name: Mete Ismayilzada
+      nlp-lab: true
+    -
+      name: Debjit Paul
+      nlp-lab: true
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Lonneke van der Plas
+      nlp-lab: false
+
+  year: 2024
+  journal: arXiv preprint
+  link: https://arxiv.org/abs/2410.17218
+  code: https://github.com/mismayil/creativity-in-AI
