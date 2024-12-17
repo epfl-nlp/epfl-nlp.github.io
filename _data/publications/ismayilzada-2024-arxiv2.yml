@@ -1,0 +1,33 @@
+- title: "Evaluating Morphological Compositional Generalization in Large Language Models"
+  authors:
+    -
+      name: Mete Ismayilzada
+      nlp-lab: true
+    - 
+      name: Defne Circi
+      nlp-lab: false
+    - 
+      name: Jonne Sälevä
+      nlp-lab: false
+    - 
+      name: Hale Sirin
+      nlp-lab: false
+    - 
+      name: Abdullatif Köksal
+      nlp-lab: false
+    - 
+      name: Bhuwan Dhingra
+      nlp-lab: false
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Lonneke van der Plas
+      nlp-lab: false
+    - 
+      name: Duygu Ataman
+      nlp-lab: false
+
+  year: 2024
+  journal: arXiv preprint
+  link: https://arxiv.org/abs/2410.12656
