@@ -1,0 +1,15 @@
+- title: "Evaluating Creative Short Story Generation in Humans and Large Language Models"
+  authors:
+    -
+      name: Mete Ismayilzada
+      nlp-lab: true
+    - 
+      name: Claire Stevenson
+      nlp-lab: false
+    -
+      name: Lonneke van der Plas
+      nlp-lab: false
+
+  year: 2025
+  journal: arXiv preprint
+  link: https://arxiv.org/abs/2411.02316
