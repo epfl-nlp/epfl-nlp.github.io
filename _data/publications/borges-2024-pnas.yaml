@@ -1,0 +1,73 @@
+- title: "Could ChatGPT get an Engineering Degree? Evaluating Higher Education Vulnerability to AI Assistants"
+  authors:
+    -
+      name: Beatriz Borges*
+      nlp-lab: true
+    -
+      name: Negar Foroutan*
+      nlp-lab: true
+    -
+      name: Deniz Bayazit*
+      nlp-lab: true
+    -
+      name: Anna Sotnikova*
+      nlp-lab: true
+    -
+      name: Syrielle Montariol
+      nlp-lab: true
+    -
+      name: Tanya Nazaretzky
+    -
+      name: Mohammadreza Banaei
+    -
+      name: Alireza Sakhaeirad
+    -
+      name: Philippe Servant
+    -
+      name: Seyed Parsa Neshaei
+    -
+      name: Jibril Frej
+    -
+      name: Angelika Romanou
+      nlp-lab: true
+    -
+      name: Gail Weiss
+      nlp-lab: true
+    -
+      name: Sepideh Mamooler
+      nlp-lab: true
+    -
+      name: Zeming Chen
+      nlp-lab: true
+    -
+      name: Simin Fan
+    -
+      name: Silin Gao
+      nlp-lab: true
+    -
+      name: Mete Ismayilzada
+      nlp-lab: true
+    -
+      name: Debjit Paul
+      nlp-lab: true
+    -
+      name: Philippe Schwaller
+    -
+      name: Sacha Friedli
+    -
+      name: Patrick Jermann
+    -
+      name: Tanja Käser
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: EPFL Grader Consortium (Alexandre Schöpfer, Andrej Janchevski, Anja Tiede, Clarence Linden, Emanuele Troiani, Francesco Salvi, Freya Behrens, Giacomo Orsi, Giovanni Piccioli, Hadrien Sevel, Louis Coulon, Manuela Pineros-Rodriguez, Marin Bonnassies, Pierre Hellich, Puck van Gerwen, Sankalp Gambhir, Solal Pirelli, Thomas Blanchard, Timothée Callens, Toni Abi Aoun, Yannick Calvino Alonso, Yuri Cho) 
+    -
+      name: EPFL Data Consortium (Aleksandra Radenovic, Alexandre Alahi, Alexander Mathis, Anne-Florence Bitbol, Boi Faltings, Cécile Hébert, Devis Tuia, François Maréchal, George Candea, Giuseppe Carleo, Jean-Cédric Chappelier, Nicolas Flammarion, Jean-Marie Fürbringer, Jean-Philippe Pellet, Karl Aberer, Lenka Zdeborová, Marcel Salathé, Martin Jaggi, Martin Rajman, Mathias Payer, Matthieu Wyart, Michael Gastpar, Michele Ceriotti, Ola Svensson, Olivier Lévêque, Paolo Ienne, Rachid Guerraoui, Robert West, Sanidhya Kashyap, Valerio Piazza, Viesturs Simanis, Viktor Kuncak, Volkan Cevher, Akhil Arora, Alberto Chiappa, Antonio Sclocchi, Étienne Bruno, Florian Hofhammer, Gabriel Pescia, Geovani Rizk, Leello Dadi, Lucas Stoffl, Manoel Horta Ribeiro, Matthieu Bovel, and Yueyang Pan)
+
+  year: 2024
+  journal: PNAS (Proceedings of the National Academy of Sciences of the United States of America)
+  link: https://www.pnas.org/doi/10.1073/pnas.2414955121
+  code: https://github.com/epfl-nlp/NLP4Education
+  dataset: https://github.com/epfl-nlp/NLP4Education
