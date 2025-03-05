@@ -67,7 +67,7 @@
       name: EPFL Data Consortium (Aleksandra Radenovic, Alexandre Alahi, Alexander Mathis, Anne-Florence Bitbol, Boi Faltings, Cécile Hébert, Devis Tuia, François Maréchal, George Candea, Giuseppe Carleo, Jean-Cédric Chappelier, Nicolas Flammarion, Jean-Marie Fürbringer, Jean-Philippe Pellet, Karl Aberer, Lenka Zdeborová, Marcel Salathé, Martin Jaggi, Martin Rajman, Mathias Payer, Matthieu Wyart, Michael Gastpar, Michele Ceriotti, Ola Svensson, Olivier Lévêque, Paolo Ienne, Rachid Guerraoui, Robert West, Sanidhya Kashyap, Valerio Piazza, Viesturs Simanis, Viktor Kuncak, Volkan Cevher, Akhil Arora, Alberto Chiappa, Antonio Sclocchi, Étienne Bruno, Florian Hofhammer, Gabriel Pescia, Geovani Rizk, Leello Dadi, Lucas Stoffl, Manoel Horta Ribeiro, Matthieu Bovel, and Yueyang Pan)
 
   year: 2024
-  journal: PNAS (Proceedings of the National Academy of Sciences of the United States of America)
+  journal: Proceedings of the National Academy of Sciences of the United States of America (PNAS)
   link: https://www.pnas.org/doi/10.1073/pnas.2414955121
   code: https://github.com/epfl-nlp/NLP4Education
   dataset: https://github.com/epfl-nlp/NLP4Education
