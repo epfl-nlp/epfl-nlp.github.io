@@ -230,6 +230,16 @@
   semantic_scholar:
   github: 
 
+- first_name: Li
+  last_name: Mi
+  role: PhD student
+  img: li_mi.jpg
+  website: https://limirs.github.io/
+  twitter: 
+  google_scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=PzX2_bsAAAAJ
+  semantic_scholar: https://www.semanticscholar.org/author/Li-Mi/2057207589
+  github: 
+
 - first_name: Nikita
   last_name: Andreev
   role: Research intern
