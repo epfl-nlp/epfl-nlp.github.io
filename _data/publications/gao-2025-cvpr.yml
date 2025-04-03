@@ -1,0 +1,33 @@
+- title: "VinaBench: Benchmark for Faithful and Consistent Visual Narratives"
+  authors:
+    -
+      name: Silin Gao
+      nlp-lab: true
+    -
+      name: Sheryl Mathew
+      nlp-lab: true
+    -
+      name: Li Mi
+      nlp-lab: true
+    -
+      name: Sepideh Mamooler
+      nlp-lab: true
+    -
+      name: Mengjie Zhao
+    -
+      name: Hiromi Wakaki
+    -
+      name: Yuki Mitsufuji
+    -
+      name: Syrielle Montariol
+      nlp-lab: true
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+
+  year: 2025
+  journal: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
+  link: https://arxiv.org/abs/2503.20871
+  code: https://github.com/Silin159/VinaBench
+  dataset: https://huggingface.co/datasets/Silin1590/VinaBench
+  project: https://silin159.github.io/Vina-Bench/
