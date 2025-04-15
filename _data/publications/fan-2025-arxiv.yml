@@ -1,0 +1,23 @@
+- title: "Can Performant LLMs Be Ethical? Quantifying the Impact of Web Crawling Opt-Outs"
+  authors:
+    -
+      name: Dongyang Fan
+    -
+      name: Vinko Sabolcec
+    -
+      name: Matin Ansaripour
+      nlp-lab: true
+    -
+      name:  Ayush Kumar Tarun
+      nlp-lab: true
+    -
+      name: Martin Jaggi
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Imanol Schlag
+
+  year: 2025
+  journal: arXiv preprint
+  link: https://arxiv.org/abs/2504.06219
