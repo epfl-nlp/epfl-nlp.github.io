@@ -1,0 +1,18 @@
+- title: "PICLe: Pseudo-Annotations for In-Context Learning in Low-Resource Named Entity Detection"
+  authors:
+    -
+      name: Sepideh Mamooler
+      nlp-lab: true
+    -
+      name: Syrielle Montariol
+      nlp-lab: true    
+    -
+      name: Alexander Mathis
+      nlp-lab: false
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+  year: 2025
+  journal: Proceedings of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL)
+  link: https://arxiv.org/abs/2412.11923
+  code: https://github.com/sMamooler/PICLe
