@@ -21,13 +21,14 @@
     -
       name: Antoine Bosselut
       nlp-lab: true
-    -
-      name: Lonneke van der Plas
-      nlp-lab: false
     - 
       name: Duygu Ataman
       nlp-lab: false
+    -
+      name: Lonneke van der Plas
+      nlp-lab: false
 
-  year: 2024
-  journal: arXiv preprint
-  link: https://arxiv.org/abs/2410.12656
+  year: 2025
+  journal: Proceedings of the Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL)
+  link: https://aclanthology.org/2025.naacl-long.59/
+  code: https://github.com/mismayil/morph-gen
