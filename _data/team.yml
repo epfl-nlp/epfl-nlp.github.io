@@ -2,12 +2,12 @@
   last_name: Muñoz-Ortiz
   role: Visiting PhD student
   img: alberto_munoz_ortiz.jpg
-  is_alumni: 
+  is_alumni: Yes
   website: https://amunozo.github.io
   twitter: 
   google_scholar: https://scholar.google.com/citations?user=sS5dz4QAAAAJ&hl=en
   semantic_scholar: https://www.semanticscholar.org/author/Alberto-Mu%C3%B1oz-Ortiz/2123454646
-  github: github.com/amunozo
+  github: https://github.com/amunozo
 
 - first_name: Angelika
   last_name: Romanou
@@ -30,6 +30,17 @@
   google_scholar: 
   semantic_scholar:
   github: 
+
+- first_name: Antara 
+  last_name: Bhattacharya
+  role: Research intern
+  img: antara_bhattacharya.jpg
+  is_alumni: 
+  website: 
+  twitter: 
+  google_scholar: 
+  semantic_scholar: 
+  github: https://github.com/antara-raaghavi 
 
 - first_name: Antoine
   last_name: Bosselut
