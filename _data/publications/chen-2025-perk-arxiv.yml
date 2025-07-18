@@ -1,0 +1,20 @@
+- title: "PERK: Long-Context Reasoning as Parameter-Efficient Test-Time Learning"
+  authors:
+    -
+      name: Zeming Chen
+      nlp-lab: true
+    -
+      name: Angelika Romanou
+      nlp-lab: true
+    -
+      name: Gail Weiss
+      nlp-lab: true
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+
+  year: 2025
+  journal: arXiv preprint
+  award: Huggingface Daily Papers
+  link: https://arxiv.org/abs/2507.06415
+  code: https://perk-long-context.web.app
