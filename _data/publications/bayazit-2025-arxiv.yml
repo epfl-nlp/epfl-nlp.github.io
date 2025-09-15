@@ -1,0 +1,15 @@
+- title: "Crosscoding Through Time: Tracking Emergence & Consolidation Of Linguistic Representations Throughout LLM Pretraining"
+  authors:
+    -
+      name: Deniz Bayazit
+      nlp-lab: true
+    -
+      name: Aaron Mueller
+      nlp-lab: false
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+  year: 2025
+  journal: arXiv preprint
+  link: https://arxiv.org/abs/2509.05291
+  code: https://github.com/bayazitdeniz/crosscoding-through-time
