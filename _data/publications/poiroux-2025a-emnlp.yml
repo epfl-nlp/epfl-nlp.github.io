@@ -1,0 +1,13 @@
+- title: "RLMEval: Evaluating Research-Level Neural Theorem Proving"
+  authors:
+    - name: Auguste Poiroux
+      nlp-lab: true
+    - name: Antoine Bosselut†
+      nlp-lab: true
+    - name: Viktor Kunčak†
+      nlp-lab: false
+
+  year: 2025
+  journal: Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP) - Findings
+  link:
+  code: https://github.com/augustepoiroux/RLMEval
