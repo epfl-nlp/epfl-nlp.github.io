@@ -1,0 +1,16 @@
+- title: "Augmenting LLMs' Reasoning by Reinforcing Abstract Thinking"
+  authors:
+    -
+      name: Silin Gao
+      nlp-lab: true
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Samy Bengio
+    -
+      name: Emmanuel Abbe
+
+  year: 2025
+  journal: arXiv preprint
+  link: https://arxiv.org/abs/2506.07751
