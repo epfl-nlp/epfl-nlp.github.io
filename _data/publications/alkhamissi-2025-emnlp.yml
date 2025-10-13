@@ -1,0 +1,31 @@
+- title: "From Language to Cognition: How LLMs Outgrow the Human Language Network"
+  authors:
+    -
+      name: Badr AlKhamissi
+      nlp-lab: true
+    -
+      name: Greta Tuckute
+      nlp-lab: false    
+    - 
+      name: Yingtian Tang
+      nlp-lab: false
+    - 
+      name: Taha Binhuraib
+      nlp-lab: false
+    -
+      name: Antoine Bosselut†
+      nlp-lab: true
+    -
+      name: Martin Schrimpf†
+      nlp-lab: false
+
+  year: 2025
+  journal: Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)
+  link: https://arxiv.org/abs/2503.01830
+  code: 
+  dataset: 
+  project: https://language-to-cognition.epfl.ch
+  poster:
+  video:
+  demo: 
+  slides:
