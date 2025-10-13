@@ -1,0 +1,31 @@
+- title: "Mixture of Cognitive Reasoners: Modular Reasoning with Brain-Like Specialization"
+  authors:
+    -
+      name: Badr AlKhamissi
+      nlp-lab: true
+    -
+      name: C. Nicolò De Sabbata
+      nlp-lab: true
+    -
+      name: Greta Tuckute
+      nlp-lab: false    
+    - 
+      name: Zeming Chen
+      nlp-lab: true
+    -
+      name: Martin Schrimpf†
+      nlp-lab: false
+    -
+      name: Antoine Bosselut†
+      nlp-lab: true
+
+  year: 2025
+  journal: arXiv preprint
+  link: https://arxiv.org/abs/2506.13331
+  code: https://github.com/bkhmsi/mixture-of-cognitive-reasoners
+  dataset: 
+  project: https://cognitive-reasoners.epfl.ch
+  poster:
+  video:
+  demo: 
+  slides:

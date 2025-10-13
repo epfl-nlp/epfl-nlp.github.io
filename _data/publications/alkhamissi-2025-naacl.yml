@@ -1,0 +1,25 @@
+- title: "The LLM Language Network: A Neuroscientific Approach for Identifying Causally Task-Relevant Units"
+  authors:
+    -
+      name: Badr AlKhamissi
+      nlp-lab: true
+    -
+      name: Greta Tuckute
+      nlp-lab: false    
+    -
+      name: Antoine Bosselut†
+      nlp-lab: true
+    -
+      name: Martin Schrimpf†
+      nlp-lab: false
+
+  year: 2025
+  journal: Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)
+  link: https://arxiv.org/abs/2411.02280
+  code: https://github.com/bkhmsi/llm-localization
+  dataset: 
+  project: https://llm-language-network.epfl.ch
+  poster:
+  video:
+  demo: 
+  slides:
