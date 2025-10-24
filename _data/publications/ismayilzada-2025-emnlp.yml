@@ -1,0 +1,34 @@
+- title: "Creative Preference Optimization"
+  authors:
+    -
+      name: Mete Ismayilzada
+      nlp-lab: true
+    -
+      name: Antonio Laverghetta Jr.
+      nlp-lab: false
+    -
+      name: Simone A. Luchini
+      nlp-lab: false
+    -
+      name: Reet Patel
+      nlp-lab: false
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Lonneke van der Plas
+      nlp-lab: false
+    -
+      name: Roger E. Beaty
+      nlp-lab: false
+
+  year: 2025
+  journal: Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP) - Findings
+  link: https://arxiv.org/abs/2505.14442
+  code: https://github.com/mismayil/creative-preference-optimization
+  dataset: https://huggingface.co/collections/CNCL-Penn-State/crpo-67d0b11ff358430823dbb3df
+  project: https://www.mete.is/creative-preference-optimization/
+  poster: 
+  video: 
+  demo: 
+  slides: 
