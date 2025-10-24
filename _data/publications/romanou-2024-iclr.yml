@@ -36,8 +36,8 @@
     -
       name: Antoine Bosselut
       nlp-lab: true
-  year: 2024
-  journal: arXiv preprint
+  year: 2025
+  journal: International Conference for Learning Representations (ICLR)
   link: https://arxiv.org/abs/2411.19799
   code: 
   dataset: https://huggingface.co/datasets/CohereForAI/include-base-44
@@ -46,3 +46,4 @@
   video:
   demo: 
   slides:
+  award: Spotlight Paper (Top 5% of Papers)
