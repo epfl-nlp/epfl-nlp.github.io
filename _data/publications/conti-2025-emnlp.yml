@@ -1,0 +1,26 @@
+- title: "Context is Gold to find the Gold Passage: Evaluating and Training Contextual Document Embeddings"
+  authors:
+    -
+      name: Max Conti
+      nlp-lab: true
+    -
+      name: Manuel Faysse
+      nlp-lab: false
+    -
+      name: Gautier Viaud
+      nlp-lab: false
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Céline Hudelot
+      nlp-lab: false
+    -
+      name: Pierre Colombo
+      nlp-lab: false
+
+  year: 2025
+  journal: Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)
+  link: https://arxiv.org/abs/2505.24782
+  code: https://github.com/illuin-tech/contextual-embeddings
+  

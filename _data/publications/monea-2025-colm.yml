@@ -1,0 +1,18 @@
+- title: "LLMs Are In-Context Bandit Reinforcement Learners"
+  authors:
+    -
+      name: Giovanni Monea
+      nlp-lab: false
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Kianté Brantley
+      nlp-lab: false
+    -
+      name: Yoav Artzi
+      nlp-lab: false
+
+  year: 2025
+  journal: Conference On Language Modeling (COLM)
+  link: https://arxiv.org/abs/2410.05362

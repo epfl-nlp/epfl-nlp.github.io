@@ -1,0 +1,25 @@
+- title: "A Logical Fallacy-Informed Framework for Argument Generation"
+  authors:
+    -
+      name: Luca Mouchel
+      nlp-lab: false
+    -
+      name: Debjit Paul
+      nlp-lab: true
+    -
+      name: Shaobo Cui
+      nlp-lab: false
+    -
+      name: Robert West
+      nlp-lab: false
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Boi Faltings
+      nlp-lab: false
+
+  year: 2025
+  journal: Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL)
+  award: Outstanding Paper Award
+  link: https://arxiv.org/abs/2408.03618

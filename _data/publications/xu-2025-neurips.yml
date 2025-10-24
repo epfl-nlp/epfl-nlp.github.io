@@ -1,0 +1,19 @@
+- title: "Positional Fragility in LLMs: How Offset Effects Reshape Our Understanding of Memorization Risks"
+  authors:
+    -
+      name: Yixuan Xu
+      nlp-lab: false
+    -
+      name: Antoni-Joan Solergibert i Llaquet
+      nlp-lab: false
+    -
+      name: Antoine Bosselut
+      nlp-lab: tru
+    -
+      name: Imanol Schlag
+      nlp-lab: false
+
+  year: 2025
+  journal: Neural Information Processing Systems (NeurIPS)
+  link: https://arxiv.org/abs/2505.13171
+

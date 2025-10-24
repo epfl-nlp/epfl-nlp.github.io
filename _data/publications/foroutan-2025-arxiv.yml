@@ -1,0 +1,27 @@
+- title: "Parity-Aware Byte-Pair Encoding: Improving Cross-lingual Fairness in Tokenization"
+  authors:
+    -
+      name: Negar Foroutan
+      nlp-lab: true
+    -
+      name: Clara Meister
+      nlp-lab: false
+    -
+      name: Debjit Paul
+      nlp-lab: true
+    -
+      name: Joel Niklaus
+      nlp-lab: false
+    -
+      name: Sina Ahmadi
+      nlp-lab: false
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Rico Sennrich
+      nlp-lab: false
+
+  year: 2025
+  journal: arXiv preprint
+  link: https://arxiv.org/abs/2508.04796

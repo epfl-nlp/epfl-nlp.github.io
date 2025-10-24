@@ -1,0 +1,309 @@
+- title: "Apertus: Democratizing Open and Compliant LLMs for Global Language Environments"
+  authors:
+    -
+      name: Alejandro Hernández-Cano
+      nap-lab: false
+    -
+      name: Alexander Hägele
+      nap-lab: false
+    -
+      name: Allen Hao Huang
+      nap-lab: false
+    -
+      name: Angelika Romanou
+      nap-lab: true
+    -
+      name: Antoni-Joan Solergibert
+      nap-lab: false
+    -
+      name: Barna Pasztor
+      nap-lab: false
+    -
+      name: Bettina Messmer
+      nap-lab: false
+    -
+      name: Dhia Garbaya
+      nap-lab: false
+    -
+      name: Eduard Frank Ďurech
+      nap-lab: false
+    -
+      name: Ido Hakimi
+      nap-lab: false
+    -
+      name: Juan García Giraldo
+      nap-lab: false
+    -
+      name: Mete Ismayilzada
+      nap-lab: true
+    -
+      name: Negar Foroutan
+      nap-lab: true
+    -
+      name: Skander Moalla
+      nap-lab: false
+    -
+      name: Tiancheng Chen
+      nap-lab: false
+    -
+      name: Vinko Sabolčec
+      nap-lab: false
+    -
+      name: Yixuan Xu
+      nap-lab: false
+    -
+      name: Michael Aerni
+      nap-lab: false
+    -
+      name: Badr AlKhamissi
+      nap-lab: true
+    -
+      name: Ines Altemir Marinas
+      nap-lab: false
+    -
+      name: Mohammad Hossein Amani
+      nap-lab: false
+    -
+      name: Matin Ansaripour
+      nap-lab: false
+    -
+      name: Ilia Badanin
+      nap-lab: false
+    -
+      name: Harold Benoit
+      nap-lab: false
+    -
+      name: Emanuela Boros
+      nap-lab: false
+    -
+      name: Nicholas Browning
+      nap-lab: false
+    -
+      name: Fabian Bösch
+      nap-lab: false
+    -
+      name: Maximilian Böther
+      nap-lab: false
+    -
+      name: Niklas Canova
+      nap-lab: false
+    -
+      name: Camille Challier
+      nap-lab: false
+    -
+      name: Clement Charmillot
+      nap-lab: false
+    -
+      name: Jonathan Coles
+      nap-lab: false
+    -
+      name: Jan Deriu
+      nap-lab: false
+    -
+      name: Arnout Devos
+      nap-lab: false
+    -
+      name: Lukas Drescher
+      nap-lab: false
+    -
+      name: Daniil Dzenhaliou
+      nap-lab: false
+    -
+      name: Maud Ehrmann
+      nap-lab: false
+    -
+      name: Dongyang Fan
+      nap-lab: false
+    -
+      name: Simin Fan
+      nap-lab: false
+    -
+      name: Silin Gao
+      nap-lab: true
+    -
+      name: Miguel Gila
+      nap-lab: false
+    -
+      name: María Grandury
+      nap-lab: true
+    -
+      name: Diba Hashemi
+      nap-lab: false
+    -
+      name: Alexander Hoyle
+      nap-lab: false
+    -
+      name: Jiaming Jiang
+      nap-lab: false
+    -
+      name: Mark Klein
+      nap-lab: false
+    -
+      name: Andrei Kucharavy
+      nap-lab: false
+    -
+      name: Anastasiia Kucherenko
+      nap-lab: false
+    -
+      name: Frederike Lübeck
+      nap-lab: false
+    -
+      name: Roman Machacek
+      nap-lab: false
+    -
+      name: Theofilos Manitaras
+      nap-lab: false
+    -
+      name: Andreas Marfurt
+      nap-lab: false
+    -
+      name: Kyle Matoba
+      nap-lab: false
+    -
+      name: Simon Matrenok
+      nap-lab: false
+    -
+      name: Henrique Mendoncça
+      nap-lab: false
+    -
+      name: Fawzi Roberto Mohamed
+      nap-lab: false
+    -
+      name: Syrielle Montariol
+      nap-lab: true
+    -
+      name: Luca Mouchel
+      nap-lab: false
+    -
+      name: Sven Najem-Meyer
+      nap-lab: false
+    -
+      name: Jingwei Ni
+      nap-lab: false
+    -
+      name: Gennaro Oliva
+      nap-lab: false
+    -
+      name: Matteo Pagliardini
+      nap-lab: false
+    -
+      name: Elia Palme
+      nap-lab: false
+    -
+      name: Andrei Panferov
+      nap-lab: false
+    -
+      name: Léo Paoletti
+      nap-lab: false
+    -
+      name: Marco Passerini
+      nap-lab: false
+    -
+      name: Ivan Pavlov
+      nap-lab: false
+    -
+      name: Auguste Poiroux
+      nap-lab: true
+    -
+      name: Kaustubh Ponkshe
+      nap-lab: false
+    -
+      name: Nathan Ranchin
+      nap-lab: false
+    -
+      name: Javi Rando
+      nap-lab: false
+    -
+      name: Mathieu Sauser
+      nap-lab: false
+    -
+      name: Jakhongir Saydaliev
+      nap-lab: false
+    -
+      name: Muhammad Ali Sayfiddinov
+      nap-lab: false
+    -
+      name: Marian Schneider
+      nap-lab: false
+    -
+      name: Stefano Schuppli
+      nap-lab: false
+    -
+      name: Marco Scialanga
+      nap-lab: false
+    -
+      name: Andrei Semenov
+      nap-lab: false
+    -
+      name: Kumar Shridhar
+      nap-lab: false
+    -
+      name: Raghav Singhal
+      nap-lab: false
+    -
+      name: Anna Sotnikova
+      nap-lab: true
+    -
+      name: Alexander Sternfeld
+      nap-lab: false
+    -
+      name: Ayush Kumar Tarun
+      nap-lab: true
+    -
+      name: Paul Teiletche
+      nap-lab: false
+    -
+      name: Jannis Vamvas
+      nap-lab: false
+    -
+      name: Xiaozhe Yao
+      nap-lab: false
+    -
+      name: Hao Zhao Alexander Ilic
+      nap-lab: false
+    -
+      name: Ana Klimovic
+      nap-lab: false
+    -
+      name: Andreas Krause
+      nap-lab: false
+    -
+      name: Caglar Gulcehre
+      nap-lab: false
+    -
+      name: David Rosenthal
+      nap-lab: false
+    -
+      name: Elliott Ash
+      nap-lab: false
+    -
+      name: Florian Tramèr
+      nap-lab: false
+    -
+      name: Joost VandeVondele
+      nap-lab: false
+    -
+      name: Livio Veraldi
+      nap-lab: false
+    -
+      name: Martin Rajman
+      nap-lab: false
+    -
+      name: Thomas Schulthess
+      nap-lab: false
+    -
+      name: Torsten Hoefler
+      nap-lab: false
+    -
+      name: Antoine Bosselut
+      nap-lab: true
+    -
+      name: Martin Jaggi
+      nap-lab: false
+    -
+      name: Imanol Schlag
+      nap-lab: false
+
+  year: 2025
+  journal: arXiv preprint
+  link: https://arxiv.org/abs/2509.14233

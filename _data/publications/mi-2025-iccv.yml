@@ -1,0 +1,21 @@
+- title: "GeoExplorer: Active Geo-localization with Curiosity-Driven Exploration"
+  authors:
+    -
+      name: Li Mi
+      nlp-lab: true
+    -
+      name: Manon Béchaz
+      nlp-lab: false
+    -
+      name: Zeming Chen
+      nlp-lab: true
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Devis Tuia
+      nlp-lab: false
+
+  year: 2025
+  journal: Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)
+  link: https://openaccess.thecvf.com/content/ICCV2025/html/Mi_GeoExplorer_Active_Geo-localization_with_Curiosity-Driven_Exploration_ICCV_2025_paper.html

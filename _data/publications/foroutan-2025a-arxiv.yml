@@ -1,0 +1,19 @@
+- title: "ConLID: Supervised Contrastive Learning for Low-Resource Language Identification"
+  authors:
+    -
+      name: Negar Foroutan
+      nlp-lab: true
+    -
+      name: Jakhongir Saydaliev
+      nlp-lab: true
+    -
+      name: Ye Eun Kim
+      nlp-lab: false
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+
+  year: 2025
+  journal: arXiv preprint
+  award: Winner of WMDQS Shared Task \#2
+  link: https://arxiv.org/abs/2506.15304
