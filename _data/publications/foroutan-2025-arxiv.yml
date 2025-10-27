@@ -16,10 +16,10 @@
       name: Sina Ahmadi
       nlp-lab: false
     -
-      name: Antoine Bosselut
+      name: Antoine Bosselut†
       nlp-lab: true
     -
-      name: Rico Sennrich
+      name: Rico Sennrich†
       nlp-lab: false
 
   year: 2025
