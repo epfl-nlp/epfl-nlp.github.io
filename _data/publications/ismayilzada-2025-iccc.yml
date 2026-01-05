@@ -13,3 +13,5 @@
   year: 2025
   journal: Proceedings of the International Conference on Computational Creativity (ICCC)
   link: https://arxiv.org/abs/2411.02316
+  code: https://github.com/mismayil/creative-story-gen
+  dataset: https://huggingface.co/datasets/mismayil/creative_story_generation_dataset
