@@ -14,6 +14,7 @@
       nlp-lab: true
 
   year: 2025
-  journal: arXiv preprint
+  journal: Proceedings of the European Chapter of the Association for Computational Linguistics (EACL)
   award: "Winner of WMDQS Shared Task #2"
   link: https://arxiv.org/abs/2506.15304
+  code: https://github.com/epfl-nlp/ConLID
