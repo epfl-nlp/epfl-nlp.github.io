@@ -352,7 +352,18 @@
   semantic_scholar:
   github: 
 
-- first_name: Sepideh 
+- first_name: Rodrigo
+  last_name: Alvarez Lucendo
+  role: Master student
+  img: na.jpg
+  is_alumni: Yes
+  website:
+  twitter:
+  google_scholar: https://scholar.google.com/citations?hl=en&user=IxK94rkAAAAJ
+  semantic_scholar:
+  github: https://github.com/ralvarezlucend
+
+- first_name: Sepideh
   last_name: Mamooler
   role: PhD student
   img: sepideh_mamooler.jpg
