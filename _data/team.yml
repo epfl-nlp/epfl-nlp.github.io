@@ -285,6 +285,16 @@
   semantic_scholar:
   github: https://github.com/maximzubkov
 
+- first_name: María
+  last_name: Grandury
+  role: PhD student
+  img: mariagrandury.png
+  is_alumni: 
+  website: https://mariagrandury.ai
+  twitter: https://x.com/mariagrandury
+  google_scholar: https://scholar.google.com/citations?user=3mc_-QsAAAAJ
+  semantic_scholar: https://www.semanticscholar.org/author/Mar%C3%ADa-Grandury/2176184513
+  github: https://github.com/mariagrandury
 
 - first_name: Maria 
   last_name: Ios Glarou
