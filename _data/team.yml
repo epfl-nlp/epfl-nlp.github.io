@@ -97,6 +97,17 @@
   semantic_scholar:
   github: https://github.com/ayushkumartarun
 
+- first_name: Madhur
+  last_name: Panwar
+  role: PhD student
+  img: madhur_panwar.jpg
+  is_alumni: 
+  website: https://mdrpanwar.github.io
+  twitter: https://x.com/mdrpanwar
+  google_scholar: https://scholar.google.com/citations?user=I7OVMTsAAAAJ&hl=en
+  semantic_scholar: https://www.semanticscholar.org/author/Madhur-Panwar/2030973547
+  github: https://github.com/mdrpanwar
+
 - first_name: Axel
   last_name: Marmet
   role: Master student
