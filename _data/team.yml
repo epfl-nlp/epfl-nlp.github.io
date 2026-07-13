@@ -526,3 +526,14 @@
   google_scholar: https://scholar.google.com/citations?user=18dzNuIAAAAJ&hl=en
   semantic_scholar:
   github: https://github.com/HAOTIAN89
+
+- first_name: Clara
+  last_name: Meister
+  role: Postdoc
+  img: clara_meister.jpg
+  is_alumni:
+  website: https://cimeister.github.io/
+  twitter: https://x.com/clara__meister
+  google_scholar: https://scholar.google.com/citations?user=quJhNH8AAAAJ&hl=en
+  semantic_scholar:
+  github: https://github.com/cimeister
