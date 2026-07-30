@@ -13,48 +13,114 @@
         <div class="row">
             {% for member in sorted_team %}
                 {% unless member.is_alumni %}
-                    {% if member.role != 'Master student' %}
-                        {% if member.role != 'Research intern' %}
-                            {% include components/member.html 
-                                member = member
-                            %}
-                        {% endif %}
+                    {% if member.role contains 'Professor' %}
+                        {% include components/member.html
+                            member = member
+                        %}
+                    {% endif %}
+                {% endunless %}
+            {% endfor %}
+            {% for member in sorted_team %}
+                {% unless member.is_alumni %}
+                    {% if member.role == 'Administration' %}
+                        {% include components/member.html
+                            member = member
+                        %}
+                    {% endif %}
+                {% endunless %}
+            {% endfor %}
+            {% for member in sorted_team %}
+                {% unless member.is_alumni %}
+                    {% if member.role == 'Postdoc' %}
+                        {% include components/member.html
+                            member = member
+                        %}
+                    {% endif %}
+                {% endunless %}
+            {% endfor %}
+            {% for member in sorted_team %}
+                {% unless member.is_alumni %}
+                    {% if member.role contains 'PhD student' %}
+                        {% include components/member.html
+                            member = member
+                        %}
                     {% endif %}
                 {% endunless %}
             {% endfor %}
         </div>
-        <h2 class="section-heading">Research interns</h2>
-        <div class="row">
-            {% for member in sorted_team %}
-                {% unless member.is_alumni %}
-                    {% if member.role == 'Research intern' %}
-                        {% include components/member.html 
-                            member = member
-                        %}
-                    {% endif %}
-                {% endunless %}
-            {% endfor %}
-        </div>  
-        <h2 class="section-heading">Master students</h2>
-        <div class="row">
-            {% for member in sorted_team %}
-                {% unless member.is_alumni %}
-                    {% if member.role == 'Master student' %}
-                        {% include components/member.html 
-                            member = member
-                        %}
-                    {% endif %}
-                {% endunless %}
-            {% endfor %}
-        </div>  
+        {% assign has_research_interns = false %}
+        {% for member in sorted_team %}
+            {% unless member.is_alumni %}
+                {% if member.role == 'Research intern' %}
+                    {% assign has_research_interns = true %}
+                {% endif %}
+            {% endunless %}
+        {% endfor %}
+        {% if has_research_interns %}
+            <h2 class="section-heading">Research interns</h2>
+            <div class="row">
+                {% for member in sorted_team %}
+                    {% unless member.is_alumni %}
+                        {% if member.role == 'Research intern' %}
+                            {% include components/member.html
+                                member = member
+                            %}
+                        {% endif %}
+                    {% endunless %}
+                {% endfor %}
+            </div>
+        {% endif %}
+
+        {% assign has_master_students = false %}
+        {% for member in sorted_team %}
+            {% unless member.is_alumni %}
+                {% if member.role == 'Master student' %}
+                    {% assign has_master_students = true %}
+                {% endif %}
+            {% endunless %}
+        {% endfor %}
+        {% if has_master_students %}
+            <h2 class="section-heading">Master students</h2>
+            <div class="row">
+                {% for member in sorted_team %}
+                    {% unless member.is_alumni %}
+                        {% if member.role == 'Master student' %}
+                            {% include components/member.html
+                                member = member
+                            %}
+                        {% endif %}
+                    {% endunless %}
+                {% endfor %}
+            </div>
+        {% endif %}
 
         <br/>
         <div class="row alumni">
-            <strong>Alumni:</strong>
+            <h3>Postdoctoral alumni</h3>
+            <ul>
+            {% for member in sorted_team %}
+                {% if member.is_alumni and member.role == 'Postdoc' %}
+                    <li>{{member.first_name}} {{member.last_name}} <em>({{member.role}})</em></li>
+                {% endif %}
+            {% endfor %}
+            </ul>
+
+            <h3>PhD alumni</h3>
+            <ul>
+            {% for member in sorted_team %}
+                {% if member.is_alumni and member.role contains 'PhD student' %}
+                    <li>{{member.first_name}} {{member.last_name}} <em>({{member.role}})</em></li>
+                {% endif %}
+            {% endfor %}
+            </ul>
+
+            <h3>Student and intern alumni</h3>
             <ul>
             {% for member in sorted_team %}
                 {% if member.is_alumni %}
-                    <li>{{member.first_name}} {{member.last_name}} <em>({{member.role}})</em></li>
+                    {% unless member.role == 'Postdoc' or member.role contains 'PhD student' %}
+                        <li>{{member.first_name}} {{member.last_name}} <em>({{member.role}})</em></li>
+                    {% endunless %}
                 {% endif %}
             {% endfor %}
             </ul>

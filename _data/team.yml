@@ -289,7 +289,7 @@
   last_name: Sotnikova
   role: Postdoc
   img: anna_sotnikova.jpg
-  is_alumni: 
+  is_alumni: Yes
   website: https://www.linkedin.com/in/aasotnikova/
   twitter: 
   google_scholar: https://scholar.google.com/citations?user=GQ9JFqEAAAAJ&hl=en
@@ -421,7 +421,7 @@
   last_name: Gao
   role: PhD student
   img: silin_gao.jpg
-  is_alumni: 
+  is_alumni: Yes
   website: https://silin159.github.io/SilinGao/
   twitter: https://twitter.com/silin_gao
   google_scholar: https://scholar.google.com/citations?user=SXP4blIAAAAJ&hl=en&oi=ao
@@ -497,7 +497,7 @@
 - first_name: Badr
   last_name: AlKhamissi
   role: PhD student
-  img: badr.jpg
+  img: badr_alkhamissi.jpg
   is_alumni: 
   website: https://bkhmsi.github.io
   twitter: https://twitter.com/bkhmsi
