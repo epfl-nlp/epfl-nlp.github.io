@@ -1,0 +1,37 @@
+- title: "Large Language Models Align with the Human Brain during Creative Thinking"
+  authors:
+    -
+      name: Mete Ismayilzada
+      nlp-lab: true
+    -
+      name: Simone A. Luchini
+      nlp-lab: false
+    -
+      name: Abdulkadir Gokce
+      nlp-lab: false
+    -
+      name: Badr Alkhamissi
+      nlp-lab: true
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+    -
+      name: Antonio Laverghetta Jr.
+      nlp-lab: false
+    -
+      name: Lonneke van der Plas
+      nlp-lab: false
+    -
+      name: Roger E. Beaty
+      nlp-lab: false
+
+  year: 2026
+  journal: Proceedings of the Conference on Language Modeling (COLM)
+  link: https://arxiv.org/abs/2604.03480
+  code: https://github.com/mismayil/llm-brain-creative-alignment
+  dataset:
+  project:
+  poster: 
+  video: 
+  demo: 
+  slides: 

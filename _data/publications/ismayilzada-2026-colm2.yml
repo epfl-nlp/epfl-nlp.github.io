@@ -1,0 +1,31 @@
+- title: "CresOWLve: Benchmarking Creative Problem-Solving Over Real-World Knowledge"
+  authors:
+    -
+      name: Mete Ismayilzada
+      nlp-lab: true
+    -
+      name: Renqing Cuomao
+      nlp-lab: true
+    -
+      name: Daniil Yurshevich
+      nlp-lab: false
+    -
+      name: Anna Sotnikova
+      nlp-lab: true
+    -
+      name: Lonneke van der Plas
+      nlp-lab: false
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+
+  year: 2026
+  journal: Proceedings of the Conference on Language Modeling (COLM)
+  link: https://arxiv.org/abs/2604.03374
+  code: https://github.com/mismayil/cresowlve
+  dataset: https://huggingface.co/datasets/mismayil/cresowlve
+  project: https://www.mete.is/cresowlve/
+  poster: 
+  video: 
+  demo: 
+  slides: 
