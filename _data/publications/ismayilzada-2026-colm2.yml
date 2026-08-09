@@ -20,7 +20,7 @@
       nlp-lab: true
 
   year: 2026
-  journal: Proceedings of the Conference on Language Modeling (COLM)
+  journal: Third Conference on Language Modeling (COLM)
   link: https://arxiv.org/abs/2604.03374
   code: https://github.com/mismayil/cresowlve
   dataset: https://huggingface.co/datasets/mismayil/cresowlve
