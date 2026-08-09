@@ -26,7 +26,7 @@
       nlp-lab: false
 
   year: 2026
-  journal: Proceedings of the Conference on Language Modeling (COLM)
+  journal: Third Conference on Language Modeling (COLM)
   link: https://arxiv.org/abs/2604.03480
   code: https://github.com/mismayil/llm-brain-creative-alignment
   dataset:
