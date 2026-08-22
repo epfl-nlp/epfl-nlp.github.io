@@ -13,8 +13,8 @@
       name: Antoine Bosselut
       nlp-lab: true
 
-  year: 2025
-  journal: arXiv preprint
+  year: 2026
+  journal: International Conference for Learning Representations (ICLR)
   award: Huggingface Daily Papers
   link: https://arxiv.org/abs/2507.06415
   code: https://perk-long-context.web.app
