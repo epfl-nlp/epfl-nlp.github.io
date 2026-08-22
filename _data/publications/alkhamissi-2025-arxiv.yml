@@ -19,8 +19,8 @@
       name: Antoine Bosselut†
       nlp-lab: true
 
-  year: 2025
-  journal: arXiv preprint
+  year: 2026
+  journal: International Conference for Learning Representations (ICLR)
   link: https://arxiv.org/abs/2506.13331
   code: https://github.com/bkhmsi/mixture-of-cognitive-reasoners
   dataset: 
