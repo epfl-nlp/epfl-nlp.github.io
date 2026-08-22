@@ -1,0 +1,35 @@
+- title: "DynaVieW: Schema-Guided World Modeling for Understanding Hierarchical Visual Dynamics"
+  authors:
+    -
+      name: Silin Gao*
+      nlp-lab: true
+    -
+      name: Hao Zhao*
+      nlp-lab: true 
+    -
+      name: Zeming Chen
+      nlp-lab: true 
+    -
+      name: Sepideh Mamooler
+      nlp-lab: true
+    -
+      name: Antara Raaghavi Bhattacharya
+    -
+      name: Qiyu Wu
+    -
+      name: Hiromi Wakaki
+    -
+      name: Yuki Mitsufuji
+    -
+      name: Li Mi
+      nlp-lab: true
+    -
+      name: Syrielle Montariol
+      nlp-lab: true
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+
+  year: 2026
+  journal: International Conference on Machine Learning (ICML)
+  link: https://arxiv.org/abs/2607.04112
