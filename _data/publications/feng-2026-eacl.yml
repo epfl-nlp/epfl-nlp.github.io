@@ -1,0 +1,14 @@
+- title: "Tracking the Limits of Knowledge Propagation: How LLMs Fail at Multi-Step Reasoning with Conflicting Knowledge"
+  authors:
+    - name: Yiyang Feng
+    - name: Zeming Chen
+      nlp-lab: true
+    - name: Haotian Wu
+      nlp-lab: true
+    - name: Jiawei Zhou
+    - name: Antoine Bosselut
+      nlp-lab: true
+
+  year: 2026
+  journal: Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL)
+  link: https://aclanthology.org/2026.eacl-long.273
