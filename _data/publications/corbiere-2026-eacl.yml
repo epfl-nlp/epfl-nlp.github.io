@@ -1,0 +1,16 @@
+- title: "DRIVINGVQA: A Dataset for Interleaved Visual Chain-of-Thought in Real-World Driving Scenarios"
+  authors:
+    - name: Charles Corbière*
+    - name: Simon Roburin*
+    - name: Syrielle Montariol*
+      nlp-lab: true
+    - name: Antoine Bosselut
+      nlp-lab: true
+    - name: Alexandre Alahi
+
+  year: 2026
+  journal: Findings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL)
+  link: https://aclanthology.org/2026.findings-eacl.173
+  code: https://github.com/vita-epfl/RIV-CoT
+  project: https://vita-epfl.github.io/DrivingVQA
+  dataset: https://huggingface.co/datasets/EPFL-DrivingVQA/DrivingVQA

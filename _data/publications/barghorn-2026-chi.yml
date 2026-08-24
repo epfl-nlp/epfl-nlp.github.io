@@ -1,0 +1,12 @@
+- title: "AI meets Mathematics Education: Supporting Instructors in Large Mathematics Classes with Context-Aware AI"
+  authors:
+    - name: Jérémy Barghorn
+    - name: Anna Sotnikova
+      nlp-lab: true
+    - name: Sacha Friedli
+    - name: Antoine Bosselut
+      nlp-lab: true
+
+  year: 2026
+  journal: Proceedings of the 2026 Association for Computing Machinery Conference on Human Factors in Computing Systems (CHI)
+  link: https://dl.acm.org/doi/10.1145/3772318.3791236
