@@ -31,5 +31,6 @@
       nlp-lab: true
 
   year: 2026
-  journal: International Conference on Machine Learning (ICML)
+  journal: Proceedings of the 43rd International Conference on Machine Learning (ICML)
   link: https://arxiv.org/abs/2607.04112
+  code: https://github.com/Silin159/DynaVieW
