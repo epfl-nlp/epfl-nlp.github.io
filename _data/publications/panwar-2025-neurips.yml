@@ -1,0 +1,19 @@
+- title: "For Better or for Worse, Transformers Seek Patterns for Memorization"
+  authors:
+    -
+      name: Madhur Panwar
+      nlp-lab: true
+    -
+      name: Gail Weiss
+      nlp-lab: true
+    -
+      name: Navin Goyal
+      nlp-lab: false
+    - 
+      name: Antoine Bosselut
+      nlp-lab: true
+
+  year: 2025
+  journal: The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)
+  link: https://openreview.net/forum?id=98NrkXPRZ9
+  code: https://github.com/mdrpanwar/memorization-patterns
