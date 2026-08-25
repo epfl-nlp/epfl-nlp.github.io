@@ -11,20 +11,33 @@ jobs:
     name: Jekyll build
     runs-on: ubuntu-latest
 
-    # Install exactly what Gemfile.lock pins, and fail if the lockfile is out of
-    # sync with the Gemfile. Without this, bundler silently re-resolves
-    env:
-      BUNDLE_FROZEN: 'true'
-
     steps:
       - uses: actions/checkout@v4
 
       # Ruby 3.1 matches the era of the pinned Jekyll 4.2.2. Newer Rubies break
-      # the native extensions in eventmachine 1.2.7 / sassc 2.4.0
+      # the native extensions in eventmachine 1.2.7 / sassc 2.4.0.
+      #
+      # Deliberately no `bundler-cache: true` here: it runs `bundle install`
+      # during this step, which is too early -- the lockfile needs the Linux
+      # platform added first (see below).
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1'
-          bundler-cache: true
+          ruby-version: "3.1"
+
+      # Gemfile.lock is generated on macOS and lists only darwin platforms, so
+      # bundler will not install from it as-is. `--add-platform` amends it
+      # conservatively, keeping every locked version.
+      #
+      # `frozen` is what makes this safe: without it bundler quietly discards
+      # the lockfile and resolves from scratch against rubygems, so CI ends up
+      # testing a dependency set nobody committed. That is what broke the
+      # Dependabot PRs -- a fresh resolve jumped public_suffix 5.0.0 -> 7.0.5,
+      # which needs Ruby >= 3.2. Frozen pins us to the committed resolution.
+      - name: Install dependencies
+        run: |
+          bundle lock --add-platform x86_64-linux
+          bundle config set --local frozen true
+          bundle install --jobs 4 --retry 3
 
       - name: Build site
         env:
