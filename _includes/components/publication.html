@@ -5,6 +5,11 @@
     {% endfor %}
     {{include.pub.journal}}. {% if include.pub.note %}{{include.pub.note}}.{% endif %}</p>
     {% if include.pub.award %}<p class="award">{{include.pub.award}}.</p>{% endif %}
+    {% if include.pub.arxiv %}
+      <div>
+        <a href="{{ include.pub.arxiv | replace: 'EPFL_NLP_URL!', site.url }}" class="btn btn-primary"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> arXiv</a>
+      </div>
+    {% endif %}
     {% if include.pub.code %}
       <div>
         <a href="{{ include.pub.code | replace: 'EPFL_NLP_URL!', site.url }}" class="btn btn-primary"><i class="fa fa-code" aria-hidden="true"></i> Code</a>
@@ -13,6 +18,11 @@
     {% if include.pub.dataset %}
       <div>
         <a href="{{include.pub.dataset | replace: 'EPFL_NLP_URL!', site.url }}" class="btn btn-primary"><i class="fa fa-database" aria-hidden="true"></i>Dataset</a>
+      </div>
+    {% endif %}
+    {% if include.pub.model %}
+      <div>
+        <a href="{{include.pub.model | replace: 'EPFL_NLP_URL!', site.url }}" class="btn btn-primary"><i class="fa fa-cubes" aria-hidden="true"></i>Model</a>
       </div>
     {% endif %}
     {% if include.pub.project %}

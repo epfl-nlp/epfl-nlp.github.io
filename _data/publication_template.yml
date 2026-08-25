@@ -8,10 +8,12 @@
 
   year: 
   journal: 
-  link: 
-  code: 
-  dataset: 
-  project: 
+  link:
+  arxiv:
+  code:
+  dataset:
+  model:
+  project:
   poster: 
   video: 
   demo: 
