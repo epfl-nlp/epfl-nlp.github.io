@@ -1,0 +1,33 @@
+name: Build
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    name: Jekyll build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Ruby 3.1 matches the era of the pinned Jekyll 4.2.2. Newer Rubies break
+      # the native extensions in eventmachine 1.2.7 / sassc 2.4.0.
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+
+      # Gemfile.lock is generated on macOS and lists only darwin platforms, so a
+      # plain `bundle install` refuses to run here. No gem in the lock has a
+      # platform-specific variant, so adding linux just builds them from source.
+      - name: Install dependencies
+        run: |
+          bundle lock --add-platform x86_64-linux
+          bundle install --jobs 4 --retry 3
+
+      - name: Build site
+        env:
+          JEKYLL_ENV: production
+        run: bundle exec jekyll build --trace
