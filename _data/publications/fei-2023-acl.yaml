@@ -14,6 +14,7 @@
 
   year: 2023
   journal: Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL)
-  link: https://arxiv.org/abs/2305.19148
+  link: https://aclanthology.org/2023.acl-long.783/
+  arxiv: https://arxiv.org/abs/2305.19148
   video: https://www.youtube.com/watch?v=mZTka2s3evo
   code: https://github.com/fywalter/label-bias

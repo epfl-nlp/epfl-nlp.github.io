@@ -16,6 +16,7 @@
 
   year: 2018
   journal: Proceedings of the 16th Annual Meeting of the North American Association for Computational Linguistics (NAACL)
-  link: https://arxiv.org/pdf/1805.03766.pdf
+  link: https://aclanthology.org/N18-1016/
+  arxiv: https://arxiv.org/pdf/1805.03766.pdf
   dataset: https://drive.google.com/file/d/1DPInlRPcCbXVUz8v6YITnOglrlipHshQ/view?usp=sharing
   poster: https://atcbosselut.github.io/publication/bosselut-2018-discourse-aware-nr/poster.pdf

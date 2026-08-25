@@ -18,5 +18,6 @@
 
   year: 2024
   journal: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL)
-  link: https://arxiv.org/abs/2402.17011
+  link: https://aclanthology.org/2024.acl-long.264/
+  arxiv: https://arxiv.org/abs/2402.17011
   code: https://github.com/Silin159/DiffuCOMET

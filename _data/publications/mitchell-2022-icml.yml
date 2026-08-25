@@ -14,7 +14,8 @@
 
   year: 2022
   journal: Proceedings of the 39th International Conference on Machine Learning (ICML)
-  link: https://arxiv.org/abs/2206.06520
-  code: https://sites.google.com/view/serac-editing
+  link: https://proceedings.mlr.press/v162/mitchell22a.html
+  arxiv: https://arxiv.org/abs/2206.06520
+  code: https://github.com/eric-mitchell/serac
   project: https://sites.google.com/view/serac-editing
   video: https://slideslive.com/38983687

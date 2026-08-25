@@ -21,6 +21,7 @@
 
   year: 2024
   journal: Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics
-  link: https://arxiv.org/abs/2304.01904
+  link: https://aclanthology.org/2024.eacl-long.67/
+  arxiv: https://arxiv.org/abs/2304.01904
   code: https://github.com/debjitpaul/refiner
   project: https://debjitpaul.github.io/refiner/

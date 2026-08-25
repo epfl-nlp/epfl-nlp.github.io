@@ -9,5 +9,6 @@
 
   year: 2025
   journal: Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP) - Findings
-  link: https://arxiv.org/abs/2510.25427
+  link: https://aclanthology.org/2025.findings-emnlp.581/
+  arxiv: https://arxiv.org/abs/2510.25427
   code: https://github.com/augustepoiroux/RLMEval

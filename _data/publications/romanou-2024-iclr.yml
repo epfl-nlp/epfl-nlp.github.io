@@ -38,7 +38,8 @@
       nlp-lab: true
   year: 2025
   journal: International Conference for Learning Representations (ICLR)
-  link: https://arxiv.org/abs/2411.19799
+  link: https://proceedings.iclr.cc/paper_files/paper/2025/hash/ced46a50befedcb884ccf0cbe8c3ad23-Abstract-Conference.html
+  arxiv: https://arxiv.org/abs/2411.19799
   code: 
   dataset: https://huggingface.co/datasets/CohereForAI/include-base-44
   project:

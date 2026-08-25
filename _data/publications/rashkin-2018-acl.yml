@@ -14,7 +14,8 @@
 
   year: 2018
   journal: Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL)
-  link: https://arxiv.org/pdf/1805.06533.pdf
+  link: https://aclanthology.org/P18-1213/
+  arxiv: https://arxiv.org/pdf/1805.06533.pdf
   code: https://github.com/atcbosselut/scs-baselines
   dataset: https://uwnlp.github.io/storycommonsense/data/storycommonsense_data.zip
   project: https://uwnlp.github.io/storycommonsense/

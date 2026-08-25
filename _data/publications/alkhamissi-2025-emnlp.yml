@@ -21,7 +21,8 @@
 
   year: 2025
   journal: Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)
-  link: https://arxiv.org/abs/2503.01830
+  link: https://aclanthology.org/2025.emnlp-main.1237/
+  arxiv: https://arxiv.org/abs/2503.01830
   code: 
   dataset: 
   project: https://language-to-cognition.epfl.ch

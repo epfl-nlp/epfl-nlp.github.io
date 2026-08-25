@@ -14,6 +14,7 @@
 
   year: 2024
   journal: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL)
-  link: https://arxiv.org/abs/2403.07398
+  link: https://aclanthology.org/2024.acl-long.613/
+  arxiv: https://arxiv.org/abs/2403.07398
   code: https://github.com/tqfang/complex-commonsense-reasoning
   dataset: https://huggingface.co/datasets/tqfang229/COM2-commonsense

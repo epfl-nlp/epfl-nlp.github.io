@@ -25,6 +25,7 @@
   year: 2026
   journal: Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL)
   award: SAC Highlight Award
-  link: https://arxiv.org/abs/2508.04796
+  link: https://aclanthology.org/2026.acl-long.342/
+  arxiv: https://arxiv.org/abs/2508.04796
   code: https://github.com/swiss-ai/parity-aware-bpe
 

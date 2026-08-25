@@ -22,4 +22,6 @@
   year: 2025
   journal: Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL)
   award: Outstanding Paper Award
-  link: https://arxiv.org/abs/2408.03618
+  link: https://aclanthology.org/2025.naacl-long.374/
+  arxiv: https://arxiv.org/abs/2408.03618
+  code: https://github.com/lucamouchel/Logical-Fallacies

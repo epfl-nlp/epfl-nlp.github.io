@@ -21,7 +21,8 @@
 
   year: 2026
   journal: International Conference for Learning Representations (ICLR)
-  link: https://arxiv.org/abs/2506.13331
+  link: https://proceedings.iclr.cc/paper_files/paper/2026/hash/1a596f504fc914cabfbfdd78da071930-Abstract-Conference.html
+  arxiv: https://arxiv.org/abs/2506.13331
   code: https://github.com/bkhmsi/mixture-of-cognitive-reasoners
   dataset: 
   project: https://cognitive-reasoners.epfl.ch

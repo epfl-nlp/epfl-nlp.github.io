@@ -16,7 +16,8 @@
 
   year: 2019
   journal: Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL)
-  link: http://arxiv.org/pdf/1906.05317.pdf
+  link: https://aclanthology.org/P19-1470/
+  arxiv: http://arxiv.org/pdf/1906.05317.pdf
   code: https://github.com/atcbosselut/comet-commonsense
   poster: https://atcbosselut.github.io/publication/bosselut-2019-cometct/poster.pdf
   video: https://www.youtube.com/watch?time_continue=2&v=HTE27VVwsNY
