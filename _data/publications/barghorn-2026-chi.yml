@@ -8,7 +8,8 @@
       nlp-lab: true
 
   year: 2026
-  journal: Proceedings of the 2026 Association for Computing Machinery Conference on Human Factors in Computing Systems (CHI)
+  journal: Proceedings of the 2026 ACM Conference on Human Factors in Computing Systems (CHI)
   paper: https://dl.acm.org/doi/10.1145/3772318.3791236
+  arxiv: https://arxiv.org/abs/2603.26679
   code: https://github.com/botafogo-EPFL/CaLlm_pub
   dataset: https://huggingface.co/collections/Jeremmmyyyyy/ai-meets-mathematics-education

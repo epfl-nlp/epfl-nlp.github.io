@@ -16,9 +16,9 @@
       nlp-lab: true
 
   year: 2022
-  journal: Findings of EMNLP
+  journal: Findings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)
   paper: https://aclanthology.org/2022.findings-emnlp.120/
   arxiv: https://arxiv.org/abs/2210.12678
   code: https://github.com/Silin159/ComFact
-  video: https://youtu.be/s-xBberp1B8
   dataset: https://huggingface.co/datasets/Silin1590/ComFact
+  video: https://youtu.be/s-xBberp1B8

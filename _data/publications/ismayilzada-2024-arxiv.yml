@@ -15,5 +15,6 @@
 
   year: 2024
   journal: arXiv preprint
-  paper: https://arxiv.org/abs/2410.17218
+  paper:
+  arxiv: https://arxiv.org/abs/2410.17218
   code: https://github.com/mismayil/creativity-in-AI

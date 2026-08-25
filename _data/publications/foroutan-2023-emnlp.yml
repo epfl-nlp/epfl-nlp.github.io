@@ -12,7 +12,7 @@
       nlp-lab: true
 
   year: 2023
-  journal: Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP) - Findings
+  journal: Findings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)
   paper: https://aclanthology.org/2023.findings-emnlp.632/
   arxiv: https://arxiv.org/abs/2310.15258
   code: https://github.com/negar-foroutan/multilingual-code-switched-reasoning

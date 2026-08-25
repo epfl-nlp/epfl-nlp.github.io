@@ -19,7 +19,7 @@
       name: Boi Faltings
 
   year: 2024
-  journal: Findings of the Association for Computational Linguistics
+  journal: Findings of the Association for Computational Linguistics (ACL)
   paper: https://aclanthology.org/2024.findings-acl.384/
   arxiv: https://arxiv.org/abs/2401.03183
   code: https://github.com/epfl-nlp/defeasibility-in-causality

@@ -23,7 +23,7 @@
       nlp-lab: false
 
   year: 2025
-  journal: Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP) - Findings
+  journal: Findings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)
   paper: https://aclanthology.org/2025.findings-emnlp.509/
   arxiv: https://arxiv.org/abs/2505.14442
   code: https://github.com/mismayil/creative-preference-optimization

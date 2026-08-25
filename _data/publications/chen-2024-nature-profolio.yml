@@ -65,5 +65,5 @@
   award: Stanford AI Index Report 2024 - Highlited Research for Science and Medicine, Spotlight Research blog by Meta AI
   paper: https://www.researchsquare.com/article/rs-4139743/v1
   code: https://github.com/epfLLM/meditron
-  dataset: https://huggingface.co/epfl-llm
+  dataset: https://huggingface.co/datasets/epfl-llm/guidelines
   project: https://ai.meta.com/blog/llama-2-3-meditron-yale-medicine-epfl-open-source-llm/

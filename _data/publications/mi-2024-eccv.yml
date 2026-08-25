@@ -19,9 +19,9 @@
       name: Devis Tuia
 
   year: 2024
-  journal: European Conference on Computer Vision (ECCV)
+  journal: Proceedings of the European Conference on Computer Vision (ECCV)
   paper: https://link.springer.com/chapter/10.1007/978-3-031-72630-9_13
-  arxiv: https://arxiv.org/pdf/2403.13965
+  arxiv: https://arxiv.org/abs/2403.13965
   code: https://github.com/eceo-epfl/ConGeo
   dataset:
   project: https://eceo-epfl.github.io/ConGeo/

@@ -20,6 +20,7 @@
 
   year: 2025
   journal: Conference on Language Modeling (COLM)
-  paper: https://arxiv.org/abs/2504.06219
+  paper: https://openreview.net/forum?id=a6QsOjr3wo
+  arxiv: https://arxiv.org/abs/2504.06219
   code: https://github.com/swiss-ai/robots-txt-compliance
   project: https://data-compliance.github.io/

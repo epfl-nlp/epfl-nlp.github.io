@@ -27,7 +27,8 @@
 
   year: 2026
   journal: Third Conference on Language Modeling (COLM)
-  paper: https://arxiv.org/abs/2604.03480
+  paper: https://openreview.net/forum?id=BrYuMKt23l
+  arxiv: https://arxiv.org/abs/2604.03480
   code: https://github.com/mismayil/llm-brain-creative-alignment
   dataset:
   project:

@@ -14,5 +14,6 @@
 
   year: 2021
   journal: Proceedings of the 3rd Conference on Automated Knowledge Base Construction (AKBC)
-  paper: https://arxiv.org/abs/2101.00297
+  paper: https://www.akbc.ws/2021/papers/StHCELh9PVE
+  arxiv: https://arxiv.org/abs/2101.00297
   code: https://github.com/allenai/few-shot-comet/
