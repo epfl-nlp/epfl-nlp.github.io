@@ -28,11 +28,9 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
-# Constrain `http_parser.rb` on JRuby builds. Kept at 0.8.x to match the
-# resolved version in Gemfile.lock -- the previous `~> 0.6.0` contradicted the
-# locked 0.8.0, which made the lockfile unsatisfiable and forced bundler to
-# re-resolve every dependency on every install.
-gem "http_parser.rb", "~> 0.8.0", :platforms => [:jruby]
+# Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds since newer versions of the gem
+# do not have a Java counterpart.
+gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "rexml", ">= 3.4.2"
 gem "webrick", "~> 1.8.2"
