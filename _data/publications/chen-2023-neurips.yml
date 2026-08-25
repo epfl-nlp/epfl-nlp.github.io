@@ -16,6 +16,6 @@
 
   year: 2023
   journal: Proceedings of the Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS)
-  link: https://proceedings.neurips.cc/paper_files/paper/2023/hash/c518f504ad5894ccb264a9890f0f5544-Abstract-Conference.html
+  paper: https://proceedings.neurips.cc/paper_files/paper/2023/hash/c518f504ad5894ccb264a9890f0f5544-Abstract-Conference.html
   arxiv: https://arxiv.org/abs/2305.06349
   code: https://github.com/eric11eca/reckoning-metakg

@@ -27,7 +27,7 @@
 
   year: 2023
   journal: Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)
-  link: https://aclanthology.org/2023.emnlp-main.299/
+  paper: https://aclanthology.org/2023.emnlp-main.299/
   arxiv: https://arxiv.org/abs/2310.14491
   code: https://github.com/yifan-h/MechanisticProbe
   dataset: https://huggingface.co/datasets/yyyyifan/MechanisticProbe_ProofWriter_ARC

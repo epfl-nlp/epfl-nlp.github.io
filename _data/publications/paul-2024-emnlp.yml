@@ -13,7 +13,7 @@
 
   year: 2024
   journal: Findings of EMNLP
-  link: https://aclanthology.org/2024.findings-emnlp.882/
+  paper: https://aclanthology.org/2024.findings-emnlp.882/
   arxiv: https://arxiv.org/abs/2402.13950
   code: https://github.com/debjitpaul/causal_CoT
   project: https://debjitpaul.github.io/reasoningmatter/

@@ -24,7 +24,7 @@
 
   year: 2024
   journal: arXiv preprint
-  link: https://arxiv.org/abs/2401.04536
+  paper: https://arxiv.org/abs/2401.04536
   code: https://github.com/epfl-dlab/LAMEN
   dataset: https://zenodo.org/records/10254697
   project: https://dlab.epfl.ch/2024-01-10-evaluating-language-model-agency/

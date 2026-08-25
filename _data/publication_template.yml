@@ -1,20 +1,18 @@
 - title: ""
   authors:
-    -
-      name: 
+    - name:
       nlp-lab: true
-    -
-      name: 
+    - name:
 
-  year: 
-  journal: 
-  link:
-  arxiv:
+  year:
+  journal:
+  paper: # Link to published paper, e.g.: ACL anthology
+  arxiv: # Link to paper on arXiv
   code:
   dataset:
   model:
   project:
-  poster: 
-  video: 
-  demo: 
-  slides: 
+  poster:
+  video:
+  demo:
+  slides:

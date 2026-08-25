@@ -27,7 +27,7 @@
 
   year: 2025
   journal: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
-  link: https://openaccess.thecvf.com/content/CVPR2025/html/Gao_VinaBench_Benchmark_for_Faithful_and_Consistent_Visual_Narratives_CVPR_2025_paper.html
+  paper: https://openaccess.thecvf.com/content/CVPR2025/html/Gao_VinaBench_Benchmark_for_Faithful_and_Consistent_Visual_Narratives_CVPR_2025_paper.html
   arxiv: https://arxiv.org/abs/2503.20871
   code: https://github.com/Silin159/VinaBench
   dataset: https://huggingface.co/datasets/Silin1590/VinaBench

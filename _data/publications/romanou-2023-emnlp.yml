@@ -21,7 +21,7 @@
 
   year: 2023
   journal: Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)
-  link: https://aclanthology.org/2023.emnlp-main.940/
+  paper: https://aclanthology.org/2023.emnlp-main.940/
   arxiv: https://arxiv.org/abs/2311.04284
   code: https://github.com/agromanou/CRAB/tree/master/src
   project: https://github.com/agromanou/CRAB

@@ -16,7 +16,7 @@
   year: 2026
   journal: International Conference for Learning Representations (ICLR)
   award: Huggingface Daily Papers
-  link: https://proceedings.iclr.cc/paper_files/paper/2026/hash/1179c561a4efc77fbfda76aa1addce33-Abstract-Conference.html
+  paper: https://proceedings.iclr.cc/paper_files/paper/2026/hash/1179c561a4efc77fbfda76aa1addce33-Abstract-Conference.html
   arxiv: https://arxiv.org/abs/2507.06415
   code: https://github.com/eric11eca/perk
   project: https://perk-long-context.web.app

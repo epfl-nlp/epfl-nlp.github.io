@@ -20,7 +20,7 @@
 
   year: 2024
   journal: European Conference on Computer Vision (ECCV)
-  link: https://link.springer.com/chapter/10.1007/978-3-031-72630-9_13
+  paper: https://link.springer.com/chapter/10.1007/978-3-031-72630-9_13
   arxiv: https://arxiv.org/pdf/2403.13965
   code: https://github.com/eceo-epfl/ConGeo
   dataset:

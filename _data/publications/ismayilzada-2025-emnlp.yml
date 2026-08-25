@@ -24,7 +24,7 @@
 
   year: 2025
   journal: Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP) - Findings
-  link: https://aclanthology.org/2025.findings-emnlp.509/
+  paper: https://aclanthology.org/2025.findings-emnlp.509/
   arxiv: https://arxiv.org/abs/2505.14442
   code: https://github.com/mismayil/creative-preference-optimization
   dataset: https://huggingface.co/collections/CNCL-Penn-State/crpo-67d0b11ff358430823dbb3df

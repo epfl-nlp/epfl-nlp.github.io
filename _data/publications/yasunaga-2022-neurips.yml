@@ -18,6 +18,6 @@
 
   year: 2022
   journal: Advances in Neural Information Processing Systems (NeurIPS)
-  link: https://proceedings.neurips.cc/paper_files/paper/2022/hash/f224f056694bcfe465c5d84579785761-Abstract-Conference.html
+  paper: https://proceedings.neurips.cc/paper_files/paper/2022/hash/f224f056694bcfe465c5d84579785761-Abstract-Conference.html
   arxiv: https://arxiv.org/abs/2210.09338
   code: https://github.com/michiyasunaga/dragon
