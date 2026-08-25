@@ -14,18 +14,25 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Ruby 3.1 is EOL and current gems have dropped it. Dependabot regenerates
-      # Gemfile.lock on Linux and pins current versions -- e.g. bumping
-      # addressable to 2.9.0 widens its ceiling and pulls public_suffix 7.x,
-      # which requires Ruby >= 3.2. Those PRs are unbuildable on anything older.
+      # 3.2 is the only version that works, pinned from both directions:
       #
-      # Note that Gemfile.lock is otherwise generated on macOS and lists only
-      # darwin platforms, so bundler re-resolves here rather than installing the
-      # locked versions. Regenerating the lockfile on Linux would fix that and
-      # let CI install exactly what is committed.
+      #   floor   -- public_suffix 7.x needs Ruby >= 3.2, and Dependabot pins it
+      #              (bumping addressable to 2.9.0 widens its ceiling to < 8.0),
+      #              so those PRs cannot build on 3.1.
+      #   ceiling -- Ruby 3.3 bundles logger 1.6, whose Logger#level reads a
+      #              Fiber-local @level_override. Jekyll 4.2.2's Stevenson
+      #              subclasses Logger without running its initializer, so that
+      #              ivar is nil and every build dies in adjust_verbosity.
+      #
+      # Upgrading Jekyll past 4.2.2 lifts the ceiling; until then, do not bump.
+      #
+      # Gemfile.lock is generated on macOS and lists only darwin platforms, so
+      # bundler re-resolves here rather than installing the locked versions.
+      # Regenerating the lockfile on Linux would let CI install what is
+      # committed, which would also make Dependabot PRs meaningful.
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.3"
+          ruby-version: "3.2"
 
       - name: Install dependencies
         run: bundle install --jobs 4 --retry 3
