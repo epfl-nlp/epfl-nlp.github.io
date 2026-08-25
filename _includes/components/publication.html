@@ -1,5 +1,6 @@
 <div>
-    <p>{% if include.pub.paper %}<a href="{{ include.pub.paper | replace: 'EPFL_NLP_URL!', site.url }}">{{include.pub.title}}</a>{% else %}{{include.pub.title}}{% endif %}.
+    {% assign title_url = include.pub.paper | default: include.pub.arxiv %}
+    <p>{% if title_url %}<a href="{{ title_url | replace: 'EPFL_NLP_URL!', site.url }}">{{include.pub.title}}</a>{% else %}{{include.pub.title}}{% endif %}.
       {% for a in include.pub.authors %}
         {% if a.nlp-lab %}<strong>{{a.name}}</strong>{% else %}{{a.name}}{% endif %}{% if forloop.last %} ({{include.pub.year}}).{% else %},{% endif %}
     {% endfor %}
