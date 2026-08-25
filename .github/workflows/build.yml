@@ -10,22 +10,32 @@ jobs:
   build:
     name: Jekyll build
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
 
-      # Ruby 3.1 matches the era of the pinned Jekyll 4.2.2. Newer Rubies break
-      # the native extensions in eventmachine 1.2.7 / sassc 2.4.0.
+      # 3.2 is the only version that works, pinned from both directions:
+      #
+      #   floor   -- public_suffix 7.x needs Ruby >= 3.2, and Dependabot pins it
+      #              (bumping addressable to 2.9.0 widens its ceiling to < 8.0),
+      #              so those PRs cannot build on 3.1.
+      #   ceiling -- Ruby 3.3 bundles logger 1.6, whose Logger#level reads a
+      #              Fiber-local @level_override. Jekyll 4.2.2's Stevenson
+      #              subclasses Logger without running its initializer, so that
+      #              ivar is nil and every build dies in adjust_verbosity.
+      #
+      # Upgrading Jekyll past 4.2.2 lifts the ceiling; until then, do not bump.
+      #
+      # Gemfile.lock is generated on macOS and lists only darwin platforms, so
+      # bundler re-resolves here rather than installing the locked versions.
+      # Regenerating the lockfile on Linux would let CI install what is
+      # committed, which would also make Dependabot PRs meaningful.
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1'
+          ruby-version: "3.2"
 
-      # Gemfile.lock is generated on macOS and lists only darwin platforms, so a
-      # plain `bundle install` refuses to run here. No gem in the lock has a
-      # platform-specific variant, so adding linux just builds them from source.
       - name: Install dependencies
-        run: |
-          bundle lock --add-platform x86_64-linux
-          bundle install --jobs 4 --retry 3
+        run: bundle install --jobs 4 --retry 3
 
       - name: Build site
         env:
