@@ -1,29 +1,23 @@
 - title: "ConVQG: Contrastive Visual Question Generation with Multimodal Guidance"
   authors:
-    -
-      name: Li Mi
+    - name: Li Mi
       nlp-lab: true
-    -
-      name: Syrielle Montariol
+    - name: Syrielle Montariol
       nlp-lab: true
-    -
-      name: Javiera Castillo-Navarro
-    -
-      name: Xianjie Dai
-    -
-      name: Antoine Bosselut
+    - name: Javiera Castillo-Navarro
+    - name: Xianjie Dai
+    - name: Antoine Bosselut
       nlp-lab: true
-    -
-      name: Devis Tuia
+    - name: Devis Tuia
 
   year: 2024
-  journal: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)
+  journal: Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI)
   paper: https://ojs.aaai.org/index.php/AAAI/article/view/28216
   arxiv: https://arxiv.org/abs/2402.12846
-  code: 
-  dataset: 
+  code:
+  dataset:
   project: https://limirs.github.io/ConVQG/
-  poster: 
+  poster:
   video: https://underline.io/lecture/93338-convqg-contrastive-visual-question-generation-with-multimodal-guidance
-  demo: 
+  demo:
   slides: https://underline.io/lecture/93338-convqg-contrastive-visual-question-generation-with-multimodal-guidance

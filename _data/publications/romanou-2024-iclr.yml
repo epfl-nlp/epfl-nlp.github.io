@@ -37,11 +37,11 @@
       name: Antoine Bosselut
       nlp-lab: true
   year: 2025
-  journal: International Conference on Learning Representations (ICLR)
+  journal: Proceedings of the 13th International Conference on Learning Representations (ICLR)
   paper: https://proceedings.iclr.cc/paper_files/paper/2025/hash/ced46a50befedcb884ccf0cbe8c3ad23-Abstract-Conference.html
   arxiv: https://arxiv.org/abs/2411.19799
   code: 
-  dataset: https://huggingface.co/datasets/CohereForAI/include-base-44
+  dataset: https://huggingface.co/datasets/CohereLabs/include-base-44
   project:
   poster:
   video:

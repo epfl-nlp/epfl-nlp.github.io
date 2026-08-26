@@ -110,12 +110,12 @@
       nlp-lab: false
 
   year: 2024
-  journal: Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI)
+  journal: Proceedings of the 2024 ACM Conference on Human Factors in Computing Systems (CHI)
   paper: https://dl.acm.org/doi/10.1145/3613904.3642697
   arxiv: https://arxiv.org/abs/2403.14117
   code: 
   dataset: 
-  project: 
+  project: https://writing-assistant.github.io/
   poster: 
   video: 
   demo: 

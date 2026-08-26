@@ -20,7 +20,7 @@
   paper: https://aclanthology.org/2024.nlp4hr-1.4/
   arxiv: https://arxiv.org/abs/2402.03242
   code: https://github.com/magantoine/JobSkape
-  dataset: 
+  dataset: https://huggingface.co/datasets/jjzha/skillskape
   project: 
   poster: 
   video: 

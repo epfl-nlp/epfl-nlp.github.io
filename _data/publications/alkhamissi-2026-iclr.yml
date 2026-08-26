@@ -20,7 +20,7 @@
       nlp-lab: true
 
   year: 2026
-  journal: International Conference on Learning Representations (ICLR)
+  journal: Proceedings of the 14th International Conference on Learning Representations (ICLR)
   paper: https://proceedings.iclr.cc/paper_files/paper/2026/hash/1a596f504fc914cabfbfdd78da071930-Abstract-Conference.html
   arxiv: https://arxiv.org/abs/2506.13331
   code: https://github.com/bkhmsi/mixture-of-cognitive-reasoners

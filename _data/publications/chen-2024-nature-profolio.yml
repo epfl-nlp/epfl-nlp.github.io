@@ -66,4 +66,5 @@
   paper: https://www.researchsquare.com/article/rs-4139743/v1
   code: https://github.com/epfLLM/meditron
   dataset: https://huggingface.co/datasets/epfl-llm/guidelines
+  model: https://huggingface.co/epfl-llm/meditron-70b
   project: https://ai.meta.com/blog/llama-2-3-meditron-yale-medicine-epfl-open-source-llm/

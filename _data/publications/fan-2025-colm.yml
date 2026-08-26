@@ -19,8 +19,9 @@
       name: Imanol Schlag†
 
   year: 2025
-  journal: Conference on Language Modeling (COLM)
+  journal: Second Conference on Language Modeling (COLM)
   paper: https://openreview.net/forum?id=a6QsOjr3wo
   arxiv: https://arxiv.org/abs/2504.06219
   code: https://github.com/swiss-ai/robots-txt-compliance
+  dataset: https://huggingface.co/collections/swiss-ai/robots-txt-688d64b8e78f8c16284cf2e2
   project: https://data-compliance.github.io/

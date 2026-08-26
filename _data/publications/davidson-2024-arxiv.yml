@@ -23,8 +23,8 @@
       nlp-lab: false
 
   year: 2024
-  journal: arXiv preprint
-  paper:
+  journal: Proceedings of the 12th International Conference on Learning Representations (ICLR)
+  paper: https://proceedings.iclr.cc/paper_files/paper/2024/hash/03876dc6875571c18b3b09a624c77e96-Abstract-Conference.html
   arxiv: https://arxiv.org/abs/2401.04536
   code: https://github.com/epfl-dlab/LAMEN
   dataset: https://zenodo.org/records/10254697
