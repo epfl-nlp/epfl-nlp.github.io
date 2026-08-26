@@ -1,35 +1,28 @@
 - title: "Evaluating language model agency through negotiations"
   authors:
-    -
-      name: Tim R Davidson
+    - name: Tim R Davidson
       nlp-lab: false
-    -
-      name: Veniamin Veselovsky
+    - name: Veniamin Veselovsky
       nlp-lab: false
-    -
-      name: Martin Josifoski
+    - name: Martin Josifoski
       nlp-lab: false
-    -
-      name: Maxime Peyrard
+    - name: Maxime Peyrard
       nlp-lab: false
-    -
-      name: Antoine Bosselut
+    - name: Antoine Bosselut
       nlp-lab: true
-    -
-      name: Michal Kosinski
+    - name: Michal Kosinski
       nlp-lab: false
-    -
-      name: Robert West
+    - name: Robert West
       nlp-lab: false
 
   year: 2024
-  journal: Proceedings of the 12th International Conference on Learning Representations (ICLR)
-  paper: https://proceedings.iclr.cc/paper_files/paper/2024/hash/03876dc6875571c18b3b09a624c77e96-Abstract-Conference.html
+  journal: arXiv Preprint
+  paper:
   arxiv: https://arxiv.org/abs/2401.04536
-  code: https://github.com/epfl-dlab/LAMEN
-  dataset: https://zenodo.org/records/10254697
-  project: https://dlab.epfl.ch/2024-01-10-evaluating-language-model-agency/
-  poster: 
-  video: 
-  demo: 
-  slides: 
+  code:
+  dataset:
+  project:
+  poster:
+  video:
+  demo:
+  slides:
