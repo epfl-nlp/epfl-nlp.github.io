@@ -29,6 +29,7 @@
       nlp-lab: false
 
   year: 2024
-  journal: chemrxiv preprint
-  link: https://chemrxiv.org/engage/chemrxiv/article-details/66772be25101a2ffa8412ee0
+  journal: ChemRxiv preprint
+  paper:
+  arxiv: https://chemrxiv.org/engage/chemrxiv/article-details/66772be25101a2ffa8412ee0
   

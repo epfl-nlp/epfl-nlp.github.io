@@ -14,6 +14,6 @@
       nlp-lab: true
 
   year: 2025
-  journal: The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)
-  link: https://openreview.net/forum?id=98NrkXPRZ9
+  journal: Advances in Neural Information Processing Systems (NeurIPS)
+  paper: https://proceedings.neurips.cc/paper_files/paper/2025/hash/96470fdfb3d938805b0b4f183ee3cee2-Abstract-Conference.html
   code: https://github.com/mdrpanwar/memorization-patterns

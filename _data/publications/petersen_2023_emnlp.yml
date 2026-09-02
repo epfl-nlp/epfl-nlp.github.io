@@ -10,5 +10,6 @@
 
   year: 2023
   journal: Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)
-  link: https://arxiv.org/abs/2310.05597
+  paper: https://aclanthology.org/2023.emnlp-main.1022/
+  arxiv: https://arxiv.org/abs/2310.05597
   code: https://github.com/idiap/analogy_learning

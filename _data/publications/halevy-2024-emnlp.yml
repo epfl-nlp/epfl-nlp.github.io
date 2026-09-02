@@ -18,6 +18,7 @@
 
   year: 2024
   journal: Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)
-  link: https://arxiv.org/abs/2403.00180
+  paper: https://aclanthology.org/2024.emnlp-main.494/
+  arxiv: https://arxiv.org/abs/2403.00180
   code: https://github.com/ENSCMA2/flextape
   

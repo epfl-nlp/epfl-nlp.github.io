@@ -13,7 +13,8 @@
       name: Christopher D. Manning
 
   year: 2022
-  journal: Proceedings of the 10th International Conference for Learning Representations (ICLR)
-  link: https://arxiv.org/abs/2110.11309
+  journal: Proceedings of the 10th International Conference on Learning Representations (ICLR)
+  paper: https://iclr.cc/virtual/2022/poster/6846
+  arxiv: https://arxiv.org/abs/2110.11309
   code: https://github.com/eric-mitchell/mend
   project: https://sites.google.com/view/mend-editing

@@ -11,4 +11,7 @@
 
   year: 2026
   journal: Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL)
-  link: https://aclanthology.org/2026.eacl-long.273
+  paper: https://aclanthology.org/2026.eacl-long.273
+  code: https://github.com/Wind-2375-like/track
+  dataset: https://huggingface.co/datasets/yiyangfengSBU/track
+  project: https://track-knowledge-propagation.github.io

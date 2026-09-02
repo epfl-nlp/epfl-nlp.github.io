@@ -18,7 +18,8 @@
 
   year: 2023
   journal: Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)
-  link: https://aclanthology.org/2023.emnlp-main.607/
+  paper: https://aclanthology.org/2023.emnlp-main.607/
+  arxiv: https://arxiv.org/abs/2310.15239
   code: https://github.com/mismayil/crow
-  project: https://www.mete.is/crow
   dataset: https://www.mete.is/crow/tasks
+  project: https://www.mete.is/crow

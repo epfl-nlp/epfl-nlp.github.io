@@ -25,5 +25,7 @@
 
   year: 2025
   journal: Proceedings of the 31st International Conference on Computational Linguistics (COLING)
-  link: https://arxiv.org/abs/2401.17464
+  paper: https://aclanthology.org/2025.coling-main.185/
+  arxiv: https://arxiv.org/abs/2401.17464
+  code: https://github.com/Silin159/CoA
   poster: https://github.com/Silin159/CoA/blob/main/CoA_Poster_COLING.pdf
