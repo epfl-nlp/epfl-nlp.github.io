@@ -1,0 +1,15 @@
+- title: "Lingua Franca or Probing Artifact? Rethinking Latent Language in Multilingual LLMs"
+  authors:
+    -
+      name: Deniz Bayazit
+      nlp-lab: true
+    -
+      name: Badr AlKhamissi
+      nlp-lab: true
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+  year: 2026
+  journal: "Findings of the Association for Computational Linguistics (EMNLP 2026)"
+  link: https://arxiv.org/abs/2609.00155
+  code: https://github.com/bayazitdeniz/latent-lid
