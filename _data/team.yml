@@ -13,7 +13,7 @@
   last_name: Romanou
   role: PhD student
   img: angelika_romanou.jpg
-  is_alumni: 
+  is_alumni: Yes
   website: https://agromanou.github.io/
   twitter: https://x.com/agromanou
   google_scholar: https://scholar.google.ch/citations?user=2gTrqa4AAAAJ&hl=en
@@ -520,7 +520,7 @@
   last_name: Wu
   role: Research intern
   img: haowu.jpg
-  is_alumni: 
+  is_alumni: Yes
   website: 
   twitter: 
   google_scholar: https://scholar.google.com/citations?user=18dzNuIAAAAJ&hl=en
