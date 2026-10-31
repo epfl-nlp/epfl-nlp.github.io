@@ -15,4 +15,7 @@
 
   year: 2025
   journal: Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)
-  link: https://arxiv.org/abs/2406.07222
+  paper: https://aclanthology.org/2025.emnlp-main.907/
+  arxiv: https://arxiv.org/abs/2406.07222
+  code: https://github.com/augustepoiroux/LeanInteract
+  dataset: https://huggingface.co/PAug

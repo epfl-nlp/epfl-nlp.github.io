@@ -1,10 +1,21 @@
 <div>
-    <p>{% if include.pub.link %}<a href="{{ include.pub.link | replace: 'EPFL_NLP_URL!', site.url }}">{{include.pub.title}}</a>{% else %}{{include.pub.title}}{% endif %}.
+    {% assign title_url = include.pub.paper | default: include.pub.arxiv %}
+    <p>{% if title_url %}<a href="{{ title_url | replace: 'EPFL_NLP_URL!', site.url }}">{{include.pub.title}}</a>{% else %}{{include.pub.title}}{% endif %}.
       {% for a in include.pub.authors %}
         {% if a.nlp-lab %}<strong>{{a.name}}</strong>{% else %}{{a.name}}{% endif %}{% if forloop.last %} ({{include.pub.year}}).{% else %},{% endif %}
     {% endfor %}
     {{include.pub.journal}}. {% if include.pub.note %}{{include.pub.note}}.{% endif %}</p>
     {% if include.pub.award %}<p class="award">{{include.pub.award}}.</p>{% endif %}
+    {% if include.pub.paper %}
+      <div>
+        <a href="{{ include.pub.paper | replace: 'EPFL_NLP_URL!', site.url }}" class="btn btn-primary"><i class="fa fa-book" aria-hidden="true"></i> Paper</a>
+      </div>
+    {% endif %}
+    {% if include.pub.arxiv %}
+      <div>
+        <a href="{{ include.pub.arxiv | replace: 'EPFL_NLP_URL!', site.url }}" class="btn btn-primary"><i class="fa fa-archive" aria-hidden="true"></i> arXiv</a>
+      </div>
+    {% endif %}
     {% if include.pub.code %}
       <div>
         <a href="{{ include.pub.code | replace: 'EPFL_NLP_URL!', site.url }}" class="btn btn-primary"><i class="fa fa-code" aria-hidden="true"></i> Code</a>
@@ -13,6 +24,11 @@
     {% if include.pub.dataset %}
       <div>
         <a href="{{include.pub.dataset | replace: 'EPFL_NLP_URL!', site.url }}" class="btn btn-primary"><i class="fa fa-database" aria-hidden="true"></i>Dataset</a>
+      </div>
+    {% endif %}
+    {% if include.pub.model %}
+      <div>
+        <a href="{{include.pub.model | replace: 'EPFL_NLP_URL!', site.url }}" class="btn btn-primary"><i class="fa fa-cog" aria-hidden="true"></i>Model</a>
       </div>
     {% endif %}
     {% if include.pub.project %}

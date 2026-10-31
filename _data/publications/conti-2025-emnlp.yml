@@ -21,6 +21,8 @@
 
   year: 2025
   journal: Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)
-  link: https://arxiv.org/abs/2505.24782
+  paper: https://aclanthology.org/2025.emnlp-main.1150/
+  arxiv: https://arxiv.org/abs/2505.24782
   code: https://github.com/illuin-tech/contextual-embeddings
+  dataset: https://huggingface.co/illuin-conteb
   

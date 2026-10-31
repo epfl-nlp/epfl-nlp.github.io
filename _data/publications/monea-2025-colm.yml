@@ -14,5 +14,7 @@
       nlp-lab: false
 
   year: 2025
-  journal: Conference On Language Modeling (COLM)
-  link: https://arxiv.org/abs/2410.05362
+  journal: Second Conference on Language Modeling (COLM)
+  paper: https://openreview.net/forum?id=c0RsezY2D1
+  arxiv: https://arxiv.org/abs/2410.05362
+  code: https://github.com/lil-lab/icrl

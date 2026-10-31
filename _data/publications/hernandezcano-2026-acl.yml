@@ -307,5 +307,8 @@
   year: 2026
   award: Featured in Financial Times, RTS, SRF 1, RSI LA 1, Le Temps, 24 Heures, NZZ, The Verge
   journal: Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL)
-  link: https://arxiv.org/abs/2509.14233
-  project: https://www.swiss-ai.org/apertus
+  paper: https://aclanthology.org/2026.acl-long.2172/
+  arxiv: https://arxiv.org/abs/2509.14233
+  code: https://github.com/swiss-ai/Megatron-LM
+  model: https://huggingface.co/collections/swiss-ai/apertus-v1-68b699e65415c231ace3b059
+  project: https://www.apertus-ai.org/

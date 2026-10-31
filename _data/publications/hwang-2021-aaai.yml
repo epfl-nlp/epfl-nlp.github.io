@@ -18,5 +18,6 @@
 
   year: 2021
   journal: Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI)
-  link: https://arxiv.org/abs/2010.05953
+  paper: https://ojs.aaai.org/index.php/AAAI/article/view/16792
+  arxiv: https://arxiv.org/abs/2010.05953
   code: https://github.com/allenai/comet-atomic-2020
