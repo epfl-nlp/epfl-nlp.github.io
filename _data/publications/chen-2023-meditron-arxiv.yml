@@ -49,7 +49,8 @@
   year: 2023
   journal: arXiv preprint
   award: Top ML Papers of the Week (by dair.ai), 1.3k GitHub ⭐
-  link: https://arxiv.org/abs/2311.16079
+  arxiv: https://arxiv.org/abs/2311.16079
   code: https://github.com/epfLLM/meditron
-  dataset: https://huggingface.co/epfl-llm
+  dataset: https://huggingface.co/datasets/epfl-llm/guidelines
+  model: https://huggingface.co/epfl-llm/meditron-70b
   video: https://youtu.be/37ZQI_-17TI

@@ -13,7 +13,8 @@
       name: Jure Leskovec
 
   year: 2021
-  journal: Proceedings of the 18th Meeting of the North American Association for Computational Linguistics (NAACL)
-  link: https://arxiv.org/abs/2104.06378
+  journal: Proceedings of the 18th Annual Meeting of the North American Chapter of the Association for Computational Linguistics (NAACL)
+  paper: https://aclanthology.org/2021.naacl-main.45/
+  arxiv: https://arxiv.org/abs/2104.06378
   code: https://github.com/michiyasunaga/qagnn
   project: http://snap.stanford.edu/qagnn/
