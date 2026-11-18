@@ -40,6 +40,15 @@
             {% endfor %}
             {% for member in sorted_team %}
                 {% unless member.is_alumni %}
+                    {% if member.role == 'Teaching Program Coordinator' %}
+                        {% include components/member.html
+                            member = member
+                        %}
+                    {% endif %}
+                {% endunless %}
+            {% endfor %}
+            {% for member in sorted_team %}
+                {% unless member.is_alumni %}
                     {% if member.role contains 'PhD student' %}
                         {% include components/member.html
                             member = member
