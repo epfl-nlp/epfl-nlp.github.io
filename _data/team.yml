@@ -537,3 +537,14 @@
   google_scholar: https://scholar.google.com/citations?user=quJhNH8AAAAJ&hl=en
   semantic_scholar:
   github: https://github.com/cimeister
+
+- first_name: Yan
+  last_name: Liu
+  role: Teaching Program Coordinator
+  img: yan_liu.jpg
+  is_alumni:
+  website: https://yanyan-liu.github.io/
+  twitter:
+  google_scholar:
+  semantic_scholar:
+  github:
