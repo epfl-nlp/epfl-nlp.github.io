@@ -15,7 +15,8 @@
 
   year: 2022
   journal: Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)
-  link: https://arxiv.org/abs/2205.12672
+  paper: https://aclanthology.org/2022.emnlp-main.513/
+  arxiv: https://arxiv.org/abs/2205.12672
+  code: https://github.com/negar-foroutan/multiLMs-lang-neutral-subnets
   poster: EPFL_NLP_URL!/resources/pdf/papers/foroutan-2022-emnlp-poster.pdf
   video: https://www.youtube.com/watch?v=_vv1VpOdbSg
-  code: https://github.com/negar-foroutan/multiLMs-lang-neutral-subnets
