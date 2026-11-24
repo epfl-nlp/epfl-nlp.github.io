@@ -1,35 +1,25 @@
 - title: "Large Language Models are Catalyzing Chemistry Education"
   authors:
-    -
-      name: Yuanqi Du
+    - name: Yuanqi Du
       nlp-lab: false
-    -
-      name: Chenru Duan
-      nlp-lab: false 
-    -
-      name: Andres Bran
-      nlp-lab: false  
-    -
-      name: Anna Sotnikova
-      nlp-lab: true  
-    -
-      name: Yi Qu
-      nlp-lab: false 
-    -
-      name: Heather Kulik 
-      nlp-lab: false 
-    -
-      name: Antoine Bosselut
+    - name: Chenru Duan
+      nlp-lab: false
+    - name: Andres Bran
+      nlp-lab: false
+    - name: Anna Sotnikova
       nlp-lab: true
-    -
-      name: Jinjia Xu
+    - name: Yi Qu
       nlp-lab: false
-    -
-      name: Philippe Schwaller
+    - name: Heather Kulik
+      nlp-lab: false
+    - name: Antoine Bosselut
+      nlp-lab: true
+    - name: Jinjia Xu
+      nlp-lab: false
+    - name: Philippe Schwaller
       nlp-lab: false
 
   year: 2024
   journal: ChemRxiv preprint
+  arxiv: https://chemrxiv.org/doi/full/10.26434/chemrxiv-2024-h722v
   paper:
-  arxiv: https://chemrxiv.org/engage/chemrxiv/article-details/66772be25101a2ffa8412ee0
-  
