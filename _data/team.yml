@@ -4,7 +4,7 @@
   img: alberto_munoz_ortiz.jpg
   is_alumni: Yes
   website: https://amunozo.github.io
-  twitter: 
+  twitter:
   google_scholar: https://scholar.google.com/citations?user=sS5dz4QAAAAJ&hl=en
   semantic_scholar: https://www.semanticscholar.org/author/Alberto-Mu%C3%B1oz-Ortiz/2123454646
   github: https://github.com/amunozo
@@ -20,77 +20,77 @@
   semantic_scholar:
   github: https://github.com/agromanou
 
-- first_name: Anne-Sandra 
+- first_name: Anne-Sandra
   last_name: Hofer
   role: Administration
   img: anne_sandra_hofer.jpg
-  is_alumni: 
-  website: 
-  twitter: 
-  google_scholar: 
+  is_alumni:
+  website:
+  twitter:
+  google_scholar:
   semantic_scholar:
-  github: 
+  github:
 
-- first_name: Antara 
+- first_name: Antara
   last_name: Bhattacharya
   role: Research intern
   img: antara_bhattacharya.jpg
   is_alumni: Yes
-  website: 
-  twitter: 
-  google_scholar: 
-  semantic_scholar: 
-  github: https://github.com/antara-raaghavi 
+  website:
+  twitter:
+  google_scholar:
+  semantic_scholar:
+  github: https://github.com/antara-raaghavi
 
 - first_name: Antoine
   last_name: Bosselut
   role: Assistant Professor, PI
   img: antoine_bosselut.jpg
-  is_alumni: 
+  is_alumni:
   website: https://atcbosselut.github.io/
   twitter: https://twitter.com/ABosselut
   google_scholar: https://scholar.google.com/citations?user=XD9hkJwAAAAJ
   semantic_scholar: https://www.semanticscholar.org/author/Antoine-Bosselut/2691021
   github: https://github.com/atcbosselut
 
-- first_name: Arina   
+- first_name: Arina
   last_name: Rak
   role: Master student
   img: na.jpg
   is_alumni: Yes
-  website: 
-  twitter: 
-  google_scholar: 
+  website:
+  twitter:
+  google_scholar:
   semantic_scholar:
-  github: 
+  github:
 
 - first_name: Auguste
   last_name: Poiroux
   role: PhD student
   img: auguste_poiroux.jpg
-  is_alumni: 
-  website: 
+  is_alumni:
+  website:
   twitter: https://x.com/augpoi
   google_scholar: https://scholar.google.com/citations?user=sOKwkF8AAAAJ&hl=en
   semantic_scholar: https://www.semanticscholar.org/author/Auguste-Poiroux/2305679963
   github: https://github.com/augustepoiroux
 
-- first_name: Aurelio  
+- first_name: Aurelio
   last_name: Noca
   role: Master student
   img: na.jpg
   is_alumni: Yes
-  website: 
-  twitter: 
-  google_scholar: 
+  website:
+  twitter:
+  google_scholar:
   semantic_scholar:
-  github: 
+  github:
 
 - first_name: Ayush
   last_name: Tarun
   role: PhD student
   img: ayush_tarun.jpg
-  is_alumni: 
+  is_alumni:
   website: https://ayushkumartarun.github.io
   twitter: https://x.com/The_Ayush_Tarun
   google_scholar: https://scholar.google.com/citations?user=QYJGgtsAAAAJ&hl=en
@@ -101,7 +101,7 @@
   last_name: Panwar
   role: PhD student
   img: madhur_panwar.jpg
-  is_alumni: 
+  is_alumni:
   website: https://mdrpanwar.github.io
   twitter: https://x.com/mdrpanwar
   google_scholar: https://scholar.google.com/citations?user=I7OVMTsAAAAJ&hl=en
@@ -113,11 +113,11 @@
   role: Master student
   img: na.jpg
   is_alumni: Yes
-  website: 
-  twitter: 
-  google_scholar: 
+  website:
+  twitter:
+  google_scholar:
   semantic_scholar:
-  github: 
+  github:
 
 - first_name: Beatriz
   last_name: Borges
@@ -145,7 +145,7 @@
   last_name: Bayazit
   role: PhD student
   img: deniz_bayazit.jpg
-  is_alumni: 
+  is_alumni:
   website: https://bayazitdeniz.github.io/
   twitter: https://twitter.com/denizbayazit
   google_scholar: https://scholar.google.com/citations?user=GzH9mVIAAAAJ&hl=en
@@ -157,21 +157,21 @@
   role: Master student
   img: na.jpg
   is_alumni: Yes
-  website: 
-  twitter: 
-  google_scholar: 
+  website:
+  twitter:
+  google_scholar:
   semantic_scholar:
-  github: 
+  github:
 
 - first_name: Fawzia
   last_name: Zeitoun
   role: Research intern
   img: fawzia_zeitoun.jpg
   is_alumni: Yes
-  website: 
-  twitter: 
-  google_scholar: 
-  semantic_scholar: 
+  website:
+  twitter:
+  google_scholar:
+  semantic_scholar:
   github: https://github.com/fawziazeitoun
 
 - first_name: Gail
@@ -185,39 +185,38 @@
   semantic_scholar: https://www.semanticscholar.org/author/Gail-Weiss/145909798
   github: https://github.com/gailweiss
 
-
 - first_name: Ghali
   last_name: Chraïbi
-  role: Master student 
+  role: Master student
   img: ghali_chraïbi.jpg
   is_alumni: Yes
-  website: 
-  twitter: 
-  google_scholar: 
+  website:
+  twitter:
+  google_scholar:
   semantic_scholar:
-  github: 
+  github:
 
-- first_name: Grace 
+- first_name: Grace
   last_name: Kim
   role: Research intern
   img: na.jpg
   is_alumni: Yes
-  website: 
-  twitter: 
-  google_scholar: 
+  website:
+  twitter:
+  google_scholar:
   semantic_scholar:
-  github: 
+  github:
 
 - first_name: Graciana
   last_name: Aad
   role: Master student
   img: graciana_aad.jpg
   is_alumni: Yes
-  website: 
-  twitter: 
-  google_scholar: 
+  website:
+  twitter:
+  google_scholar:
   semantic_scholar:
-  github: 
+  github:
 
 - first_name: Karina
   last_name: Halevy
@@ -225,7 +224,7 @@
   img: karina_halevy.jpg
   is_alumni: Yes
   website: https://enscma2.github.io/
-  twitter: 
+  twitter:
   google_scholar: https://scholar.google.com/citations?user=Fu8STTEAAAAJ&hl=en
   semantic_scholar: https://www.semanticscholar.org/author/Karina-Halevy/2106627578
   github: https://github.com/enscma2/
@@ -246,22 +245,22 @@
   role: Master student
   img: na.jpg
   is_alumni: Yes
-  website: 
-  twitter: 
-  google_scholar: 
+  website:
+  twitter:
+  google_scholar:
   semantic_scholar:
-  github: 
+  github:
 
 - first_name: Luka
   last_name: Radic
   role: Master student
   img: na.jpg
   is_alumni: Yes
-  website: 
-  twitter: 
-  google_scholar: 
+  website:
+  twitter:
+  google_scholar:
   semantic_scholar:
-  github: 
+  github:
 
 - first_name: Li
   last_name: Mi
@@ -269,19 +268,30 @@
   img: li_mi.jpg
   is_alumni: Yes
   website: https://limirs.github.io/
-  twitter: 
+  twitter:
   google_scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=PzX2_bsAAAAJ
   semantic_scholar: https://www.semanticscholar.org/author/Li-Mi/2057207589
-  github: 
+  github:
+
+- first_name: Liang
+  last_name: Chen
+  role: Postdoc
+  img: liang_chen.jpeg
+  is_alumni:
+  website: https://chanliang.github.io/
+  twitter:
+  google_scholar: https://scholar.google.com/citations?user=0iatxnIAAAAJ&hl=en
+  semantic_scholar:
+  github: https://github.com/ChanLiang
 
 - first_name: Nikita
   last_name: Andreev
   role: Research intern
   img: nikita_andreev.jpg
   is_alumni: Yes
-  website: 
-  twitter: 
-  google_scholar: 
+  website:
+  twitter:
+  google_scholar:
   semantic_scholar:
   github: https://github.com/nikich28
 
@@ -291,10 +301,10 @@
   img: anna_sotnikova.jpg
   is_alumni: Yes
   website: https://www.linkedin.com/in/aasotnikova/
-  twitter: 
+  twitter:
   google_scholar: https://scholar.google.com/citations?user=GQ9JFqEAAAAJ&hl=en
   semantic_scholar: https://www.semanticscholar.org/author/Anna-Sotnikova/2172271065
-  github: 
+  github:
 
 - first_name: Maksim
   last_name: Zubkov
@@ -302,7 +312,7 @@
   img: maksim_zubkov.jpg
   is_alumni: Yes
   website: https://www.linkedin.com/in/zubkovmd/
-  twitter: 
+  twitter:
   google_scholar: https://scholar.google.com/citations?hl=ru&user=C2lyAKAAAAAJ
   semantic_scholar:
   github: https://github.com/maximzubkov
@@ -311,29 +321,29 @@
   last_name: Grandury
   role: PhD student
   img: mariagrandury.jpg
-  is_alumni: 
+  is_alumni:
   website: https://mariagrandury.ai
   twitter: https://x.com/mariagrandury
   google_scholar: https://scholar.google.com/citations?user=3mc_-QsAAAAJ
   semantic_scholar: https://www.semanticscholar.org/author/Mar%C3%ADa-Grandury/2176184513
   github: https://github.com/mariagrandury
 
-- first_name: Maria 
+- first_name: Maria
   last_name: Ios Glarou
   role: Research intern
   img: maria_ios_glarou.jpg
   is_alumni: Yes
-  website: 
-  twitter: 
-  google_scholar: 
+  website:
+  twitter:
+  google_scholar:
   semantic_scholar:
-  github: 
+  github:
 
 - first_name: Mete
   last_name: Ismayilzada
   role: PhD student
   img: mete_ismayilzada.jpg
-  is_alumni: 
+  is_alumni:
   website: https://www.mete.is
   twitter: https://twitter.com/mismayilsoy
   google_scholar: https://scholar.google.com/citations?user=l88cHEQAAAAJ&hl=en
@@ -344,12 +354,12 @@
   last_name: Petersen
   role: PhD student
   img: molly_petersen.jpg
-  is_alumni: 
-  website: 
-  twitter: 
-  google_scholar: 
+  is_alumni:
+  website:
+  twitter:
+  google_scholar:
   semantic_scholar:
-  github: 
+  github:
 
 - first_name: Negar
   last_name: Foroutan Eghlidi
@@ -369,20 +379,20 @@
   is_alumni: Yes
   website: https://www.linkedin.com/in/cndesabbata/
   twitter: https://twitter.com/cndesabbata
-  google_scholar: 
+  google_scholar:
   semantic_scholar:
   github: https://github.com/cndesabbata
 
-- first_name: Rishika 
+- first_name: Rishika
   last_name: Bhagwatkar
   role: Research intern
   img: na.jpg
   is_alumni: Yes
-  website: 
-  twitter: 
-  google_scholar: 
+  website:
+  twitter:
+  google_scholar:
   semantic_scholar:
-  github: 
+  github:
 
 - first_name: Rodrigo
   last_name: Alvarez Lucendo
@@ -399,23 +409,23 @@
   last_name: Mamooler
   role: PhD student
   img: sepideh_mamooler.jpg
-  is_alumni: 
+  is_alumni:
   website: https://smamooler.github.io
   twitter: https://x.com/SMamooler
   google_scholar: https://scholar.google.com/citations?user=1CZ9ubIAAAAJ&hl=en
   semantic_scholar: https://www.semanticscholar.org/author/Sepideh-Mamooler/2122924160
   github: https://github.com/sMamooler
 
-- first_name: Sheryl 
+- first_name: Sheryl
   last_name: Mathew
   role: Research intern
   img: na.jpg
   is_alumni: Yes
-  website: 
-  twitter: 
-  google_scholar: 
+  website:
+  twitter:
+  google_scholar:
   semantic_scholar:
-  github: 
+  github:
 
 - first_name: Silin
   last_name: Gao
@@ -427,16 +437,16 @@
   google_scholar: https://scholar.google.com/citations?user=SXP4blIAAAAJ&hl=en&oi=ao
   semantic_scholar: https://www.semanticscholar.org/author/Silin-Gao/1492154932
   github: https://github.com/Silin159
-  
+
 - first_name: Spyridon
   last_name: Chalkias
   role: Research intern
   img: spiros_chalkias.jpg
   is_alumni: Yes
-  website: 
+  website:
   twitter: https://twitter.com/sp_chalkias
-  google_scholar: 
-  semantic_scholar: 
+  google_scholar:
+  semantic_scholar:
   github: https://github.com/spChalk
 
 - first_name: Syrielle
@@ -455,11 +465,11 @@
   role: Master student
   img: tim_poštuvan.jpg
   is_alumni: Yes
-  website: 
-  twitter: 
-  google_scholar: 
+  website:
+  twitter:
+  google_scholar:
   semantic_scholar:
-  github: 
+  github:
 
 - first_name: Tianqing
   last_name: Fang
@@ -477,17 +487,17 @@
   role: Research intern
   img: yu_fei.jpg
   is_alumni: Yes
-  website: 
-  twitter: 
-  google_scholar: 
+  website:
+  twitter:
+  google_scholar:
   semantic_scholar:
-  github: 
+  github:
 
 - first_name: Zeming
   last_name: Chen (Eric)
   role: PhD student
   img: zeming_chen_(eric).jpg
-  is_alumni: 
+  is_alumni:
   website: https://eric11eca.github.io/
   twitter: https://twitter.com/ZemingChen5
   google_scholar: https://scholar.google.com/citations?user=-gqyv8cAAAAJ&hl=en
@@ -498,7 +508,7 @@
   last_name: AlKhamissi
   role: PhD student
   img: badr_alkhamissi.jpg
-  is_alumni: 
+  is_alumni:
   website: https://bkhmsi.github.io
   twitter: https://twitter.com/bkhmsi
   google_scholar: https://scholar.google.com/citations?user=0l9UHtQAAAAJ&hl=en
@@ -521,8 +531,8 @@
   role: Research intern
   img: haowu.jpg
   is_alumni: Yes
-  website: 
-  twitter: 
+  website:
+  twitter:
   google_scholar: https://scholar.google.com/citations?user=18dzNuIAAAAJ&hl=en
   semantic_scholar:
   github: https://github.com/HAOTIAN89
