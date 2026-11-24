@@ -12,6 +12,6 @@
   journal: Proceedings of the 6th International Conference on Learning Representations (ICLR)
   paper: https://iclr.cc/virtual/2018/poster/85
   arxiv: https://arxiv.org/abs/1711.05313
-  dataset: https://drive.google.com/file/d/1mBE5LoWz6vGVHarzz8fWNZ9_9-hT51Bb/view?usp=sharing
-  poster: https://atcbosselut.github.io/publication/bosselut-2017-simulating-ad/poster.pdf
+  dataset:
+  poster: https://github.com/atcbosselut/atcbosselut.github.io/blob/496610d5faa3562c77e3b0b1e04887da5bbf8571/publication/bosselut-2017-simulating-ad/poster.pdf
   video: https://youtu.be/TsKZHpDXIEY?t=1087

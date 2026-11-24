@@ -2,7 +2,7 @@
   authors:
     - name: Antoine Bosselut
       nlp-lab: true
-    - name: Asli Çelikyilmaz
+    - name: Asli Celikyilmaz
     - name: Xiaodong He
     - name: Jianfeng Gao
     - name: Po-Sen Huang
@@ -12,5 +12,5 @@
   journal: Proceedings of the 16th Annual Meeting of the North American Chapter of the Association for Computational Linguistics (NAACL)
   paper: https://aclanthology.org/N18-1016/
   arxiv: https://arxiv.org/abs/1805.03766
-  dataset: https://drive.google.com/file/d/1DPInlRPcCbXVUz8v6YITnOglrlipHshQ/view?usp=sharing
-  poster: https://atcbosselut.github.io/publication/bosselut-2018-discourse-aware-nr/poster.pdf
+  dataset:
+  poster: https://github.com/atcbosselut/atcbosselut.github.io/blob/496610d5faa3562c77e3b0b1e04887da5bbf8571/publication/bosselut-2018-discourse-aware-nr/poster.pdf
