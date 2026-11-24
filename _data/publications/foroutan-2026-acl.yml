@@ -3,7 +3,7 @@
     - name: Negar Foroutan*
       nlp-lab: true
     - name: Clara Meister*
-      nlp-lab: false
+      nlp-lab: true
     - name: Debjit Paul
       nlp-lab: true
     - name: Joel Niklaus

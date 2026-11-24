@@ -1,4 +1,4 @@
-- title: "Evaluating language model agency through negotiations"
+- title: "Evaluating Language Model Agency through Negotiations"
   authors:
     - name: Tim R Davidson
       nlp-lab: false
@@ -16,7 +16,7 @@
       nlp-lab: false
 
   year: 2024
-  journal: arXiv Preprint
+  journal: arXiv preprint
   paper:
   arxiv: https://arxiv.org/abs/2401.04536
   code:

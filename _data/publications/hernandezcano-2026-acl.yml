@@ -1,307 +1,208 @@
 - title: "Apertus: Democratizing Open and Compliant LLMs for Global Language Environments"
   authors:
-    -
-      name: Alejandro Hernández-Cano
+    - name: Alejandro Hernández-Cano
       nlp-lab: false
-    -
-      name: Alexander Hägele
+    - name: Alexander Hägele
       nlp-lab: false
-    -
-      name: Allen Hao Huang
+    - name: Allen Hao Huang
       nlp-lab: false
-    -
-      name: Angelika Romanou
+    - name: Angelika Romanou
       nlp-lab: true
-    -
-      name: Antoni-Joan Solergibert
+    - name: Antoni-Joan Solergibert
       nlp-lab: false
-    -
-      name: Barna Pasztor
+    - name: Barna Pásztor
       nlp-lab: false
-    -
-      name: Bettina Messmer
+    - name: Bettina Messmer
       nlp-lab: false
-    -
-      name: Dhia Garbaya
+    - name: Dhia Garbaya
       nlp-lab: false
-    -
-      name: Eduard Frank Ďurech
+    - name: Eduard Frank Ďurech
       nlp-lab: false
-    -
-      name: Ido Hakimi
+    - name: Ido Hakimi
       nlp-lab: false
-    -
-      name: Juan García Giraldo
+    - name: Juan García Giraldo
       nlp-lab: false
-    -
-      name: Mete Ismayilzada
+    - name: Mete Ismayilzada
       nlp-lab: true
-    -
-      name: Negar Foroutan
+    - name: Negar Foroutan
       nlp-lab: true
-    -
-      name: Skander Moalla
+    - name: Skander Moalla
       nlp-lab: false
-    -
-      name: Tiancheng Chen
+    - name: Tiancheng Chen
       nlp-lab: false
-    -
-      name: Vinko Sabolčec
+    - name: Vinko Sabolčec
       nlp-lab: false
-    -
-      name: Yixuan Xu
+    - name: Yixuan Xu
       nlp-lab: false
-    -
-      name: Michael Aerni
+    - name: Michael Aerni
       nlp-lab: false
-    -
-      name: Badr AlKhamissi
+    - name: Badr AlKhamissi
       nlp-lab: true
-    -
-      name: Ines Altemir Marinas
+    - name: Inés Altemir Marinas
       nlp-lab: false
-    -
-      name: Mohammad Hossein Amani
+    - name: Mohammad Hossein Amani
       nlp-lab: false
-    -
-      name: Matin Ansaripour
+    - name: Matin Ansaripour
       nlp-lab: false
-    -
-      name: Ilia Badanin
+    - name: Ilia Badanin
       nlp-lab: false
-    -
-      name: Harold Benoit
+    - name: Harold Benoit
       nlp-lab: false
-    -
-      name: Emanuela Boros
+    - name: Emanuela Boros
       nlp-lab: false
-    -
-      name: Nicholas Browning
+    - name: Nicholas Browning
       nlp-lab: false
-    -
-      name: Fabian Bösch
+    - name: Fabian Bösch
       nlp-lab: false
-    -
-      name: Maximilian Böther
+    - name: Maximilian Böther
       nlp-lab: false
-    -
-      name: Niklas Canova
+    - name: Niklas Canova
       nlp-lab: false
-    -
-      name: Camille Challier
+    - name: Camille Challier
       nlp-lab: false
-    -
-      name: Clement Charmillot
+    - name: Clément Charmillot
       nlp-lab: false
-    -
-      name: Jonathan Coles
+    - name: Jonathan Coles
       nlp-lab: false
-    -
-      name: Jan Deriu
+    - name: Jan Deriu
       nlp-lab: false
-    -
-      name: Arnout Devos
+    - name: Arnout Devos
       nlp-lab: false
-    -
-      name: Lukas Drescher
+    - name: Lukas Drescher
       nlp-lab: false
-    -
-      name: Daniil Dzenhaliou
+    - name: Daniil Dzenhaliou
       nlp-lab: false
-    -
-      name: Maud Ehrmann
+    - name: Maud Ehrmann
       nlp-lab: false
-    -
-      name: Dongyang Fan
+    - name: Dongyang Fan
       nlp-lab: false
-    -
-      name: Simin Fan
+    - name: Simin Fan
       nlp-lab: false
-    -
-      name: Silin Gao
+    - name: Silin Gao
       nlp-lab: true
-    -
-      name: Miguel Gila
+    - name: Miguel Gila
       nlp-lab: false
-    -
-      name: María Grandury
+    - name: María Grandury
       nlp-lab: true
-    -
-      name: Diba Hashemi
+    - name: Diba Hashemi
       nlp-lab: false
-    -
-      name: Alexander Hoyle
+    - name: Alexander Hoyle
       nlp-lab: false
-    -
-      name: Jiaming Jiang
+    - name: Jiaming Jiang
       nlp-lab: false
-    -
-      name: Mark Klein
+    - name: Mark Klein
       nlp-lab: false
-    -
-      name: Andrei Kucharavy
+    - name: Andrei Kucharavy
       nlp-lab: false
-    -
-      name: Anastasiia Kucherenko
+    - name: Anastasiia Kucherenko
       nlp-lab: false
-    -
-      name: Frederike Lübeck
+    - name: Frederike Lübeck
       nlp-lab: false
-    -
-      name: Roman Machacek
+    - name: Roman Machacek
       nlp-lab: false
-    -
-      name: Theofilos Manitaras
+    - name: Theofilos Manitaras
       nlp-lab: false
-    -
-      name: Andreas Marfurt
+    - name: Andreas Marfurt
       nlp-lab: false
-    -
-      name: Kyle Matoba
+    - name: Kyle Matoba
       nlp-lab: false
-    -
-      name: Simon Matrenok
+    - name: Simon Matrenok
       nlp-lab: false
-    -
-      name: Henrique Mendoncça
+    - name: Henrique Mendonça
       nlp-lab: false
-    -
-      name: Fawzi Roberto Mohamed
+    - name: Fawzi Roberto Mohamed
       nlp-lab: false
-    -
-      name: Syrielle Montariol
+    - name: Syrielle Montariol
       nlp-lab: true
-    -
-      name: Luca Mouchel
+    - name: Luca Mouchel
       nlp-lab: false
-    -
-      name: Sven Najem-Meyer
+    - name: Sven Najem-Meyer
       nlp-lab: false
-    -
-      name: Jingwei Ni
+    - name: Jingwei Ni
       nlp-lab: false
-    -
-      name: Gennaro Oliva
+    - name: Gennaro Oliva
       nlp-lab: false
-    -
-      name: Matteo Pagliardini
+    - name: Matteo Pagliardini
       nlp-lab: false
-    -
-      name: Elia Palme
+    - name: Elia Palme
       nlp-lab: false
-    -
-      name: Andrei Panferov
+    - name: Andrei Panferov
       nlp-lab: false
-    -
-      name: Léo Paoletti
+    - name: Léo Paoletti
       nlp-lab: false
-    -
-      name: Marco Passerini
+    - name: Marco Passerini
       nlp-lab: false
-    -
-      name: Ivan Pavlov
+    - name: Ivan Pavlov
       nlp-lab: false
-    -
-      name: Auguste Poiroux
+    - name: Auguste Poiroux
       nlp-lab: true
-    -
-      name: Kaustubh Ponkshe
+    - name: Kaustubh Ponkshe
       nlp-lab: false
-    -
-      name: Nathan Ranchin
+    - name: Nathan Ranchin
       nlp-lab: false
-    -
-      name: Javi Rando
+    - name: Javi Rando
       nlp-lab: false
-    -
-      name: Mathieu Sauser
+    - name: Mathieu Sauser
       nlp-lab: false
-    -
-      name: Jakhongir Saydaliev
+    - name: Jakhongir Saydaliev
       nlp-lab: false
-    -
-      name: Muhammad Ali Sayfiddinov
+    - name: Muhammad Ali Sayfiddinov
       nlp-lab: false
-    -
-      name: Marian Schneider
+    - name: Marian Schneider
       nlp-lab: false
-    -
-      name: Stefano Schuppli
+    - name: Stefano Schuppli
       nlp-lab: false
-    -
-      name: Marco Scialanga
+    - name: Marco Scialanga
       nlp-lab: false
-    -
-      name: Andrei Semenov
+    - name: Andrei Semenov
       nlp-lab: false
-    -
-      name: Kumar Shridhar
+    - name: Kumar Shridhar
       nlp-lab: false
-    -
-      name: Raghav Singhal
+    - name: Raghav Singhal
       nlp-lab: false
-    -
-      name: Anna Sotnikova
+    - name: Anna Sotnikova
       nlp-lab: true
-    -
-      name: Alexander Sternfeld
+    - name: Alexander Sternfeld
       nlp-lab: false
-    -
-      name: Ayush Kumar Tarun
+    - name: Ayush Kumar Tarun
       nlp-lab: true
-    -
-      name: Paul Teiletche
+    - name: Paul Teiletche
       nlp-lab: false
-    -
-      name: Jannis Vamvas
+    - name: Jannis Vamvas
       nlp-lab: false
-    -
-      name: Xiaozhe Yao
+    - name: Xiaozhe Yao
       nlp-lab: false
-    -
-      name: Hao Zhao Alexander Ilic
-      nlp-lab: false
-    -
-      name: Ana Klimovic
-      nlp-lab: false
-    -
-      name: Andreas Krause
-      nlp-lab: false
-    -
-      name: Caglar Gulcehre
-      nlp-lab: false
-    -
-      name: David Rosenthal
-      nlp-lab: false
-    -
-      name: Elliott Ash
-      nlp-lab: false
-    -
-      name: Florian Tramèr
-      nlp-lab: false
-    -
-      name: Joost VandeVondele
-      nlp-lab: false
-    -
-      name: Livio Veraldi
-      nlp-lab: false
-    -
-      name: Martin Rajman
-      nlp-lab: false
-    -
-      name: Thomas Schulthess
-      nlp-lab: false
-    -
-      name: Torsten Hoefler
-      nlp-lab: false
-    -
-      name: Antoine Bosselut†
+    - name: Hao Zhao
       nlp-lab: true
-    -
-      name: Martin Jaggi†
+    - name: Alexander Ilic
       nlp-lab: false
-    -
-      name: Imanol Schlag†
+    - name: Ana Klimovic
+      nlp-lab: false
+    - name: Andreas Krause
+      nlp-lab: false
+    - name: Caglar Gulcehre
+      nlp-lab: false
+    - name: David Rosenthal
+      nlp-lab: false
+    - name: Elliott Ash
+      nlp-lab: false
+    - name: Florian Tramèr
+      nlp-lab: false
+    - name: Joost VandeVondele
+      nlp-lab: false
+    - name: Livio Veraldi
+      nlp-lab: false
+    - name: Martin Rajman
+      nlp-lab: false
+    - name: Thomas Schulthess
+      nlp-lab: false
+    - name: Torsten Hoefler
+      nlp-lab: false
+    - name: Antoine Bosselut†
+      nlp-lab: true
+    - name: Martin Jaggi†
+      nlp-lab: false
+    - name: Imanol Schlag†
       nlp-lab: false
 
   year: 2026

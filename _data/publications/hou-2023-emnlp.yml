@@ -8,7 +8,7 @@
       nlp-lab: false
     -
       name: Yu Fei
-      nlp-lab: false
+      nlp-lab: true
     -
       name: Alessandro Stolfo
       nlp-lab: false

@@ -2,7 +2,7 @@
   authors:
     -
       name: Karina Halevy
-      nlp-lab: false
+      nlp-lab: true
     -
       name: Anna Sotnikova
       nlp-lab: true

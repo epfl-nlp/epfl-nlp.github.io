@@ -32,7 +32,7 @@
 
   year: 2026
   journal: Proceedings of the 43rd International Conference on Machine Learning (ICML)
-  paper:
+  paper: https://proceedings.mlr.press/v306/gao26am.html
   arxiv: https://arxiv.org/abs/2607.04112
   code: https://github.com/Silin159/DynaVieW
   dataset: https://huggingface.co/datasets/Silin1590/DynaVieW-Pretrain-Data-10K-Videos
