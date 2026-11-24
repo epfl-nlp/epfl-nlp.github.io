@@ -1,0 +1,35 @@
+- title: "INCLUDE-2.0: Disentangling Knowledge Gaps in Multilingual LLM Evaluation"
+  authors:
+    - name: Angelika Romanou
+      nlp-lab: true
+    - name: María Grandury
+      nlp-lab: true
+    - name: Clara Meister
+      nlp-lab: true
+    - name: Negar Foroutan
+      nlp-lab: true
+    - name: Jabez Magomere
+      nlp-lab: false
+    - name: Anna Sotnikova
+      nlp-lab: true
+    - name: Orestis Papakyriakopoulos
+      nlp-lab: false
+    - name: Scott A. Hale
+      nlp-lab: false
+    - name: Shamsuddeen Hassan Muhammad
+      nlp-lab: false
+    - name: Antoine Bosselut
+      nlp-lab: true
+  year: 2026
+  journal: Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)
+  paper: https://aclanthology.org/2026.emnlp-main.1344/
+  arxiv:
+  code:
+  dataset: https://huggingface.co/datasets/epfl-nlp/include-2.0
+  model:
+  project:
+  poster:
+  video: https://underline.io/events/535/sessions/23675/lecture/162771-include-2-0-disentangling-knowledge-gaps-in-multilingual-llm-evaluation
+  demo:
+  slides:
+  award:
