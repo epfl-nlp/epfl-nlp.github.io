@@ -1,0 +1,24 @@
+- title: "Scaling Laws for Multimodal Data Mixtures"
+  authors:
+    -
+      name: Aditi Khandelwal*
+    -
+      name:  Ayush Kumar Tarun*
+      nlp-lab: true
+    -
+      name: Yixuan Xu
+    -
+      name: Imanol Schlag
+    -
+      name: Golnoosh Farnadi
+    -
+      name: Siva Reddy
+    -
+      name: Luke Zettlemoyer
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+
+  year: 2026
+  journal: Neural Information Processing Systems (NeurIPS)
+  link: https://arxiv.org/abs/2610.14423
