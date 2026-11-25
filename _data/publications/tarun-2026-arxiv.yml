@@ -1,0 +1,15 @@
+- title: "Overcoming Data Imbalances with Expert Selection Biases"
+  authors:
+    -
+      name:  Ayush Kumar Tarun
+      nlp-lab: true
+    -
+      name:  Clara Meister
+      nlp-lab: true
+    -
+      name: Antoine Bosselut
+      nlp-lab: true
+
+  year: 2026
+  journal: arXiv preprint
+  link: https://arxiv.org/abs/2610.13370
